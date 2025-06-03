@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/cfman/OneDrive/Desktop/WGUClasses/D602%20Deployment/Task%202/mlruns/432248717702142037/2719fee229dc453da44c0577150e027c/artifacts
+end_time: 1737157576869
+entry_point_name: ''
+experiment_id: '432248717702142037'
+lifecycle_stage: active
+run_id: 2719fee229dc453da44c0577150e027c
+run_name: awesome-shrike-981
+run_uuid: 2719fee229dc453da44c0577150e027c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737157564913
+status: 4
+tags: []
+user_id: cfman

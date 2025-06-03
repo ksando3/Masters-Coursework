@@ -1,0 +1,60 @@
+14:56:30 INFO Flight Departure Delays Polynomial Regression Model Log
+14:56:30 INFO Month and year of data: 6 2024
+14:56:32 INFO Airport one-hot encoding successful
+14:56:32 DEBUG Popen(['git', 'version'], cwd=C:\Users\cfman\OneDrive\Desktop\WGUClasses\D602 Deployment\Task 2\Steps, stdin=None, shell=False, universal_newlines=False)
+14:56:32 DEBUG Popen(['git', 'version'], cwd=C:\Users\cfman\OneDrive\Desktop\WGUClasses\D602 Deployment\Task 2\Steps, stdin=None, shell=False, universal_newlines=False)
+14:56:32 DEBUG Popen(['git', 'check-ignore', 'C:\\Users\\cfman\\anaconda3\\Lib\\site-packages'], cwd=C:\Users\cfman, stdin=None, shell=False, universal_newlines=False)
+14:56:32 INFO n=1 alpha=0.0 , MSE = 101.65
+14:56:32 INFO n=1 alpha=0.2 , MSE = 101.3
+14:56:32 INFO n=1 alpha=0.4 , MSE = 101.08
+14:56:32 INFO n=1 alpha=0.6 , MSE = 100.93
+14:56:32 INFO n=1 alpha=0.8 , MSE = 100.83
+14:56:32 INFO n=1 alpha=1.0 , MSE = 100.76
+14:56:32 INFO n=1 alpha=1.2 , MSE = 100.71
+14:56:32 INFO n=1 alpha=1.4 , MSE = 100.67
+14:56:32 INFO n=1 alpha=1.6 , MSE = 100.65
+14:56:32 INFO n=1 alpha=1.8 , MSE = 100.63
+14:56:32 INFO n=1 alpha=2.0 , MSE = 100.63
+14:56:33 INFO n=1 alpha=2.2 , MSE = 100.62
+14:56:33 INFO n=1 alpha=2.4 , MSE = 100.62
+14:56:33 INFO n=1 alpha=2.6 , MSE = 100.63
+14:56:33 INFO n=1 alpha=2.8 , MSE = 100.64
+14:56:33 INFO n=1 alpha=3.0 , MSE = 100.65
+14:56:33 INFO n=1 alpha=3.2 , MSE = 100.67
+14:56:33 INFO n=1 alpha=3.4 , MSE = 100.68
+14:56:33 INFO n=1 alpha=3.6 , MSE = 100.7
+14:56:33 INFO n=1 alpha=3.8 , MSE = 100.72
+14:56:33 INFO Training Data Final MSE = 100.72
+14:56:33 INFO Model training loop completed with 20 iterations
+14:56:33 INFO Export of airport one-hot encoding successful
+14:56:33 INFO Wrangling of test data successful
+14:56:33 INFO Test Data MSE = 110.1
+14:56:33 INFO Predictions using test data successful
+14:56:33 INFO Test Data average delay = 10.49 min
+14:56:33 INFO Final model export successful
+14:56:33 DEBUG Loaded backend module://matplotlib_inline.backend_inline version unknown.
+14:56:33 DEBUG Loaded backend module://matplotlib_inline.backend_inline version unknown.
+14:56:33 INFO Model performance plot export successful
+14:56:34 INFO n=1 alpha=0.0 , MSE = 110.21
+14:56:34 INFO n=1 alpha=0.2 , MSE = 110.08
+14:56:34 INFO n=1 alpha=0.4 , MSE = 110.01
+14:56:34 INFO n=1 alpha=0.6 , MSE = 109.97
+14:56:34 INFO n=1 alpha=0.8 , MSE = 109.96
+14:56:34 INFO n=1 alpha=1.0 , MSE = 109.96
+14:56:34 INFO n=1 alpha=1.2 , MSE = 109.97
+14:56:34 INFO n=1 alpha=1.4 , MSE = 109.97
+14:56:34 INFO n=1 alpha=1.6 , MSE = 109.98
+14:56:34 INFO n=1 alpha=1.8 , MSE = 110.0
+14:56:34 INFO n=1 alpha=2.0 , MSE = 110.01
+14:56:34 INFO n=1 alpha=2.2 , MSE = 110.02
+14:56:34 INFO n=1 alpha=2.4 , MSE = 110.03
+14:56:34 INFO n=1 alpha=2.6 , MSE = 110.04
+14:56:34 INFO n=1 alpha=2.8 , MSE = 110.05
+14:56:34 INFO n=1 alpha=3.0 , MSE = 110.06
+14:56:34 INFO n=1 alpha=3.2 , MSE = 110.07
+14:56:34 INFO n=1 alpha=3.4 , MSE = 110.08
+14:56:34 INFO n=1 alpha=3.6 , MSE = 110.09
+14:56:34 INFO n=1 alpha=3.8 , MSE = 110.1
+14:56:34 INFO Training Data Final MSE = 110.1
+14:56:35 INFO Model performance plot export successful
+14:56:35 INFO Model training loop completed with 20 iterations

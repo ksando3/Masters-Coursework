@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/cfman/OneDrive/Desktop/WGUClasses/D602%20Deployment/Task%202/mlruns/493426906295170197/918e4b2044a444a4ab40364556bdb296/artifacts
+end_time: 1737157822448
+entry_point_name: ''
+experiment_id: '493426906295170197'
+lifecycle_stage: active
+run_id: 918e4b2044a444a4ab40364556bdb296
+run_name: resilient-moth-290
+run_uuid: 918e4b2044a444a4ab40364556bdb296
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737157808383
+status: 4
+tags: []
+user_id: cfman

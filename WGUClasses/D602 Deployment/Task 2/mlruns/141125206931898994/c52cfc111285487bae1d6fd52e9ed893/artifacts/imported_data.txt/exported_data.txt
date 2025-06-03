@@ -1,0 +1,70 @@
+17:17:24 INFO Exporting Cleaned Data to CSV Log
+17:17:24 INFO Filtering to LAX successful.
+17:17:24 INFO Dropping NA values from Departure_Time and Arrival_Time successful.
+17:17:24 INFO Changing float columns without missing values to ints successful.
+17:17:24 INFO Calculated Arrival_Delay for index 191 
+17:17:24 INFO Calculated Arrival_Delay for index 193 
+17:17:24 INFO Calculated Arrival_Delay for index 621 
+17:17:24 INFO Calculated Arrival_Delay for index 1423 
+17:17:24 INFO Calculated Arrival_Delay for index 1702 
+17:17:24 INFO Calculated Arrival_Delay for index 1755 
+17:17:24 INFO Calculated Arrival_Delay for index 1918 
+17:17:24 INFO Calculated Arrival_Delay for index 1974 
+17:17:24 INFO Calculated Arrival_Delay for index 2241 
+17:17:24 INFO Calculated Arrival_Delay for index 2270 
+17:17:24 INFO Calculated Arrival_Delay for index 2348 
+17:17:24 INFO Calculated Arrival_Delay for index 2703 
+17:17:24 INFO Calculated Arrival_Delay for index 3010 
+17:17:24 INFO Calculated Arrival_Delay for index 3479 
+17:17:24 INFO Calculated Arrival_Delay for index 5161 
+17:17:24 INFO Calculated Arrival_Delay for index 5268 
+17:17:24 INFO Calculated Arrival_Delay for index 5543 
+17:17:24 INFO Calculated Arrival_Delay for index 5726 
+17:17:24 INFO Calculated Arrival_Delay for index 5727 
+17:17:24 INFO Calculated Arrival_Delay for index 5815 
+17:17:24 INFO Calculated Arrival_Delay for index 6366 
+17:17:24 INFO Calculated Arrival_Delay for index 7179 
+17:17:24 INFO Calculated Arrival_Delay for index 7281 
+17:17:24 INFO Calculated Arrival_Delay for index 7350 
+17:17:24 INFO Calculated Arrival_Delay for index 7755 
+17:17:24 INFO Calculated Arrival_Delay for index 7867 
+17:17:24 INFO Calculated Arrival_Delay for index 7868 
+17:17:24 INFO Calculated Arrival_Delay for index 7989 
+17:17:24 INFO Calculated Arrival_Delay for index 8611 
+17:17:24 INFO Calculated Arrival_Delay for index 9574 
+17:17:24 INFO Calculated Arrival_Delay for index 10908 
+17:17:24 INFO Calculated Arrival_Delay for index 11320 
+17:17:24 INFO Calculated Arrival_Delay for index 11677 
+17:17:24 INFO Calculated Arrival_Delay for index 11771 
+17:17:24 INFO Calculated Arrival_Delay for index 11900 
+17:17:24 INFO Calculated Arrival_Delay for index 11901 
+17:17:24 INFO Calculated Arrival_Delay for index 11966 
+17:17:24 INFO Calculated Arrival_Delay for index 11970 
+17:17:24 INFO Calculated Arrival_Delay for index 12018 
+17:17:24 INFO Calculated Arrival_Delay for index 12291 
+17:17:24 INFO Calculated Arrival_Delay for index 12434 
+17:17:24 INFO Calculated Arrival_Delay for index 12437 
+17:17:24 INFO Calculated Arrival_Delay for index 12439 
+17:17:24 INFO Calculated Arrival_Delay for index 12440 
+17:17:24 INFO Calculated Arrival_Delay for index 12441 
+17:17:24 INFO Calculated Arrival_Delay for index 12442 
+17:17:24 INFO Calculated Arrival_Delay for index 12588 
+17:17:24 INFO Calculated Arrival_Delay for index 12641 
+17:17:24 INFO Calculated Arrival_Delay for index 13190 
+17:17:24 INFO Calculated Arrival_Delay for index 13996 
+17:17:24 INFO Calculated Arrival_Delay for index 14044 
+17:17:24 INFO Calculated Arrival_Delay for index 14184 
+17:17:24 INFO Calculated Arrival_Delay for index 14186 
+17:17:24 INFO Calculated Arrival_Delay for index 14246 
+17:17:24 INFO Calculated Arrival_Delay for index 14757 
+17:17:24 INFO Calculated Arrival_Delay for index 15821 
+17:17:24 INFO Calculated Arrival_Delay for index 16272 
+17:17:24 INFO Calculated Arrival_Delay for index 16273 
+17:17:24 INFO Calculated Arrival_Delay for index 16353 
+17:17:24 INFO Calculated Arrival_Delay for index 16419 
+17:17:24 INFO Calculated Arrival_Delay for index 16516 
+17:17:24 DEBUG Loaded backend qtagg version 5.15.7.
+17:17:24 INFO Calculated Arrival Delay times imputed successfully.
+17:17:24 INFO Outliers dropped successfully.
+17:17:24 INFO Arrival Delay converted to int successfully.
+17:17:24 INFO Cleaned_data exported successfully.

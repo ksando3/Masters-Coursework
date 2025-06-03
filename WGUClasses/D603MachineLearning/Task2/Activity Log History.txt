@@ -1,0 +1,508 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+<title>D603 Machine Learning activity</title>
+<link href="https://gitlab.com/wgu-gitlab-environment/student-repos/ksando10/d603-machine-learning.atom?feed_token=glft-d6e15ffb31d3b43b520397e8f1c5db679badcb3c91b62e92d9286f764bf785da-25363606" rel="self" type="application/atom+xml"/>
+<link href="https://gitlab.com/wgu-gitlab-environment/student-repos/ksando10/d603-machine-learning" rel="alternate" type="text/html"/>
+<id>https://gitlab.com/wgu-gitlab-environment/student-repos/ksando10/d603-machine-learning</id>
+<updated>2025-02-20T01:28:35Z</updated>
+<entry>
+  <id>tag:gitlab.com,2025-02-20:4042058152</id>
+  <link href="https://gitlab.com/wgu-gitlab-environment/student-repos/ksando10/d603-machine-learning/-/commit/f7e0656d7763f172a66fc1fc5ee46c9665938fe4"/>
+  <title>Kevin Sandoval pushed to project branch Task2_PartE_Number1_Update1 at WGU GitLab Environment  / Student Repos / ksando10 / D603 Machine Learning</title>
+  <updated>2025-02-20T01:28:35Z</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/4e15695a69f2534a57960d26835d51df242684ea87fd59fbc999e10b97410aff?s=80&amp;d=identicon"/>
+  <author>
+    <username>ksando10</username>
+    <name>Kevin Sandoval</name>
+    <email/>
+  </author>
+  <summary type="xhtml">
+<div xmlns="http://www.w3.org/1999/xhtml">
+<p>
+<strong>Kevin Sandoval</strong>
+<a href="https://gitlab.com/wgu-gitlab-environment/student-repos/ksando10/d603-machine-learning/-/commit/f7e0656d7763f172a66fc1fc5ee46c9665938fe4">(f7e0656d)</a>
+<i>
+at
+20 Feb 01:28
+</i>
+</p>
+<div class="blockquote"><p dir="auto">Finished code file</p></div>
+</div>
+  </summary>
+</entry>
+<entry>
+  <id>tag:gitlab.com,2025-02-20:4042057721</id>
+  <link href="https://gitlab.com/wgu-gitlab-environment/student-repos/ksando10/d603-machine-learning/-/commit/a907485e4b57be6a44f80ebf6c3798eefd116a47"/>
+  <title>Kevin Sandoval pushed to project branch Task2_PartE_Number1_Update1 at WGU GitLab Environment  / Student Repos / ksando10 / D603 Machine Learning</title>
+  <updated>2025-02-20T01:28:15Z</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/4e15695a69f2534a57960d26835d51df242684ea87fd59fbc999e10b97410aff?s=80&amp;d=identicon"/>
+  <author>
+    <username>ksando10</username>
+    <name>Kevin Sandoval</name>
+    <email/>
+  </author>
+  <summary type="xhtml">
+<div xmlns="http://www.w3.org/1999/xhtml">
+<p>
+<strong>Kevin Sandoval</strong>
+<a href="https://gitlab.com/wgu-gitlab-environment/student-repos/ksando10/d603-machine-learning/-/commit/a907485e4b57be6a44f80ebf6c3798eefd116a47">(a907485e)</a>
+<i>
+at
+20 Feb 01:28
+</i>
+</p>
+<div class="blockquote"><p dir="auto">Word doc through PartE</p></div>
+</div>
+  </summary>
+</entry>
+<entry>
+  <id>tag:gitlab.com,2025-02-20:4042057127</id>
+  <link href="https://gitlab.com/wgu-gitlab-environment/student-repos/ksando10/d603-machine-learning/-/commits/Task2_PartE_Number1_Update1"/>
+  <title>Kevin Sandoval pushed new project branch Task2_PartE_Number1_Update1 at WGU GitLab Environment  / Student Repos / ksando10 / D603 Machine Learning</title>
+  <updated>2025-02-20T01:27:44Z</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/4e15695a69f2534a57960d26835d51df242684ea87fd59fbc999e10b97410aff?s=80&amp;d=identicon"/>
+  <author>
+    <username>ksando10</username>
+    <name>Kevin Sandoval</name>
+    <email/>
+  </author>
+  <summary type="xhtml">
+<div xmlns="http://www.w3.org/1999/xhtml">
+<p>
+<strong>Kevin Sandoval</strong>
+<a href="https://gitlab.com/wgu-gitlab-environment/student-repos/ksando10/d603-machine-learning/-/commits/Task2_PartE_Number1_Update1">(4ae22de7)</a>
+<i>
+at
+20 Feb 01:27
+</i>
+</p>
+<div class="blockquote"></div>
+</div>
+  </summary>
+</entry>
+<entry>
+  <id>tag:gitlab.com,2025-02-19:4041932540</id>
+  <link href="https://gitlab.com/wgu-gitlab-environment/student-repos/ksando10/d603-machine-learning/-/commit/c534187ccb2c701dabcd6d2ee3d6aec67608b212"/>
+  <title>Kevin Sandoval pushed to project branch Task2_PartD_Number4_Update1 at WGU GitLab Environment  / Student Repos / ksando10 / D603 Machine Learning</title>
+  <updated>2025-02-19T23:48:31Z</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/4e15695a69f2534a57960d26835d51df242684ea87fd59fbc999e10b97410aff?s=80&amp;d=identicon"/>
+  <author>
+    <username>ksando10</username>
+    <name>Kevin Sandoval</name>
+    <email/>
+  </author>
+  <summary type="xhtml">
+<div xmlns="http://www.w3.org/1999/xhtml">
+<p>
+<strong>Kevin Sandoval</strong>
+<a href="https://gitlab.com/wgu-gitlab-environment/student-repos/ksando10/d603-machine-learning/-/commit/c534187ccb2c701dabcd6d2ee3d6aec67608b212">(c534187c)</a>
+<i>
+at
+19 Feb 23:48
+</i>
+</p>
+<div class="blockquote"><p dir="auto">File of cleaned data</p></div>
+</div>
+  </summary>
+</entry>
+<entry>
+  <id>tag:gitlab.com,2025-02-19:4041931158</id>
+  <link href="https://gitlab.com/wgu-gitlab-environment/student-repos/ksando10/d603-machine-learning/-/commit/e20a98729c203916af29863db785a36d1c4be677"/>
+  <title>Kevin Sandoval pushed to project branch Task2_PartD_Number4_Update1 at WGU GitLab Environment  / Student Repos / ksando10 / D603 Machine Learning</title>
+  <updated>2025-02-19T23:47:03Z</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/4e15695a69f2534a57960d26835d51df242684ea87fd59fbc999e10b97410aff?s=80&amp;d=identicon"/>
+  <author>
+    <username>ksando10</username>
+    <name>Kevin Sandoval</name>
+    <email/>
+  </author>
+  <summary type="xhtml">
+<div xmlns="http://www.w3.org/1999/xhtml">
+<p>
+<strong>Kevin Sandoval</strong>
+<a href="https://gitlab.com/wgu-gitlab-environment/student-repos/ksando10/d603-machine-learning/-/commit/e20a98729c203916af29863db785a36d1c4be677">(e20a9872)</a>
+<i>
+at
+19 Feb 23:47
+</i>
+</p>
+<div class="blockquote"><p dir="auto">Code through Part D4</p></div>
+</div>
+  </summary>
+</entry>
+<entry>
+  <id>tag:gitlab.com,2025-02-19:4041930926</id>
+  <link href="https://gitlab.com/wgu-gitlab-environment/student-repos/ksando10/d603-machine-learning/-/commit/b45337d4ccc2b4e395e7a9e2ec437fe51fdafe69"/>
+  <title>Kevin Sandoval pushed to project branch Task2_PartD_Number4_Update1 at WGU GitLab Environment  / Student Repos / ksando10 / D603 Machine Learning</title>
+  <updated>2025-02-19T23:46:47Z</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/4e15695a69f2534a57960d26835d51df242684ea87fd59fbc999e10b97410aff?s=80&amp;d=identicon"/>
+  <author>
+    <username>ksando10</username>
+    <name>Kevin Sandoval</name>
+    <email/>
+  </author>
+  <summary type="xhtml">
+<div xmlns="http://www.w3.org/1999/xhtml">
+<p>
+<strong>Kevin Sandoval</strong>
+<a href="https://gitlab.com/wgu-gitlab-environment/student-repos/ksando10/d603-machine-learning/-/commit/b45337d4ccc2b4e395e7a9e2ec437fe51fdafe69">(b45337d4)</a>
+<i>
+at
+19 Feb 23:46
+</i>
+</p>
+<div class="blockquote"><p dir="auto">Word doc through Part D4</p></div>
+</div>
+  </summary>
+</entry>
+<entry>
+  <id>tag:gitlab.com,2025-02-19:4041930636</id>
+  <link href="https://gitlab.com/wgu-gitlab-environment/student-repos/ksando10/d603-machine-learning/-/commit/cb6a553a692123129029b0d3ba2f0edfa49a0d5e"/>
+  <title>Kevin Sandoval pushed to project branch Task2_PartD_Number4_Update1 at WGU GitLab Environment  / Student Repos / ksando10 / D603 Machine Learning</title>
+  <updated>2025-02-19T23:46:28Z</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/4e15695a69f2534a57960d26835d51df242684ea87fd59fbc999e10b97410aff?s=80&amp;d=identicon"/>
+  <author>
+    <username>ksando10</username>
+    <name>Kevin Sandoval</name>
+    <email/>
+  </author>
+  <summary type="xhtml">
+<div xmlns="http://www.w3.org/1999/xhtml">
+<p>
+<strong>Kevin Sandoval</strong>
+<a href="https://gitlab.com/wgu-gitlab-environment/student-repos/ksando10/d603-machine-learning/-/commit/cb6a553a692123129029b0d3ba2f0edfa49a0d5e">(cb6a553a)</a>
+<i>
+at
+19 Feb 23:46
+</i>
+</p>
+<div class="blockquote"><p dir="auto">Delete D603_Task_1_Write_Up.docx</p></div>
+</div>
+  </summary>
+</entry>
+<entry>
+  <id>tag:gitlab.com,2025-02-19:4041930599</id>
+  <link href="https://gitlab.com/wgu-gitlab-environment/student-repos/ksando10/d603-machine-learning/-/commit/aedec3a8a748cffd4a5beeed56bc8570203c827e"/>
+  <title>Kevin Sandoval pushed to project branch Task2_PartD_Number4_Update1 at WGU GitLab Environment  / Student Repos / ksando10 / D603 Machine Learning</title>
+  <updated>2025-02-19T23:46:26Z</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/4e15695a69f2534a57960d26835d51df242684ea87fd59fbc999e10b97410aff?s=80&amp;d=identicon"/>
+  <author>
+    <username>ksando10</username>
+    <name>Kevin Sandoval</name>
+    <email/>
+  </author>
+  <summary type="xhtml">
+<div xmlns="http://www.w3.org/1999/xhtml">
+<p>
+<strong>Kevin Sandoval</strong>
+<a href="https://gitlab.com/wgu-gitlab-environment/student-repos/ksando10/d603-machine-learning/-/commit/aedec3a8a748cffd4a5beeed56bc8570203c827e">(aedec3a8)</a>
+<i>
+at
+19 Feb 23:46
+</i>
+</p>
+<div class="blockquote"><p dir="auto">Delete D603_Performance_Assessment_Task_1_Random_Forests.ipynb</p></div>
+</div>
+  </summary>
+</entry>
+<entry>
+  <id>tag:gitlab.com,2025-02-19:4041930471</id>
+  <link href="https://gitlab.com/wgu-gitlab-environment/student-repos/ksando10/d603-machine-learning/-/commit/cd63fe7f85d6aa85fcb99bd374fef4db51631f94"/>
+  <title>Kevin Sandoval pushed to project branch Task2_PartD_Number4_Update1 at WGU GitLab Environment  / Student Repos / ksando10 / D603 Machine Learning</title>
+  <updated>2025-02-19T23:46:18Z</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/4e15695a69f2534a57960d26835d51df242684ea87fd59fbc999e10b97410aff?s=80&amp;d=identicon"/>
+  <author>
+    <username>ksando10</username>
+    <name>Kevin Sandoval</name>
+    <email/>
+  </author>
+  <summary type="xhtml">
+<div xmlns="http://www.w3.org/1999/xhtml">
+<p>
+<strong>Kevin Sandoval</strong>
+<a href="https://gitlab.com/wgu-gitlab-environment/student-repos/ksando10/d603-machine-learning/-/commit/cd63fe7f85d6aa85fcb99bd374fef4db51631f94">(cd63fe7f)</a>
+<i>
+at
+19 Feb 23:46
+</i>
+</p>
+<div class="blockquote"><p dir="auto">Delete churn_data_RF.csv</p></div>
+</div>
+  </summary>
+</entry>
+<entry>
+  <id>tag:gitlab.com,2025-02-19:4041929709</id>
+  <link href="https://gitlab.com/wgu-gitlab-environment/student-repos/ksando10/d603-machine-learning/-/commit/a291f9d4c0f9f125cbc62b398d426c752e504831"/>
+  <title>Kevin Sandoval pushed to project branch Task2_PartD_Number3_Update1 at WGU GitLab Environment  / Student Repos / ksando10 / D603 Machine Learning</title>
+  <updated>2025-02-19T23:45:30Z</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/4e15695a69f2534a57960d26835d51df242684ea87fd59fbc999e10b97410aff?s=80&amp;d=identicon"/>
+  <author>
+    <username>ksando10</username>
+    <name>Kevin Sandoval</name>
+    <email/>
+  </author>
+  <summary type="xhtml">
+<div xmlns="http://www.w3.org/1999/xhtml">
+<p>
+<strong>Kevin Sandoval</strong>
+<a href="https://gitlab.com/wgu-gitlab-environment/student-repos/ksando10/d603-machine-learning/-/commit/a291f9d4c0f9f125cbc62b398d426c752e504831">(a291f9d4)</a>
+<i>
+at
+19 Feb 23:45
+</i>
+</p>
+<div class="blockquote"><p dir="auto">Code through part D3</p></div>
+</div>
+  </summary>
+</entry>
+<entry>
+  <id>tag:gitlab.com,2025-02-19:4041929439</id>
+  <link href="https://gitlab.com/wgu-gitlab-environment/student-repos/ksando10/d603-machine-learning/-/commit/974466e889b907b3e095c0fd72615f1ec78d182e"/>
+  <title>Kevin Sandoval pushed to project branch Task2_PartD_Number3_Update1 at WGU GitLab Environment  / Student Repos / ksando10 / D603 Machine Learning</title>
+  <updated>2025-02-19T23:45:14Z</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/4e15695a69f2534a57960d26835d51df242684ea87fd59fbc999e10b97410aff?s=80&amp;d=identicon"/>
+  <author>
+    <username>ksando10</username>
+    <name>Kevin Sandoval</name>
+    <email/>
+  </author>
+  <summary type="xhtml">
+<div xmlns="http://www.w3.org/1999/xhtml">
+<p>
+<strong>Kevin Sandoval</strong>
+<a href="https://gitlab.com/wgu-gitlab-environment/student-repos/ksando10/d603-machine-learning/-/commit/974466e889b907b3e095c0fd72615f1ec78d182e">(974466e8)</a>
+<i>
+at
+19 Feb 23:45
+</i>
+</p>
+<div class="blockquote"><p dir="auto">Word Doc through Part D3</p></div>
+</div>
+  </summary>
+</entry>
+<entry>
+  <id>tag:gitlab.com,2025-02-19:4041929165</id>
+  <link href="https://gitlab.com/wgu-gitlab-environment/student-repos/ksando10/d603-machine-learning/-/commit/da38f7769ad1843f62e9f5198300981eaa2a70ac"/>
+  <title>Kevin Sandoval pushed to project branch Task2_PartD_Number3_Update1 at WGU GitLab Environment  / Student Repos / ksando10 / D603 Machine Learning</title>
+  <updated>2025-02-19T23:44:59Z</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/4e15695a69f2534a57960d26835d51df242684ea87fd59fbc999e10b97410aff?s=80&amp;d=identicon"/>
+  <author>
+    <username>ksando10</username>
+    <name>Kevin Sandoval</name>
+    <email/>
+  </author>
+  <summary type="xhtml">
+<div xmlns="http://www.w3.org/1999/xhtml">
+<p>
+<strong>Kevin Sandoval</strong>
+<a href="https://gitlab.com/wgu-gitlab-environment/student-repos/ksando10/d603-machine-learning/-/commit/da38f7769ad1843f62e9f5198300981eaa2a70ac">(da38f776)</a>
+<i>
+at
+19 Feb 23:44
+</i>
+</p>
+<div class="blockquote"><p dir="auto">Delete D603_Task_1_Write_Up.docx</p></div>
+</div>
+  </summary>
+</entry>
+<entry>
+  <id>tag:gitlab.com,2025-02-19:4041929097</id>
+  <link href="https://gitlab.com/wgu-gitlab-environment/student-repos/ksando10/d603-machine-learning/-/commit/f4de5a79a6b777175e0234d8d668632cbd85d385"/>
+  <title>Kevin Sandoval pushed to project branch Task2_PartD_Number3_Update1 at WGU GitLab Environment  / Student Repos / ksando10 / D603 Machine Learning</title>
+  <updated>2025-02-19T23:44:54Z</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/4e15695a69f2534a57960d26835d51df242684ea87fd59fbc999e10b97410aff?s=80&amp;d=identicon"/>
+  <author>
+    <username>ksando10</username>
+    <name>Kevin Sandoval</name>
+    <email/>
+  </author>
+  <summary type="xhtml">
+<div xmlns="http://www.w3.org/1999/xhtml">
+<p>
+<strong>Kevin Sandoval</strong>
+<a href="https://gitlab.com/wgu-gitlab-environment/student-repos/ksando10/d603-machine-learning/-/commit/f4de5a79a6b777175e0234d8d668632cbd85d385">(f4de5a79)</a>
+<i>
+at
+19 Feb 23:44
+</i>
+</p>
+<div class="blockquote"><p dir="auto">Delete D603_Performance_Assessment_Task_1_Random_Forests.ipynb</p></div>
+</div>
+  </summary>
+</entry>
+<entry>
+  <id>tag:gitlab.com,2025-02-19:4041870099</id>
+  <link href="https://gitlab.com/wgu-gitlab-environment/student-repos/ksando10/d603-machine-learning/-/commit/bffd1bf53f8362bdb94ecb145d7bb76d9f720eb5"/>
+  <title>Kevin Sandoval pushed to project branch Task2_PartD_Number2_Update1 at WGU GitLab Environment  / Student Repos / ksando10 / D603 Machine Learning</title>
+  <updated>2025-02-19T22:56:58Z</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/4e15695a69f2534a57960d26835d51df242684ea87fd59fbc999e10b97410aff?s=80&amp;d=identicon"/>
+  <author>
+    <username>ksando10</username>
+    <name>Kevin Sandoval</name>
+    <email/>
+  </author>
+  <summary type="xhtml">
+<div xmlns="http://www.w3.org/1999/xhtml">
+<p>
+<strong>Kevin Sandoval</strong>
+<a href="https://gitlab.com/wgu-gitlab-environment/student-repos/ksando10/d603-machine-learning/-/commit/bffd1bf53f8362bdb94ecb145d7bb76d9f720eb5">(bffd1bf5)</a>
+<i>
+at
+19 Feb 22:56
+</i>
+</p>
+<div class="blockquote"><p dir="auto">Code through Part D2</p></div>
+</div>
+  </summary>
+</entry>
+<entry>
+  <id>tag:gitlab.com,2025-02-19:4041869720</id>
+  <link href="https://gitlab.com/wgu-gitlab-environment/student-repos/ksando10/d603-machine-learning/-/commit/2de069e3e05c88ab208a46d71445ab265100eda0"/>
+  <title>Kevin Sandoval pushed to project branch Task2_PartD_Number2_Update1 at WGU GitLab Environment  / Student Repos / ksando10 / D603 Machine Learning</title>
+  <updated>2025-02-19T22:56:39Z</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/4e15695a69f2534a57960d26835d51df242684ea87fd59fbc999e10b97410aff?s=80&amp;d=identicon"/>
+  <author>
+    <username>ksando10</username>
+    <name>Kevin Sandoval</name>
+    <email/>
+  </author>
+  <summary type="xhtml">
+<div xmlns="http://www.w3.org/1999/xhtml">
+<p>
+<strong>Kevin Sandoval</strong>
+<a href="https://gitlab.com/wgu-gitlab-environment/student-repos/ksando10/d603-machine-learning/-/commit/2de069e3e05c88ab208a46d71445ab265100eda0">(2de069e3)</a>
+<i>
+at
+19 Feb 22:56
+</i>
+</p>
+<div class="blockquote"><p dir="auto">Delete D603_Performance_Assessment_Task_1_Random_Forests.ipynb</p></div>
+</div>
+  </summary>
+</entry>
+<entry>
+  <id>tag:gitlab.com,2025-02-19:4041861919</id>
+  <link href="https://gitlab.com/wgu-gitlab-environment/student-repos/ksando10/d603-machine-learning/-/commit/250241606698a0de74fde25e95cce1f5c105ea47"/>
+  <title>Kevin Sandoval pushed to project branch Task2_PartD_Number1_Update1 at WGU GitLab Environment  / Student Repos / ksando10 / D603 Machine Learning</title>
+  <updated>2025-02-19T22:51:24Z</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/4e15695a69f2534a57960d26835d51df242684ea87fd59fbc999e10b97410aff?s=80&amp;d=identicon"/>
+  <author>
+    <username>ksando10</username>
+    <name>Kevin Sandoval</name>
+    <email/>
+  </author>
+  <summary type="xhtml">
+<div xmlns="http://www.w3.org/1999/xhtml">
+<p>
+<strong>Kevin Sandoval</strong>
+<a href="https://gitlab.com/wgu-gitlab-environment/student-repos/ksando10/d603-machine-learning/-/commit/250241606698a0de74fde25e95cce1f5c105ea47">(25024160)</a>
+<i>
+at
+19 Feb 22:51
+</i>
+</p>
+<div class="blockquote"><p dir="auto">Code through PartD1</p></div>
+</div>
+  </summary>
+</entry>
+<entry>
+  <id>tag:gitlab.com,2025-02-19:4041861474</id>
+  <link href="https://gitlab.com/wgu-gitlab-environment/student-repos/ksando10/d603-machine-learning/-/commit/b13017fafcbd3a48c064defaf7f5f9917ec84453"/>
+  <title>Kevin Sandoval pushed to project branch Task2_PartD_Number1_Update1 at WGU GitLab Environment  / Student Repos / ksando10 / D603 Machine Learning</title>
+  <updated>2025-02-19T22:51:06Z</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/4e15695a69f2534a57960d26835d51df242684ea87fd59fbc999e10b97410aff?s=80&amp;d=identicon"/>
+  <author>
+    <username>ksando10</username>
+    <name>Kevin Sandoval</name>
+    <email/>
+  </author>
+  <summary type="xhtml">
+<div xmlns="http://www.w3.org/1999/xhtml">
+<p>
+<strong>Kevin Sandoval</strong>
+<a href="https://gitlab.com/wgu-gitlab-environment/student-repos/ksando10/d603-machine-learning/-/commit/b13017fafcbd3a48c064defaf7f5f9917ec84453">(b13017fa)</a>
+<i>
+at
+19 Feb 22:51
+</i>
+</p>
+<div class="blockquote"><p dir="auto">Delete D603_Performance_Assessment_Task_1_Random_Forests.ipynb</p></div>
+</div>
+  </summary>
+</entry>
+<entry>
+  <id>tag:gitlab.com,2025-02-19:4041831853</id>
+  <link href="https://gitlab.com/wgu-gitlab-environment/student-repos/ksando10/d603-machine-learning/-/commit/d017268ed7754f10d2db7f217cde3ff2d006b9bc"/>
+  <title>Kevin Sandoval pushed to project branch Task2_PartD_Number2_Update1 at WGU GitLab Environment  / Student Repos / ksando10 / D603 Machine Learning</title>
+  <updated>2025-02-19T22:31:24Z</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/4e15695a69f2534a57960d26835d51df242684ea87fd59fbc999e10b97410aff?s=80&amp;d=identicon"/>
+  <author>
+    <username>ksando10</username>
+    <name>Kevin Sandoval</name>
+    <email/>
+  </author>
+  <summary type="xhtml">
+<div xmlns="http://www.w3.org/1999/xhtml">
+<p>
+<strong>Kevin Sandoval</strong>
+<a href="https://gitlab.com/wgu-gitlab-environment/student-repos/ksando10/d603-machine-learning/-/commit/d017268ed7754f10d2db7f217cde3ff2d006b9bc">(d017268e)</a>
+<i>
+at
+19 Feb 22:31
+</i>
+</p>
+<div class="blockquote"><p dir="auto">Word doc up through PartD2</p></div>
+</div>
+  </summary>
+</entry>
+<entry>
+  <id>tag:gitlab.com,2025-02-19:4041831351</id>
+  <link href="https://gitlab.com/wgu-gitlab-environment/student-repos/ksando10/d603-machine-learning/-/commit/0134c4e65cbde229694515df5a4161ac3d8a8d9c"/>
+  <title>Kevin Sandoval pushed to project branch Task2_PartD_Number2_Update1 at WGU GitLab Environment  / Student Repos / ksando10 / D603 Machine Learning</title>
+  <updated>2025-02-19T22:31:02Z</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/4e15695a69f2534a57960d26835d51df242684ea87fd59fbc999e10b97410aff?s=80&amp;d=identicon"/>
+  <author>
+    <username>ksando10</username>
+    <name>Kevin Sandoval</name>
+    <email/>
+  </author>
+  <summary type="xhtml">
+<div xmlns="http://www.w3.org/1999/xhtml">
+<p>
+<strong>Kevin Sandoval</strong>
+<a href="https://gitlab.com/wgu-gitlab-environment/student-repos/ksando10/d603-machine-learning/-/commit/0134c4e65cbde229694515df5a4161ac3d8a8d9c">(0134c4e6)</a>
+<i>
+at
+19 Feb 22:31
+</i>
+</p>
+<div class="blockquote"><p dir="auto">Delete D603_Task_1_Write_Up.docx</p></div>
+</div>
+  </summary>
+</entry>
+<entry>
+  <id>tag:gitlab.com,2025-02-19:4041829474</id>
+  <link href="https://gitlab.com/wgu-gitlab-environment/student-repos/ksando10/d603-machine-learning/-/commit/797ca099c8fdd7dd3fb915af9d8783d68e00f837"/>
+  <title>Kevin Sandoval pushed to project branch Task2_PartD_Number1_Update1 at WGU GitLab Environment  / Student Repos / ksando10 / D603 Machine Learning</title>
+  <updated>2025-02-19T22:29:44Z</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/4e15695a69f2534a57960d26835d51df242684ea87fd59fbc999e10b97410aff?s=80&amp;d=identicon"/>
+  <author>
+    <username>ksando10</username>
+    <name>Kevin Sandoval</name>
+    <email/>
+  </author>
+  <summary type="xhtml">
+<div xmlns="http://www.w3.org/1999/xhtml">
+<p>
+<strong>Kevin Sandoval</strong>
+<a href="https://gitlab.com/wgu-gitlab-environment/student-repos/ksando10/d603-machine-learning/-/commit/797ca099c8fdd7dd3fb915af9d8783d68e00f837">(797ca099)</a>
+<i>
+at
+19 Feb 22:29
+</i>
+</p>
+<div class="blockquote"><p dir="auto">Delete D603_Task_1_Write_Up.docx</p></div>
+</div>
+  </summary>
+</entry>
+</feed>

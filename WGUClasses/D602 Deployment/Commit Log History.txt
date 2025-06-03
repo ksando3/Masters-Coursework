@@ -1,0 +1,508 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+<title>D602 Deployment Task 2 activity</title>
+<link href="https://gitlab.com/wgu-gitlab-environment/student-repos/ksando10/d602-deployment-task-2.atom?feed_token=glft-e6d4c712e70f89b8ec4a5e211046bcae0a1a56584ce1d44dea730963774f8d9b-25363606" rel="self" type="application/atom+xml"/>
+<link href="https://gitlab.com/wgu-gitlab-environment/student-repos/ksando10/d602-deployment-task-2" rel="alternate" type="text/html"/>
+<id>https://gitlab.com/wgu-gitlab-environment/student-repos/ksando10/d602-deployment-task-2</id>
+<updated>2025-01-18T01:59:32Z</updated>
+<entry>
+  <id>tag:gitlab.com,2025-01-18:3961438200</id>
+  <link href="https://gitlab.com/wgu-gitlab-environment/student-repos/ksando10/d602-deployment-task-2/-/commit/9d43618b0b57e81daf580005187d54820a7e8a04"/>
+  <title>Kevin Sandoval pushed to project branch Final_Branch at WGU GitLab Environment  / Student Repos / ksando10 / D602 Deployment Task 2</title>
+  <updated>2025-01-18T01:59:32Z</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/4e15695a69f2534a57960d26835d51df242684ea87fd59fbc999e10b97410aff?s=80&amp;d=identicon"/>
+  <author>
+    <username>ksando10</username>
+    <name>Kevin Sandoval</name>
+    <email/>
+  </author>
+  <summary type="xhtml">
+<div xmlns="http://www.w3.org/1999/xhtml">
+<p>
+<strong>Kevin Sandoval</strong>
+<a href="https://gitlab.com/wgu-gitlab-environment/student-repos/ksando10/d602-deployment-task-2/-/commit/9d43618b0b57e81daf580005187d54820a7e8a04">(9d43618b)</a>
+<i>
+at
+18 Jan 01:59
+</i>
+</p>
+<div class="blockquote"><p dir="auto">meta file of an mlflow run i conducted</p></div>
+</div>
+  </summary>
+</entry>
+<entry>
+  <id>tag:gitlab.com,2025-01-18:3961437478</id>
+  <link href="https://gitlab.com/wgu-gitlab-environment/student-repos/ksando10/d602-deployment-task-2/-/commit/18b5818c1f98996d964e430b14966df4799e940b"/>
+  <title>Kevin Sandoval pushed to project branch Final_Branch at WGU GitLab Environment  / Student Repos / ksando10 / D602 Deployment Task 2</title>
+  <updated>2025-01-18T01:57:46Z</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/4e15695a69f2534a57960d26835d51df242684ea87fd59fbc999e10b97410aff?s=80&amp;d=identicon"/>
+  <author>
+    <username>ksando10</username>
+    <name>Kevin Sandoval</name>
+    <email/>
+  </author>
+  <summary type="xhtml">
+<div xmlns="http://www.w3.org/1999/xhtml">
+<p>
+<strong>Kevin Sandoval</strong>
+<a href="https://gitlab.com/wgu-gitlab-environment/student-repos/ksando10/d602-deployment-task-2/-/commit/18b5818c1f98996d964e430b14966df4799e940b">(18b5818c)</a>
+<i>
+at
+18 Jan 01:57
+</i>
+</p>
+<div class="blockquote"><p dir="auto">import data jupyter notebook file</p></div>
+</div>
+  </summary>
+</entry>
+<entry>
+  <id>tag:gitlab.com,2025-01-18:3961437342</id>
+  <link href="https://gitlab.com/wgu-gitlab-environment/student-repos/ksando10/d602-deployment-task-2/-/commit/9ffe855e1c185e4e064b43a43415044bfd6f915a"/>
+  <title>Kevin Sandoval pushed to project branch Final_Branch at WGU GitLab Environment  / Student Repos / ksando10 / D602 Deployment Task 2</title>
+  <updated>2025-01-18T01:57:27Z</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/4e15695a69f2534a57960d26835d51df242684ea87fd59fbc999e10b97410aff?s=80&amp;d=identicon"/>
+  <author>
+    <username>ksando10</username>
+    <name>Kevin Sandoval</name>
+    <email/>
+  </author>
+  <summary type="xhtml">
+<div xmlns="http://www.w3.org/1999/xhtml">
+<p>
+<strong>Kevin Sandoval</strong>
+<a href="https://gitlab.com/wgu-gitlab-environment/student-repos/ksando10/d602-deployment-task-2/-/commit/9ffe855e1c185e4e064b43a43415044bfd6f915a">(9ffe855e)</a>
+<i>
+at
+18 Jan 01:57
+</i>
+</p>
+<div class="blockquote"><p dir="auto">import data python file</p></div>
+</div>
+  </summary>
+</entry>
+<entry>
+  <id>tag:gitlab.com,2025-01-18:3961437217</id>
+  <link href="https://gitlab.com/wgu-gitlab-environment/student-repos/ksando10/d602-deployment-task-2/-/commit/b8f2a24a800e12f9a7e92e47c5d5c1fa961f73ae"/>
+  <title>Kevin Sandoval pushed to project branch Final_Branch at WGU GitLab Environment  / Student Repos / ksando10 / D602 Deployment Task 2</title>
+  <updated>2025-01-18T01:57:09Z</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/4e15695a69f2534a57960d26835d51df242684ea87fd59fbc999e10b97410aff?s=80&amp;d=identicon"/>
+  <author>
+    <username>ksando10</username>
+    <name>Kevin Sandoval</name>
+    <email/>
+  </author>
+  <summary type="xhtml">
+<div xmlns="http://www.w3.org/1999/xhtml">
+<p>
+<strong>Kevin Sandoval</strong>
+<a href="https://gitlab.com/wgu-gitlab-environment/student-repos/ksando10/d602-deployment-task-2/-/commit/b8f2a24a800e12f9a7e92e47c5d5c1fa961f73ae">(b8f2a24a)</a>
+<i>
+at
+18 Jan 01:57
+</i>
+</p>
+<div class="blockquote"><p dir="auto">export cleaned data jupyter notebook file</p></div>
+</div>
+  </summary>
+</entry>
+<entry>
+  <id>tag:gitlab.com,2025-01-18:3961437104</id>
+  <link href="https://gitlab.com/wgu-gitlab-environment/student-repos/ksando10/d602-deployment-task-2/-/commit/8378487e7bd247c62c03423beb33ac99f8b2e001"/>
+  <title>Kevin Sandoval pushed to project branch Final_Branch at WGU GitLab Environment  / Student Repos / ksando10 / D602 Deployment Task 2</title>
+  <updated>2025-01-18T01:56:50Z</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/4e15695a69f2534a57960d26835d51df242684ea87fd59fbc999e10b97410aff?s=80&amp;d=identicon"/>
+  <author>
+    <username>ksando10</username>
+    <name>Kevin Sandoval</name>
+    <email/>
+  </author>
+  <summary type="xhtml">
+<div xmlns="http://www.w3.org/1999/xhtml">
+<p>
+<strong>Kevin Sandoval</strong>
+<a href="https://gitlab.com/wgu-gitlab-environment/student-repos/ksando10/d602-deployment-task-2/-/commit/8378487e7bd247c62c03423beb33ac99f8b2e001">(8378487e)</a>
+<i>
+at
+18 Jan 01:56
+</i>
+</p>
+<div class="blockquote"><p dir="auto">export cleaned data python file</p></div>
+</div>
+  </summary>
+</entry>
+<entry>
+  <id>tag:gitlab.com,2025-01-18:3961436699</id>
+  <link href="https://gitlab.com/wgu-gitlab-environment/student-repos/ksando10/d602-deployment-task-2/-/commit/a9a9604c173fa70e6d6b00312d324c671a1143e6"/>
+  <title>Kevin Sandoval pushed to project branch Final_Branch at WGU GitLab Environment  / Student Repos / ksando10 / D602 Deployment Task 2</title>
+  <updated>2025-01-18T01:55:57Z</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/4e15695a69f2534a57960d26835d51df242684ea87fd59fbc999e10b97410aff?s=80&amp;d=identicon"/>
+  <author>
+    <username>ksando10</username>
+    <name>Kevin Sandoval</name>
+    <email/>
+  </author>
+  <summary type="xhtml">
+<div xmlns="http://www.w3.org/1999/xhtml">
+<p>
+<strong>Kevin Sandoval</strong>
+<a href="https://gitlab.com/wgu-gitlab-environment/student-repos/ksando10/d602-deployment-task-2/-/commit/a9a9604c173fa70e6d6b00312d324c671a1143e6">(a9a9604c)</a>
+<i>
+at
+18 Jan 01:55
+</i>
+</p>
+<div class="blockquote"><p dir="auto">pkl file generated from poly regressor.py</p></div>
+</div>
+  </summary>
+</entry>
+<entry>
+  <id>tag:gitlab.com,2025-01-18:3961436477</id>
+  <link href="https://gitlab.com/wgu-gitlab-environment/student-repos/ksando10/d602-deployment-task-2/-/commit/4cb7275e2cf1a0e4a91a8befc95fa89dcfb9afed"/>
+  <title>Kevin Sandoval pushed to project branch Final_Branch at WGU GitLab Environment  / Student Repos / ksando10 / D602 Deployment Task 2</title>
+  <updated>2025-01-18T01:55:29Z</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/4e15695a69f2534a57960d26835d51df242684ea87fd59fbc999e10b97410aff?s=80&amp;d=identicon"/>
+  <author>
+    <username>ksando10</username>
+    <name>Kevin Sandoval</name>
+    <email/>
+  </author>
+  <summary type="xhtml">
+<div xmlns="http://www.w3.org/1999/xhtml">
+<p>
+<strong>Kevin Sandoval</strong>
+<a href="https://gitlab.com/wgu-gitlab-environment/student-repos/ksando10/d602-deployment-task-2/-/commit/4cb7275e2cf1a0e4a91a8befc95fa89dcfb9afed">(4cb7275e)</a>
+<i>
+at
+18 Jan 01:55
+</i>
+</p>
+<div class="blockquote"><p dir="auto">Model plot output from mlflow run</p></div>
+</div>
+  </summary>
+</entry>
+<entry>
+  <id>tag:gitlab.com,2025-01-18:3961436268</id>
+  <link href="https://gitlab.com/wgu-gitlab-environment/student-repos/ksando10/d602-deployment-task-2/-/commit/8711c25e89bcb4005d7a5b7c991eceb5d8e535ba"/>
+  <title>Kevin Sandoval pushed to project branch Final_Branch at WGU GitLab Environment  / Student Repos / ksando10 / D602 Deployment Task 2</title>
+  <updated>2025-01-18T01:55:00Z</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/4e15695a69f2534a57960d26835d51df242684ea87fd59fbc999e10b97410aff?s=80&amp;d=identicon"/>
+  <author>
+    <username>ksando10</username>
+    <name>Kevin Sandoval</name>
+    <email/>
+  </author>
+  <summary type="xhtml">
+<div xmlns="http://www.w3.org/1999/xhtml">
+<p>
+<strong>Kevin Sandoval</strong>
+<a href="https://gitlab.com/wgu-gitlab-environment/student-repos/ksando10/d602-deployment-task-2/-/commit/8711c25e89bcb4005d7a5b7c991eceb5d8e535ba">(8711c25e)</a>
+<i>
+at
+18 Jan 01:55
+</i>
+</p>
+<div class="blockquote"><p dir="auto">created from import_data.py</p></div>
+</div>
+  </summary>
+</entry>
+<entry>
+  <id>tag:gitlab.com,2025-01-18:3961436162</id>
+  <link href="https://gitlab.com/wgu-gitlab-environment/student-repos/ksando10/d602-deployment-task-2/-/commit/f2f65db8645d128e1bd948b9165fbc3c4b20b02c"/>
+  <title>Kevin Sandoval pushed to project branch Final_Branch at WGU GitLab Environment  / Student Repos / ksando10 / D602 Deployment Task 2</title>
+  <updated>2025-01-18T01:54:45Z</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/4e15695a69f2534a57960d26835d51df242684ea87fd59fbc999e10b97410aff?s=80&amp;d=identicon"/>
+  <author>
+    <username>ksando10</username>
+    <name>Kevin Sandoval</name>
+    <email/>
+  </author>
+  <summary type="xhtml">
+<div xmlns="http://www.w3.org/1999/xhtml">
+<p>
+<strong>Kevin Sandoval</strong>
+<a href="https://gitlab.com/wgu-gitlab-environment/student-repos/ksando10/d602-deployment-task-2/-/commit/f2f65db8645d128e1bd948b9165fbc3c4b20b02c">(f2f65db8)</a>
+<i>
+at
+18 Jan 01:54
+</i>
+</p>
+<div class="blockquote"><p dir="auto">created from export_data.py</p></div>
+</div>
+  </summary>
+</entry>
+<entry>
+  <id>tag:gitlab.com,2025-01-18:3961435969</id>
+  <link href="https://gitlab.com/wgu-gitlab-environment/student-repos/ksando10/d602-deployment-task-2/-/commit/c2640692f30fa42de2962fd49d76996ec81b5c4d"/>
+  <title>Kevin Sandoval pushed to project branch Final_Branch at WGU GitLab Environment  / Student Repos / ksando10 / D602 Deployment Task 2</title>
+  <updated>2025-01-18T01:54:20Z</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/4e15695a69f2534a57960d26835d51df242684ea87fd59fbc999e10b97410aff?s=80&amp;d=identicon"/>
+  <author>
+    <username>ksando10</username>
+    <name>Kevin Sandoval</name>
+    <email/>
+  </author>
+  <summary type="xhtml">
+<div xmlns="http://www.w3.org/1999/xhtml">
+<p>
+<strong>Kevin Sandoval</strong>
+<a href="https://gitlab.com/wgu-gitlab-environment/student-repos/ksando10/d602-deployment-task-2/-/commit/c2640692f30fa42de2962fd49d76996ec81b5c4d">(c2640692)</a>
+<i>
+at
+18 Jan 01:54
+</i>
+</p>
+<div class="blockquote"><p dir="auto">created from the poly_regressor file</p></div>
+</div>
+  </summary>
+</entry>
+<entry>
+  <id>tag:gitlab.com,2025-01-18:3961435474</id>
+  <link href="https://gitlab.com/wgu-gitlab-environment/student-repos/ksando10/d602-deployment-task-2/-/commit/d2f5dcb1246d492d98181f0031a935b37e1785d5"/>
+  <title>Kevin Sandoval pushed to project branch Final_Branch at WGU GitLab Environment  / Student Repos / ksando10 / D602 Deployment Task 2</title>
+  <updated>2025-01-18T01:53:06Z</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/4e15695a69f2534a57960d26835d51df242684ea87fd59fbc999e10b97410aff?s=80&amp;d=identicon"/>
+  <author>
+    <username>ksando10</username>
+    <name>Kevin Sandoval</name>
+    <email/>
+  </author>
+  <summary type="xhtml">
+<div xmlns="http://www.w3.org/1999/xhtml">
+<p>
+<strong>Kevin Sandoval</strong>
+<a href="https://gitlab.com/wgu-gitlab-environment/student-repos/ksando10/d602-deployment-task-2/-/commit/d2f5dcb1246d492d98181f0031a935b37e1785d5">(d2f5dcb1)</a>
+<i>
+at
+18 Jan 01:53
+</i>
+</p>
+<div class="blockquote"><p dir="auto">DVC for cleaned data</p></div>
+</div>
+  </summary>
+</entry>
+<entry>
+  <id>tag:gitlab.com,2025-01-18:3961435204</id>
+  <link href="https://gitlab.com/wgu-gitlab-environment/student-repos/ksando10/d602-deployment-task-2/-/commit/460bb58ace8d9927e28111ca87b3ae82114135ef"/>
+  <title>Kevin Sandoval pushed to project branch Final_Branch at WGU GitLab Environment  / Student Repos / ksando10 / D602 Deployment Task 2</title>
+  <updated>2025-01-18T01:52:33Z</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/4e15695a69f2534a57960d26835d51df242684ea87fd59fbc999e10b97410aff?s=80&amp;d=identicon"/>
+  <author>
+    <username>ksando10</username>
+    <name>Kevin Sandoval</name>
+    <email/>
+  </author>
+  <summary type="xhtml">
+<div xmlns="http://www.w3.org/1999/xhtml">
+<p>
+<strong>Kevin Sandoval</strong>
+<a href="https://gitlab.com/wgu-gitlab-environment/student-repos/ksando10/d602-deployment-task-2/-/commit/460bb58ace8d9927e28111ca87b3ae82114135ef">(460bb58a)</a>
+<i>
+at
+18 Jan 01:52
+</i>
+</p>
+<div class="blockquote"><p dir="auto">Raw data from bureau of transportation</p></div>
+</div>
+  </summary>
+</entry>
+<entry>
+  <id>tag:gitlab.com,2025-01-18:3961434884</id>
+  <link href="https://gitlab.com/wgu-gitlab-environment/student-repos/ksando10/d602-deployment-task-2/-/commit/32c213d87e23efa8d5b34e6731871fb371470461"/>
+  <title>Kevin Sandoval pushed to project branch Final_Branch at WGU GitLab Environment  / Student Repos / ksando10 / D602 Deployment Task 2</title>
+  <updated>2025-01-18T01:51:56Z</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/4e15695a69f2534a57960d26835d51df242684ea87fd59fbc999e10b97410aff?s=80&amp;d=identicon"/>
+  <author>
+    <username>ksando10</username>
+    <name>Kevin Sandoval</name>
+    <email/>
+  </author>
+  <summary type="xhtml">
+<div xmlns="http://www.w3.org/1999/xhtml">
+<p>
+<strong>Kevin Sandoval</strong>
+<a href="https://gitlab.com/wgu-gitlab-environment/student-repos/ksando10/d602-deployment-task-2/-/commit/32c213d87e23efa8d5b34e6731871fb371470461">(32c213d8)</a>
+<i>
+at
+18 Jan 01:51
+</i>
+</p>
+<div class="blockquote"><p dir="auto">imported data from website</p></div>
+</div>
+  </summary>
+</entry>
+<entry>
+  <id>tag:gitlab.com,2025-01-18:3961434635</id>
+  <link href="https://gitlab.com/wgu-gitlab-environment/student-repos/ksando10/d602-deployment-task-2/-/commit/e9961eb7e051440770ee7ee441f0120f3ffbcc13"/>
+  <title>Kevin Sandoval pushed to project branch Final_Branch at WGU GitLab Environment  / Student Repos / ksando10 / D602 Deployment Task 2</title>
+  <updated>2025-01-18T01:51:22Z</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/4e15695a69f2534a57960d26835d51df242684ea87fd59fbc999e10b97410aff?s=80&amp;d=identicon"/>
+  <author>
+    <username>ksando10</username>
+    <name>Kevin Sandoval</name>
+    <email/>
+  </author>
+  <summary type="xhtml">
+<div xmlns="http://www.w3.org/1999/xhtml">
+<p>
+<strong>Kevin Sandoval</strong>
+<a href="https://gitlab.com/wgu-gitlab-environment/student-repos/ksando10/d602-deployment-task-2/-/commit/e9961eb7e051440770ee7ee441f0120f3ffbcc13">(e9961eb7)</a>
+<i>
+at
+18 Jan 01:51
+</i>
+</p>
+<div class="blockquote"><p dir="auto">cleaned data from export_data.py</p></div>
+</div>
+  </summary>
+</entry>
+<entry>
+  <id>tag:gitlab.com,2025-01-18:3961433886</id>
+  <link href="https://gitlab.com/wgu-gitlab-environment/student-repos/ksando10/d602-deployment-task-2/-/commit/580813e7e650803b04ec293844589a0dec4a5fbb"/>
+  <title>Kevin Sandoval pushed to project branch Final_Branch at WGU GitLab Environment  / Student Repos / ksando10 / D602 Deployment Task 2</title>
+  <updated>2025-01-18T01:49:35Z</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/4e15695a69f2534a57960d26835d51df242684ea87fd59fbc999e10b97410aff?s=80&amp;d=identicon"/>
+  <author>
+    <username>ksando10</username>
+    <name>Kevin Sandoval</name>
+    <email/>
+  </author>
+  <summary type="xhtml">
+<div xmlns="http://www.w3.org/1999/xhtml">
+<p>
+<strong>Kevin Sandoval</strong>
+<a href="https://gitlab.com/wgu-gitlab-environment/student-repos/ksando10/d602-deployment-task-2/-/commit/580813e7e650803b04ec293844589a0dec4a5fbb">(580813e7)</a>
+<i>
+at
+18 Jan 01:49
+</i>
+</p>
+<div class="blockquote"><p dir="auto">Edit MLproject</p></div>
+</div>
+  </summary>
+</entry>
+<entry>
+  <id>tag:gitlab.com,2025-01-18:3961433519</id>
+  <link href="https://gitlab.com/wgu-gitlab-environment/student-repos/ksando10/d602-deployment-task-2/-/commit/bd9930a80807400a13632949ee36ff00b202b896"/>
+  <title>Kevin Sandoval pushed to project branch Final_Branch at WGU GitLab Environment  / Student Repos / ksando10 / D602 Deployment Task 2</title>
+  <updated>2025-01-18T01:48:45Z</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/4e15695a69f2534a57960d26835d51df242684ea87fd59fbc999e10b97410aff?s=80&amp;d=identicon"/>
+  <author>
+    <username>ksando10</username>
+    <name>Kevin Sandoval</name>
+    <email/>
+  </author>
+  <summary type="xhtml">
+<div xmlns="http://www.w3.org/1999/xhtml">
+<p>
+<strong>Kevin Sandoval</strong>
+<a href="https://gitlab.com/wgu-gitlab-environment/student-repos/ksando10/d602-deployment-task-2/-/commit/bd9930a80807400a13632949ee36ff00b202b896">(bd9930a8)</a>
+<i>
+at
+18 Jan 01:48
+</i>
+</p>
+<div class="blockquote"><p dir="auto">MLProject file to run the scripts</p></div>
+</div>
+  </summary>
+</entry>
+<entry>
+  <id>tag:gitlab.com,2025-01-18:3961433176</id>
+  <link href="https://gitlab.com/wgu-gitlab-environment/student-repos/ksando10/d602-deployment-task-2/-/commit/cdc6dc613199ea695631236209007c27ab0221d4"/>
+  <title>Kevin Sandoval pushed to project branch Final_Branch at WGU GitLab Environment  / Student Repos / ksando10 / D602 Deployment Task 2</title>
+  <updated>2025-01-18T01:47:55Z</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/4e15695a69f2534a57960d26835d51df242684ea87fd59fbc999e10b97410aff?s=80&amp;d=identicon"/>
+  <author>
+    <username>ksando10</username>
+    <name>Kevin Sandoval</name>
+    <email/>
+  </author>
+  <summary type="xhtml">
+<div xmlns="http://www.w3.org/1999/xhtml">
+<p>
+<strong>Kevin Sandoval</strong>
+<a href="https://gitlab.com/wgu-gitlab-environment/student-repos/ksando10/d602-deployment-task-2/-/commit/cdc6dc613199ea695631236209007c27ab0221d4">(cdc6dc61)</a>
+<i>
+at
+18 Jan 01:47
+</i>
+</p>
+<div class="blockquote"><p dir="auto">Delete poly_regressor_R_1.0.0.Rmd</p></div>
+</div>
+  </summary>
+</entry>
+<entry>
+  <id>tag:gitlab.com,2025-01-18:3961433116</id>
+  <link href="https://gitlab.com/wgu-gitlab-environment/student-repos/ksando10/d602-deployment-task-2/-/commit/fef57fe4cab13a010efcb7b88a049e97841f500e"/>
+  <title>Kevin Sandoval pushed to project branch Final_Branch at WGU GitLab Environment  / Student Repos / ksando10 / D602 Deployment Task 2</title>
+  <updated>2025-01-18T01:47:45Z</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/4e15695a69f2534a57960d26835d51df242684ea87fd59fbc999e10b97410aff?s=80&amp;d=identicon"/>
+  <author>
+    <username>ksando10</username>
+    <name>Kevin Sandoval</name>
+    <email/>
+  </author>
+  <summary type="xhtml">
+<div xmlns="http://www.w3.org/1999/xhtml">
+<p>
+<strong>Kevin Sandoval</strong>
+<a href="https://gitlab.com/wgu-gitlab-environment/student-repos/ksando10/d602-deployment-task-2/-/commit/fef57fe4cab13a010efcb7b88a049e97841f500e">(fef57fe4)</a>
+<i>
+at
+18 Jan 01:47
+</i>
+</p>
+<div class="blockquote"><p dir="auto">Delete poly_regressor_R_1.0.0.R</p></div>
+</div>
+  </summary>
+</entry>
+<entry>
+  <id>tag:gitlab.com,2025-01-18:3961432971</id>
+  <link href="https://gitlab.com/wgu-gitlab-environment/student-repos/ksando10/d602-deployment-task-2/-/commit/210ad74a01d0c4a444626ca9d6455d63f7fcbbaf"/>
+  <title>Kevin Sandoval pushed to project branch Final_Branch at WGU GitLab Environment  / Student Repos / ksando10 / D602 Deployment Task 2</title>
+  <updated>2025-01-18T01:47:23Z</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/4e15695a69f2534a57960d26835d51df242684ea87fd59fbc999e10b97410aff?s=80&amp;d=identicon"/>
+  <author>
+    <username>ksando10</username>
+    <name>Kevin Sandoval</name>
+    <email/>
+  </author>
+  <summary type="xhtml">
+<div xmlns="http://www.w3.org/1999/xhtml">
+<p>
+<strong>Kevin Sandoval</strong>
+<a href="https://gitlab.com/wgu-gitlab-environment/student-repos/ksando10/d602-deployment-task-2/-/commit/210ad74a01d0c4a444626ca9d6455d63f7fcbbaf">(210ad74a)</a>
+<i>
+at
+18 Jan 01:47
+</i>
+</p>
+<div class="blockquote"><p dir="auto">Replace poly_regressor_Python_1.0.0.py</p></div>
+</div>
+  </summary>
+</entry>
+<entry>
+  <id>tag:gitlab.com,2025-01-18:3961432864</id>
+  <link href="https://gitlab.com/wgu-gitlab-environment/student-repos/ksando10/d602-deployment-task-2/-/commit/288a2fa4a32525269aee6a629491b408d0cbc476"/>
+  <title>Kevin Sandoval pushed to project branch Final_Branch at WGU GitLab Environment  / Student Repos / ksando10 / D602 Deployment Task 2</title>
+  <updated>2025-01-18T01:47:06Z</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/4e15695a69f2534a57960d26835d51df242684ea87fd59fbc999e10b97410aff?s=80&amp;d=identicon"/>
+  <author>
+    <username>ksando10</username>
+    <name>Kevin Sandoval</name>
+    <email/>
+  </author>
+  <summary type="xhtml">
+<div xmlns="http://www.w3.org/1999/xhtml">
+<p>
+<strong>Kevin Sandoval</strong>
+<a href="https://gitlab.com/wgu-gitlab-environment/student-repos/ksando10/d602-deployment-task-2/-/commit/288a2fa4a32525269aee6a629491b408d0cbc476">(288a2fa4)</a>
+<i>
+at
+18 Jan 01:47
+</i>
+</p>
+<div class="blockquote"><p dir="auto">Replace poly_regressor_Python_1.0.0.ipynb</p></div>
+</div>
+  </summary>
+</entry>
+</feed>

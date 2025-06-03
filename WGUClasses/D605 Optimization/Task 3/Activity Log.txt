@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+<title>D605 Optimization activity</title>
+<link href="https://gitlab.com/wgu-gitlab-environment/student-repos/ksando10/d605-optimization.atom?feed_token=glft-92ca40d0ee12accca511df5204d6a008e1f6acde198cfda0fbce2e599eff9a1a-25363606" rel="self" type="application/atom+xml"/>
+<link href="https://gitlab.com/wgu-gitlab-environment/student-repos/ksando10/d605-optimization" rel="alternate" type="text/html"/>
+<id>https://gitlab.com/wgu-gitlab-environment/student-repos/ksando10/d605-optimization</id>
+<updated>2025-04-14T19:27:00Z</updated>
+<entry>
+  <id>tag:gitlab.com,2025-04-14:4186324448</id>
+  <link href="https://gitlab.com/wgu-gitlab-environment/student-repos/ksando10/d605-optimization/-/commit/09b03457eb1275202eba4d63bafaa2c9e3658cb2"/>
+  <title>Kevin Sandoval pushed to project branch D605-Optimization-Submission-3 at WGU GitLab Environment  / Student Repos / ksando10 / D605 Optimization</title>
+  <updated>2025-04-14T19:27:00Z</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/4e15695a69f2534a57960d26835d51df242684ea87fd59fbc999e10b97410aff?s=80&amp;d=identicon"/>
+  <author>
+    <username>ksando10</username>
+    <name>Kevin Sandoval</name>
+    <email/>
+  </author>
+  <summary type="xhtml">
+<div xmlns="http://www.w3.org/1999/xhtml">
+<p>
+<strong>Kevin Sandoval</strong>
+<a href="https://gitlab.com/wgu-gitlab-environment/student-repos/ksando10/d605-optimization/-/commit/09b03457eb1275202eba4d63bafaa2c9e3658cb2">(09b03457)</a>
+<i>
+at
+14 Apr 19:27
+</i>
+</p>
+<div class="blockquote"><p dir="auto">Added additional sources</p></div>
+</div>
+  </summary>
+</entry>
+<entry>
+  <id>tag:gitlab.com,2025-04-14:4186323977</id>
+  <link href="https://gitlab.com/wgu-gitlab-environment/student-repos/ksando10/d605-optimization/-/commit/547caf918c8ad04b3965e2ed1a69c5592692fa9d"/>
+  <title>Kevin Sandoval pushed to project branch D605-Optimization-Submission-3 at WGU GitLab Environment  / Student Repos / ksando10 / D605 Optimization</title>
+  <updated>2025-04-14T19:26:44Z</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/4e15695a69f2534a57960d26835d51df242684ea87fd59fbc999e10b97410aff?s=80&amp;d=identicon"/>
+  <author>
+    <username>ksando10</username>
+    <name>Kevin Sandoval</name>
+    <email/>
+  </author>
+  <summary type="xhtml">
+<div xmlns="http://www.w3.org/1999/xhtml">
+<p>
+<strong>Kevin Sandoval</strong>
+<a href="https://gitlab.com/wgu-gitlab-environment/student-repos/ksando10/d605-optimization/-/commit/547caf918c8ad04b3965e2ed1a69c5592692fa9d">(547caf91)</a>
+<i>
+at
+14 Apr 19:26
+</i>
+</p>
+<div class="blockquote"><p dir="auto">Added additional sources</p></div>
+</div>
+  </summary>
+</entry>
+<entry>
+  <id>tag:gitlab.com,2025-04-14:4186323384</id>
+  <link href="https://gitlab.com/wgu-gitlab-environment/student-repos/ksando10/d605-optimization/-/commits/D605-Optimization-Submission-3"/>
+  <title>Kevin Sandoval pushed new project branch D605-Optimization-Submission-3 at WGU GitLab Environment  / Student Repos / ksando10 / D605 Optimization</title>
+  <updated>2025-04-14T19:26:27Z</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/4e15695a69f2534a57960d26835d51df242684ea87fd59fbc999e10b97410aff?s=80&amp;d=identicon"/>
+  <author>
+    <username>ksando10</username>
+    <name>Kevin Sandoval</name>
+    <email/>
+  </author>
+  <summary type="xhtml">
+<div xmlns="http://www.w3.org/1999/xhtml">
+<p>
+<strong>Kevin Sandoval</strong>
+<a href="https://gitlab.com/wgu-gitlab-environment/student-repos/ksando10/d605-optimization/-/commits/D605-Optimization-Submission-3">(4eefbbb4)</a>
+<i>
+at
+14 Apr 19:26
+</i>
+</p>
+<div class="blockquote"></div>
+</div>
+  </summary>
+</entry>
+<entry>
+  <id>tag:gitlab.com,2025-04-12:4182356981</id>
+  <link href="https://gitlab.com/wgu-gitlab-environment/student-repos/ksando10/d605-optimization/-/commit/895a18b2ed25064aab8e9221959b9fa16c8522d2"/>
+  <title>Kevin Sandoval pushed to project branch D605-Optimization-Submission-2 at WGU GitLab Environment  / Student Repos / ksando10 / D605 Optimization</title>
+  <updated>2025-04-12T21:04:53Z</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/4e15695a69f2534a57960d26835d51df242684ea87fd59fbc999e10b97410aff?s=80&amp;d=identicon"/>
+  <author>
+    <username>ksando10</username>
+    <name>Kevin Sandoval</name>
+    <email/>
+  </author>
+  <summary type="xhtml">
+<div xmlns="http://www.w3.org/1999/xhtml">
+<p>
+<strong>Kevin Sandoval</strong>
+<a href="https://gitlab.com/wgu-gitlab-environment/student-repos/ksando10/d605-optimization/-/commit/895a18b2ed25064aab8e9221959b9fa16c8522d2">(895a18b2)</a>
+<i>
+at
+12 Apr 21:04
+</i>
+</p>
+<div class="blockquote"><p dir="auto">Typed report</p></div>
+</div>
+  </summary>
+</entry>
+<entry>
+  <id>tag:gitlab.com,2025-04-12:4182356747</id>
+  <link href="https://gitlab.com/wgu-gitlab-environment/student-repos/ksando10/d605-optimization/-/commit/e319a3f46185a8dcc93e4a91a3e06e9e31ef56ec"/>
+  <title>Kevin Sandoval pushed to project branch D605-Optimization-Submission-2 at WGU GitLab Environment  / Student Repos / ksando10 / D605 Optimization</title>
+  <updated>2025-04-12T21:04:29Z</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/4e15695a69f2534a57960d26835d51df242684ea87fd59fbc999e10b97410aff?s=80&amp;d=identicon"/>
+  <author>
+    <username>ksando10</username>
+    <name>Kevin Sandoval</name>
+    <email/>
+  </author>
+  <summary type="xhtml">
+<div xmlns="http://www.w3.org/1999/xhtml">
+<p>
+<strong>Kevin Sandoval</strong>
+<a href="https://gitlab.com/wgu-gitlab-environment/student-repos/ksando10/d605-optimization/-/commit/e319a3f46185a8dcc93e4a91a3e06e9e31ef56ec">(e319a3f4)</a>
+<i>
+at
+12 Apr 21:04
+</i>
+</p>
+<div class="blockquote"><p dir="auto">Slightly edited code to include references</p></div>
+</div>
+  </summary>
+</entry>
+<entry>
+  <id>tag:gitlab.com,2025-04-12:4182356597</id>
+  <link href="https://gitlab.com/wgu-gitlab-environment/student-repos/ksando10/d605-optimization/-/commits/D605-Optimization-Submission-2"/>
+  <title>Kevin Sandoval pushed new project branch D605-Optimization-Submission-2 at WGU GitLab Environment  / Student Repos / ksando10 / D605 Optimization</title>
+  <updated>2025-04-12T21:04:13Z</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/4e15695a69f2534a57960d26835d51df242684ea87fd59fbc999e10b97410aff?s=80&amp;d=identicon"/>
+  <author>
+    <username>ksando10</username>
+    <name>Kevin Sandoval</name>
+    <email/>
+  </author>
+  <summary type="xhtml">
+<div xmlns="http://www.w3.org/1999/xhtml">
+<p>
+<strong>Kevin Sandoval</strong>
+<a href="https://gitlab.com/wgu-gitlab-environment/student-repos/ksando10/d605-optimization/-/commits/D605-Optimization-Submission-2">(4eefbbb4)</a>
+<i>
+at
+12 Apr 21:04
+</i>
+</p>
+<div class="blockquote"></div>
+</div>
+  </summary>
+</entry>
+<entry>
+  <id>tag:gitlab.com,2025-04-10:4175170256</id>
+  <link href="https://gitlab.com/wgu-gitlab-environment/student-repos/ksando10/d605-optimization/-/commit/471366bdebc15dc661e0471670b902ced98e44f0"/>
+  <title>Kevin Sandoval pushed to project branch D605-Optimization-Submission-1 at WGU GitLab Environment  / Student Repos / ksando10 / D605 Optimization</title>
+  <updated>2025-04-10T05:56:54Z</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/4e15695a69f2534a57960d26835d51df242684ea87fd59fbc999e10b97410aff?s=80&amp;d=identicon"/>
+  <author>
+    <username>ksando10</username>
+    <name>Kevin Sandoval</name>
+    <email/>
+  </author>
+  <summary type="xhtml">
+<div xmlns="http://www.w3.org/1999/xhtml">
+<p>
+<strong>Kevin Sandoval</strong>
+<a href="https://gitlab.com/wgu-gitlab-environment/student-repos/ksando10/d605-optimization/-/commit/471366bdebc15dc661e0471670b902ced98e44f0">(471366bd)</a>
+<i>
+at
+10 Apr 05:56
+</i>
+</p>
+<div class="blockquote"><p dir="auto">Task 3 Code</p></div>
+</div>
+  </summary>
+</entry>
+<entry>
+  <id>tag:gitlab.com,2025-04-10:4175147122</id>
+  <link href="https://gitlab.com/wgu-gitlab-environment/student-repos/ksando10/d605-optimization/-/commits/D605-Optimization-Submission-1"/>
+  <title>Kevin Sandoval pushed new project branch D605-Optimization-Submission-1 at WGU GitLab Environment  / Student Repos / ksando10 / D605 Optimization</title>
+  <updated>2025-04-10T05:43:53Z</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/4e15695a69f2534a57960d26835d51df242684ea87fd59fbc999e10b97410aff?s=80&amp;d=identicon"/>
+  <author>
+    <username>ksando10</username>
+    <name>Kevin Sandoval</name>
+    <email/>
+  </author>
+  <summary type="xhtml">
+<div xmlns="http://www.w3.org/1999/xhtml">
+<p>
+<strong>Kevin Sandoval</strong>
+<a href="https://gitlab.com/wgu-gitlab-environment/student-repos/ksando10/d605-optimization/-/commits/D605-Optimization-Submission-1">(4eefbbb4)</a>
+<i>
+at
+10 Apr 05:43
+</i>
+</p>
+<div class="blockquote"></div>
+</div>
+  </summary>
+</entry>
+<entry>
+  <id>tag:gitlab.com,2025-04-10:4175139959</id>
+  <link href="https://gitlab.com/wgu-gitlab-environment/student-repos/ksando10/d605-optimization"/>
+  <title>Spring 25 created project WGU GitLab Environment  / Student Repos / ksando10 / D605 Optimization</title>
+  <updated>2025-04-10T05:39:50Z</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/2eb261969abb1518fcecd222d294447795513dfe927acf89a19c089ea25306e2?s=80&amp;d=identicon"/>
+  <author>
+    <username>group_60023561_bot_4064f874ab0fec990c3f1fe7c00c1cd5</username>
+    <name>Spring 25</name>
+    <email/>
+  </author>
+  <summary type="xhtml">
+  </summary>
+</entry>
+</feed>

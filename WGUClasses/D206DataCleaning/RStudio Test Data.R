@@ -1,0 +1,5 @@
+setwd('C:/Users/cfman/OneDrive/Desktop/WGUClasses/D206DataCleaning')
+#install.packages('tidyverse')
+library('tidyverse')
+df <- read_csv('Boston_housing_data.csv')
+head(df,5)

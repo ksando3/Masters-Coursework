@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/cfman/OneDrive/Desktop/WGUClasses/D602%20Deployment/Task%202/mlruns/0/a6aa66bfddb941c8bb52ace4a3fdb101/artifacts
+end_time: 1737156390848
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a6aa66bfddb941c8bb52ace4a3fdb101
+run_name: loud-kite-410
+run_uuid: a6aa66bfddb941c8bb52ace4a3fdb101
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737155893091
+status: 4
+tags: []
+user_id: cfman

@@ -1,0 +1,1622 @@
+Zip,Age,Gender,Churn,Contract,PaperlessBilling,Tenure,MonthlyCharge,Bandwidth_GB_Month,location_id
+93225,37,Female,No,One Year,Yes,9,65.6,16,1
+94553,78,Male,Yes,Month-to-Month,Yes,13,98,4,2
+93010,75,Female,Yes,Month-to-Month,Yes,3,83.9,11,3
+93437,67,Female,No,Two Year,Yes,71,109.7,14,4
+94558,52,Male,No,Two Year,Yes,63,84.65,7,5
+93063,68,Female,No,Two Year,Yes,7,48.2,21,6
+95681,43,Female,No,Two Year,Yes,65,90.45,14,7
+92091,47,Male,No,Two Year,No,54,45.2,10,8
+95843,58,Female,No,Month-to-Month,Yes,5,68.95,10,9
+91942,32,Female,No,Two Year,Yes,72,101.3,16,10
+93441,39,Female,No,Two Year,No,56,45.05,19,11
+93286,58,Female,No,Two Year,Yes,71,95.75,12,12
+94956,52,Female,No,One Year,No,34,61.25,20,13
+92078,72,Female,No,One Year,Yes,1,72.1,22,14
+94015,79,Male,Yes,One Year,No,45,62.7,17,15
+95037,67,Male,Yes,Month-to-Month,Yes,1,25.1,9,16
+93601,79,Female,No,One Year,No,50,25.2,21,17
+93530,22,Female,No,Month-to-Month,No,3,19.85,21,18
+95550,34,Female,Yes,Month-to-Month,No,4,20.35,21,19
+92060,37,Female,Yes,Month-to-Month,No,1,30.5,19,20
+95358,42,Male,No,Two Year,No,54,20.4,21,21
+95442,64,Male,No,One Year,Yes,26,19.6,21,22
+95503,47,Female,No,Two Year,No,69,19.7,21,23
+90058,48,Female,No,One Year,No,49,20.45,21,24
+92231,28,Female,No,One Year,No,67,20.55,21,25
+96003,33,Male,No,Two Year,Yes,20,39.4,22,26
+95046,31,Female,No,Two Year,Yes,43,25.1,21,27
+95209,37,Female,No,Month-to-Month,Yes,55,89.8,9,28
+90003,60,Female,No,Month-to-Month,Yes,59,94.75,14,29
+90255,48,Female,No,Two Year,No,12,20.3,21,30
+92398,60,Male,No,Month-to-Month,Yes,27,75.75,23,31
+92129,69,Male,Yes,Month-to-Month,Yes,2,49.25,27,32
+95405,31,Male,No,Two Year,No,25,25.5,21,33
+95126,46,Male,No,One Year,Yes,25,61.6,19,34
+91042,57,Male,No,Month-to-Month,Yes,29,45,21,35
+95240,64,Female,No,One Year,No,14,51.45,12,36
+95318,38,Female,No,One Year,Yes,35,99.25,2,37
+94515,54,Male,No,Month-to-Month,Yes,1,44.3,9,38
+95230,50,Male,No,Month-to-Month,Yes,29,94.2,17,39
+93023,72,Female,No,Two Year,Yes,40,91.55,23,40
+92241,51,Male,Yes,Month-to-Month,Yes,40,104.5,15,41
+95404,58,Male,No,Month-to-Month,Yes,30,64.5,15,42
+95131,26,Male,No,Month-to-Month,Yes,27,19.4,21,43
+92113,61,Male,No,One Year,No,58,50.3,18,44
+95452,55,Female,No,Two Year,Yes,69,116,27,45
+95255,32,Male,Yes,Month-to-Month,Yes,1,19.85,21,46
+90062,59,Male,Yes,Month-to-Month,Yes,1,99.75,25,47
+92256,71,Male,No,One Year,Yes,32,93.95,23,48
+92266,49,Male,No,Month-to-Month,Yes,16,90.8,12,49
+93563,61,Male,Yes,One Year,No,49,84.35,10,50
+96084,39,Female,No,Month-to-Month,No,33,107.55,12,51
+95548,21,Female,No,Month-to-Month,Yes,10,19.95,21,52
+94508,52,Male,Yes,Month-to-Month,No,37,40.2,23,53
+95333,71,Female,No,Month-to-Month,Yes,26,85.8,7,54
+95560,45,Male,No,One Year,Yes,50,35.4,7,55
+92122,29,Female,Yes,Month-to-Month,Yes,7,73.85,26,56
+95305,42,Male,Yes,Month-to-Month,Yes,15,101.35,12,57
+91381,51,Female,No,Month-to-Month,No,26,45.8,19,58
+95660,39,Male,No,Month-to-Month,Yes,72,94.65,23,59
+91746,64,Male,No,One Year,Yes,44,20.5,21,60
+95443,55,Male,No,Month-to-Month,No,66,89.4,8,61
+91803,40,Female,Yes,Month-to-Month,Yes,2,86.25,16,62
+90403,76,Female,No,One Year,No,44,74.85,17,63
+90001,71,Male,No,Two Year,Yes,69,109.95,17,64
+95204,24,Female,Yes,Month-to-Month,No,3,19.85,21,65
+92028,77,Female,No,Two Year,Yes,27,86.45,4,66
+93554,57,Male,No,Month-to-Month,Yes,26,20.3,21,67
+93422,73,Female,No,Month-to-Month,Yes,39,101.25,21,68
+95365,41,Male,Yes,Month-to-Month,Yes,25,94.7,8,69
+93021,43,Female,Yes,Month-to-Month,No,1,70.9,23,70
+93463,48,Male,Yes,Month-to-Month,Yes,22,54.2,21,71
+90638,51,Female,No,Two Year,Yes,24,19.55,21,72
+93516,34,Female,No,Month-to-Month,Yes,19,86.85,16,73
+92239,78,Male,No,One Year,Yes,33,109.9,20,74
+95313,60,Female,No,Month-to-Month,No,3,19.95,21,75
+95379,54,Male,No,Month-to-Month,No,47,87.2,13,76
+92120,42,Male,No,Two Year,No,62,108.15,20,77
+93725,71,Male,No,Two Year,Yes,7,89,11,78
+94065,33,Male,No,Month-to-Month,No,2,20.05,21,79
+90250,80,Male,No,One Year,Yes,30,74.75,5,80
+93445,73,Female,Yes,One Year,Yes,58,105.5,19,81
+92620,78,Female,Yes,Month-to-Month,Yes,6,84.35,17,82
+95066,47,Female,No,One Year,No,69,84.45,16,83
+95368,68,Female,No,Two Year,Yes,66,102.4,20,84
+94027,62,Male,Yes,One Year,No,25,25.3,21,85
+92649,52,Female,No,Two Year,Yes,46,19.25,21,86
+92320,63,Female,No,One Year,Yes,54,114.65,26,87
+94014,54,Female,Yes,Month-to-Month,No,15,105.1,7,88
+95461,48,Female,No,Month-to-Month,No,12,19.4,21,89
+94705,51,Female,No,Month-to-Month,Yes,22,50.35,22,90
+92844,52,Male,No,Month-to-Month,Yes,30,84.3,20,91
+93033,33,Male,No,One Year,No,30,19.8,21,92
+92553,22,Male,No,One Year,Yes,10,19.95,21,93
+95820,69,Male,No,Two Year,Yes,52,48.8,19,94
+95380,30,Male,No,Two Year,No,8,20.15,21,95
+95321,46,Male,No,Month-to-Month,No,3,84.3,26,96
+95033,40,Male,No,Month-to-Month,No,19,59.55,18,97
+93611,53,Male,No,Two Year,No,72,69.65,13,98
+96046,76,Male,No,One Year,No,63,36.1,7,99
+92592,23,Male,Yes,Month-to-Month,Yes,1,75.9,27,100
+93274,43,Female,No,One Year,No,48,45,22,101
+93427,45,Female,Yes,Month-to-Month,Yes,1,85.55,4,102
+93552,49,Male,Yes,Month-to-Month,Yes,15,93.35,15,103
+92655,62,Female,No,Month-to-Month,Yes,50,109.65,13,104
+94619,37,Female,No,Month-to-Month,No,46,84.25,21,105
+94960,35,Female,No,Two Year,No,72,92.65,19,106
+91010,37,Male,No,Month-to-Month,No,1,19.7,21,107
+92672,69,Female,No,Two Year,Yes,67,92.45,21,108
+90004,44,Female,No,Two Year,No,48,79.65,27,109
+94923,64,Male,No,One Year,Yes,52,81.4,24,110
+92338,58,Female,Yes,Month-to-Month,Yes,28,81.05,13,111
+92571,80,Female,Yes,Month-to-Month,Yes,27,75.2,25,112
+91773,50,Female,Yes,Month-to-Month,Yes,9,72.9,11,113
+96106,45,Female,No,Two Year,No,71,20.1,21,114
+93436,43,Male,No,Two Year,Yes,72,114.3,13,115
+95664,41,Female,Yes,Month-to-Month,No,3,19.75,21,116
+94133,22,Male,No,One Year,No,23,24.35,21,117
+91345,62,Male,No,Two Year,No,72,69.85,18,118
+94108,33,Male,No,Two Year,No,66,50.55,23,119
+90301,30,Male,Yes,Month-to-Month,No,5,21.05,21,120
+90015,38,Male,Yes,Month-to-Month,Yes,49,103.7,11,121
+94060,56,Male,No,Two Year,Yes,63,19.95,21,122
+95004,70,Female,No,Month-to-Month,Yes,12,29.3,14,123
+93648,57,Female,No,Month-to-Month,No,35,60.55,20,124
+92328,40,Female,No,Month-to-Month,Yes,54,86.2,12,125
+91744,56,Male,Yes,Month-to-Month,Yes,1,95.45,2,126
+93656,38,Male,No,Month-to-Month,Yes,5,63.95,5,127
+94104,61,Male,No,One Year,Yes,19,65.35,6,128
+95916,35,Male,No,Two Year,No,52,50.2,17,129
+95439,61,Female,No,Two Year,Yes,72,63.8,22,130
+95010,50,Male,No,Two Year,Yes,32,20.05,21,131
+92109,47,Female,Yes,Month-to-Month,No,8,101.15,6,132
+91207,32,Male,No,Month-to-Month,Yes,5,19.25,21,133
+90248,54,Female,No,One Year,Yes,11,36.05,17,134
+94134,62,Female,No,One Year,No,16,19.05,21,135
+92126,80,Male,No,One Year,No,71,105.75,9,136
+95369,63,Female,Yes,Month-to-Month,Yes,61,99.15,7,137
+93522,50,Female,No,One Year,Yes,71,84.8,6,138
+92404,56,Male,No,Month-to-Month,No,9,19.85,21,139
+95542,63,Female,No,Month-to-Month,Yes,6,49.45,8,140
+90807,58,Female,Yes,Month-to-Month,Yes,26,88.8,22,141
+95762,54,Male,No,Month-to-Month,No,11,84.8,15,142
+90265,31,Female,No,Two Year,Yes,49,20.15,21,143
+93035,28,Male,Yes,Month-to-Month,Yes,23,99.85,27,144
+93591,63,Male,Yes,Month-to-Month,No,2,45.35,9,145
+91723,37,Male,Yes,Month-to-Month,Yes,1,48.55,9,146
+93954,44,Male,No,Two Year,Yes,3,26.4,21,147
+95546,44,Male,Yes,Month-to-Month,Yes,8,94.7,10,148
+90802,21,Female,No,One Year,Yes,70,97.65,26,149
+95527,43,Female,Yes,Month-to-Month,Yes,1,70.1,25,150
+96121,48,Male,No,One Year,No,60,102.5,4,151
+96007,55,Female,Yes,Month-to-Month,No,5,69.95,10,152
+92123,41,Female,No,One Year,Yes,55,66.05,13,153
+93453,43,Male,No,Two Year,Yes,72,61.2,6,154
+92869,69,Male,No,Two Year,No,72,74.4,9,155
+90033,63,Female,Yes,Month-to-Month,Yes,41,106.3,22,156
+95111,38,Male,No,Two Year,No,60,39.6,25,157
+94404,46,Female,No,Month-to-Month,No,15,19.9,21,158
+90034,60,Male,No,Two Year,No,23,19.6,21,159
+94130,70,Female,Yes,Month-to-Month,Yes,31,98.9,21,160
+95062,54,Male,No,Month-to-Month,Yes,11,45.9,6,161
+92596,80,Female,No,Two Year,Yes,56,99.9,16,162
+92021,41,Female,No,Month-to-Month,No,25,20.05,21,163
+92860,48,Female,No,Two Year,No,40,19.65,21,164
+95686,46,Male,Yes,Month-to-Month,Yes,36,84.9,22,165
+92675,58,Male,No,Month-to-Month,Yes,17,102.55,2,166
+95228,55,Male,No,Month-to-Month,No,18,78.2,19,167
+95932,42,Male,No,Month-to-Month,No,2,19.35,21,168
+90630,56,Female,No,One Year,Yes,28,70.4,24,169
+95814,34,Male,No,One Year,No,9,39.55,19,170
+93534,63,Female,No,Month-to-Month,No,1,50.15,24,171
+92867,59,Male,No,Two Year,Yes,65,20.4,21,172
+93926,62,Female,No,Month-to-Month,No,3,44.6,27,173
+90045,31,Female,Yes,Month-to-Month,Yes,1,34.7,8,174
+91377,56,Female,No,Two Year,No,72,112.1,18,175
+94080,31,Female,Yes,Month-to-Month,No,17,88.25,9,176
+95117,31,Male,Yes,One Year,No,58,60.3,21,177
+94089,60,Male,No,Two Year,No,67,81.35,18,178
+92660,72,Male,No,One Year,Yes,34,99.85,12,179
+90041,38,Male,No,One Year,No,40,62.05,19,180
+90210,61,Female,No,Two Year,No,46,19.4,21,181
+93710,44,Female,No,Two Year,Yes,72,105,7,182
+92025,28,Male,No,Two Year,No,70,25.15,21,183
+90247,34,Female,No,Month-to-Month,No,2,19.3,21,184
+95829,58,Male,No,Month-to-Month,Yes,36,95.4,12,185
+93665,70,Male,Yes,Month-to-Month,Yes,59,93.85,15,186
+95555,24,Male,No,Two Year,No,67,20.5,21,187
+93962,36,Female,No,Two Year,No,72,24.45,21,188
+90212,23,Male,No,Two Year,No,72,19.7,21,189
+93277,75,Female,Yes,One Year,Yes,54,101.5,8,190
+94114,59,Male,Yes,Month-to-Month,Yes,60,95.75,16,191
+90602,35,Female,No,One Year,Yes,58,110.65,18,192
+90822,64,Female,No,Month-to-Month,Yes,31,83.85,9,193
+95949,44,Male,No,Month-to-Month,Yes,49,85.3,23,194
+92117,40,Male,Yes,Month-to-Month,No,8,25.5,16,195
+93291,72,Female,No,Two Year,Yes,39,99.75,13,196
+95112,43,Male,No,Two Year,Yes,66,66.1,15,197
+93722,23,Female,No,One Year,No,15,20.55,21,198
+91316,54,Female,Yes,Month-to-Month,No,1,20.9,21,199
+90706,29,Male,No,One Year,Yes,25,19.5,21,200
+95370,56,Male,No,Month-to-Month,Yes,22,87,18,201
+94949,37,Female,Yes,One Year,Yes,28,90.1,13,202
+90071,34,Female,No,Month-to-Month,Yes,47,100.5,14,203
+92027,78,Female,No,Month-to-Month,Yes,18,74.7,18,204
+96113,47,Male,No,Two Year,Yes,62,60.15,15,205
+94954,51,Female,No,One Year,Yes,41,80.55,12,206
+93501,64,Female,No,Month-to-Month,Yes,44,50.15,22,207
+96014,59,Female,No,One Year,Yes,53,94.45,6,208
+94922,44,Male,No,Two Year,Yes,48,20.05,21,209
+95316,79,Female,No,One Year,Yes,54,115.6,12,210
+93940,39,Male,No,Month-to-Month,Yes,24,99.65,6,211
+94301,32,Male,No,Two Year,No,33,80.6,27,212
+95327,58,Male,No,Two Year,No,66,85.25,21,213
+95008,61,Female,No,Month-to-Month,Yes,3,69.55,19,214
+95511,58,Female,No,Two Year,No,13,35.4,13,215
+95653,26,Male,No,Two Year,No,52,25.6,21,216
+91406,23,Male,No,Month-to-Month,Yes,3,20.75,21,217
+96104,39,Female,No,Two Year,No,72,20.1,21,218
+90717,62,Male,No,Month-to-Month,Yes,29,98.8,19,219
+95451,70,Female,No,One Year,Yes,62,104.85,18,220
+95364,47,Male,Yes,Month-to-Month,Yes,43,77.85,25,221
+95903,58,Female,No,Month-to-Month,Yes,19,96.8,23,222
+95835,42,Female,No,Two Year,No,72,24.25,21,223
+95947,74,Female,No,One Year,Yes,45,102.15,15,224
+95437,43,Male,No,One Year,Yes,32,64.85,12,225
+92254,52,Male,No,Two Year,No,65,24.75,21,226
+90504,37,Male,Yes,Month-to-Month,Yes,55,96.75,27,227
+92394,48,Male,No,Two Year,No,11,19.65,21,228
+92064,58,Female,No,Two Year,Yes,49,74.45,13,229
+93109,49,Male,No,Month-to-Month,Yes,25,19.15,21,230
+95983,41,Female,Yes,Month-to-Month,Yes,1,69.5,27,231
+95401,39,Female,Yes,Month-to-Month,Yes,1,79.7,26,232
+95637,72,Female,Yes,Month-to-Month,No,27,88.3,11,233
+92508,41,Female,No,Two Year,No,70,19.8,21,234
+95742,78,Female,Yes,Month-to-Month,Yes,5,75.55,9,235
+93666,54,Male,No,Two Year,Yes,46,20.2,21,236
+92310,33,Female,No,Month-to-Month,Yes,2,71.65,10,237
+91941,32,Female,No,Two Year,Yes,57,20.1,21,238
+95923,41,Female,Yes,Month-to-Month,No,1,71.1,9,239
+95116,42,Male,Yes,Month-to-Month,Yes,1,70.45,8,240
+90290,39,Male,No,One Year,No,28,100.35,13,241
+95607,78,Female,No,Two Year,Yes,24,20.3,21,242
+90680,39,Female,Yes,One Year,No,18,20.15,21,243
+95219,58,Female,No,Month-to-Month,No,20,20.35,21,244
+95018,56,Female,Yes,Month-to-Month,No,1,70.75,8,245
+91352,78,Female,No,Two Year,Yes,52,50.5,23,246
+90201,36,Male,No,Two Year,No,72,42.1,17,247
+95942,70,Male,Yes,Month-to-Month,No,15,75.65,19,248
+91935,36,Male,No,Two Year,Yes,70,114.6,17,249
+91702,37,Male,No,Two Year,No,66,65.7,17,250
+96065,72,Male,No,One Year,Yes,57,71.1,10,251
+95242,34,Female,No,Two Year,Yes,72,109.55,2,252
+95585,27,Female,No,Month-to-Month,No,28,20.5,21,253
+95975,48,Male,No,Two Year,Yes,54,74.55,25,254
+95325,59,Female,No,Month-to-Month,Yes,2,62.15,24,255
+95620,19,Male,No,Month-to-Month,No,12,21.05,21,256
+96029,69,Male,No,One Year,Yes,51,79.6,11,257
+92274,64,Male,No,Month-to-Month,No,13,73.35,21,258
+94588,44,Female,No,Two Year,Yes,29,19.55,21,259
+94502,39,Male,No,Two Year,No,71,23.9,21,260
+95638,62,Female,No,Two Year,Yes,70,44.6,11,261
+95446,45,Male,Yes,Month-to-Month,Yes,9,95.5,10,262
+93606,38,Female,No,Month-to-Month,No,7,61.4,14,263
+94112,34,Male,Yes,Month-to-Month,Yes,5,25.9,21,264
+96020,32,Female,No,Two Year,No,46,99.65,18,265
+95324,76,Male,No,One Year,Yes,60,97.95,21,266
+95946,76,Female,No,Two Year,No,4,72.75,8,267
+95148,63,Female,No,Month-to-Month,Yes,24,88.95,9,268
+93304,43,Female,No,Two Year,No,38,20.3,21,269
+96027,41,Male,No,Month-to-Month,Yes,40,80,27,270
+95988,48,Female,Yes,Month-to-Month,Yes,8,49.85,25,271
+95655,35,Male,No,Month-to-Month,Yes,13,19.85,21,272
+94930,21,Male,No,Month-to-Month,Yes,64,91.8,27,273
+95547,32,Female,Yes,Month-to-Month,Yes,62,100.15,13,274
+93263,53,Male,Yes,Month-to-Month,No,14,46.35,12,275
+93452,40,Female,No,Two Year,No,59,25.45,21,276
+94552,40,Female,No,Two Year,Yes,59,75.95,22,277
+95961,62,Male,Yes,Two Year,No,53,19.75,21,278
+92066,33,Male,No,One Year,No,45,78.75,13,279
+93621,55,Male,No,Two Year,No,50,19.8,21,280
+95427,35,Male,Yes,Month-to-Month,Yes,20,89,5,281
+92084,77,Female,Yes,Month-to-Month,No,1,25.25,15,282
+95073,38,Female,No,Two Year,Yes,70,19.2,21,283
+96019,74,Male,Yes,Month-to-Month,No,1,25.05,18,284
+91343,61,Female,Yes,Two Year,No,64,47.85,27,285
+95670,62,Male,Yes,Month-to-Month,No,49,75.2,24,286
+93280,60,Male,Yes,Month-to-Month,Yes,28,74.9,5,287
+92840,32,Male,No,Two Year,Yes,72,111.9,27,288
+91103,47,Female,No,Month-to-Month,Yes,13,81.9,19,289
+96069,41,Male,No,Month-to-Month,No,4,18.85,21,290
+92618,54,Female,No,Month-to-Month,Yes,63,81.55,24,291
+90270,29,Male,No,One Year,No,56,19.95,21,292
+95247,50,Male,No,One Year,No,65,93.55,16,293
+92673,63,Female,No,Month-to-Month,Yes,1,48.45,21,294
+95536,40,Female,No,Two Year,No,29,20.2,21,295
+95521,55,Female,No,Two Year,Yes,72,24.15,21,296
+95307,33,Male,No,One Year,No,40,70.75,22,297
+95693,40,Male,Yes,Month-to-Month,No,13,84.05,21,298
+95977,19,Male,No,Two Year,No,72,21,21,299
+93614,61,Male,No,Month-to-Month,Yes,3,82.3,16,300
+95348,69,Male,No,Month-to-Month,Yes,4,70.65,12,301
+92536,71,Female,No,Two Year,Yes,18,73.55,24,302
+92264,34,Male,No,Month-to-Month,No,29,48.95,25,303
+91739,35,Female,No,One Year,Yes,48,60.6,13,304
+95556,56,Male,No,One Year,Yes,22,56.25,7,305
+95959,76,Female,Yes,Month-to-Month,Yes,1,25.8,26,306
+91709,47,Male,No,One Year,No,71,97.65,5,307
+93610,42,Female,No,Month-to-Month,Yes,1,20.25,21,308
+92371,26,Male,No,Month-to-Month,No,1,20.45,21,309
+95432,78,Male,No,Two Year,Yes,32,93.5,3,310
+90065,41,Female,No,Month-to-Month,Yes,1,54.65,4,311
+92870,61,Female,No,Two Year,Yes,72,116.4,20,312
+95417,73,Female,Yes,Month-to-Month,Yes,1,69.25,8,313
+91765,40,Female,No,Month-to-Month,Yes,21,86.05,25,314
+92368,42,Male,Yes,Month-to-Month,Yes,1,95,5,315
+90620,74,Female,Yes,Month-to-Month,No,2,70.75,21,316
+96097,61,Female,No,Month-to-Month,No,52,85.8,24,317
+90066,42,Male,Yes,Month-to-Month,Yes,13,83.2,18,318
+95203,20,Male,No,Month-to-Month,Yes,4,19.65,21,319
+95626,41,Female,No,One Year,Yes,40,105.95,14,320
+91361,45,Female,No,Month-to-Month,Yes,57,58.75,22,321
+93105,45,Male,No,Month-to-Month,Yes,9,68.25,24,322
+92103,64,Female,No,Two Year,No,61,20.25,21,323
+95346,79,Female,No,Two Year,Yes,70,75.5,3,324
+95035,56,Male,No,Month-to-Month,Yes,13,65.85,4,325
+90069,32,Female,No,Month-to-Month,No,34,65,27,326
+95207,70,Female,Yes,Month-to-Month,Yes,9,74.55,27,327
+93637,77,Male,No,Two Year,No,57,93.75,11,328
+94019,45,Female,No,Month-to-Month,Yes,7,100.4,25,329
+95717,54,Male,No,One Year,Yes,44,85.25,21,330
+95429,67,Female,No,One Year,No,45,34.2,4,331
+93706,66,Female,Yes,One Year,Yes,55,100,7,332
+90240,24,Female,No,One Year,Yes,52,20.4,21,333
+91722,44,Male,No,Month-to-Month,No,3,70.7,17,334
+94040,61,Female,No,Two Year,Yes,72,53.8,14,335
+92833,52,Male,No,Two Year,Yes,72,99.15,8,336
+95920,50,Female,No,One Year,Yes,51,69.75,14,337
+90305,31,Female,No,Month-to-Month,Yes,64,86.8,12,338
+91356,38,Male,Yes,One Year,Yes,70,109.5,26,339
+90621,68,Female,No,Month-to-Month,No,13,45.3,9,340
+92590,43,Male,No,One Year,No,52,91.25,12,341
+95614,63,Male,Yes,Month-to-Month,Yes,2,95.85,18,342
+92061,35,Male,No,One Year,No,46,33.7,18,343
+92324,58,Female,Yes,Month-to-Month,No,1,19.3,21,344
+93924,44,Female,No,Two Year,No,72,65.7,23,345
+92227,56,Male,No,Two Year,Yes,66,74.6,11,346
+92315,49,Female,No,Month-to-Month,Yes,16,112.95,12,347
+92059,44,Female,No,Two Year,No,71,59.7,19,348
+92805,43,Male,Yes,Month-to-Month,Yes,9,34.7,9,349
+94618,60,Male,No,Two Year,No,57,20.65,21,350
+94102,65,Male,Yes,Month-to-Month,Yes,9,100.5,15,351
+95360,26,Male,No,One Year,Yes,62,23.75,21,352
+92780,54,Male,No,One Year,Yes,58,19.55,21,353
+91101,29,Male,No,Two Year,No,72,20.3,21,354
+92105,36,Male,No,One Year,No,67,109.9,24,355
+93514,80,Male,No,Two Year,No,72,25.4,21,356
+96038,24,Female,No,Month-to-Month,No,15,46.3,27,357
+92610,49,Female,No,Month-to-Month,No,11,25.2,19,358
+92211,59,Female,No,One Year,Yes,43,24.45,21,359
+95776,43,Female,Yes,Month-to-Month,Yes,3,55.1,16,360
+94928,31,Female,No,One Year,No,52,74,21,361
+92625,65,Male,Yes,Month-to-Month,No,1,70.85,13,362
+93239,35,Male,No,Month-to-Month,No,2,20.75,21,363
+90059,80,Male,Yes,Month-to-Month,Yes,27,81.45,5,364
+90068,76,Female,No,Month-to-Month,No,27,83.85,21,365
+95454,26,Female,No,Two Year,No,71,19.1,21,366
+90047,33,Male,No,Two Year,Yes,36,18.55,21,367
+92866,58,Female,No,One Year,No,15,20.1,21,368
+93615,48,Female,No,Month-to-Month,Yes,20,89.4,21,369
+94501,55,Female,No,One Year,No,24,21.05,21,370
+92128,64,Male,Yes,Month-to-Month,No,9,40.65,26,371
+92691,31,Female,No,Two Year,No,66,89.9,3,372
+90743,35,Female,No,Two Year,No,30,19.4,21,373
+90036,63,Female,No,Month-to-Month,Yes,7,75.35,17,374
+92258,44,Male,No,Two Year,No,62,20,21,375
+95682,23,Male,No,Two Year,No,70,48.4,26,376
+95070,56,Female,No,Month-to-Month,Yes,16,94.65,2,377
+94518,57,Female,No,Month-to-Month,No,15,58.95,11,378
+91606,59,Male,No,Two Year,No,72,105.6,5,379
+91792,21,Female,No,Two Year,No,13,19.55,21,380
+95570,63,Female,No,One Year,No,64,113.35,19,381
+92843,53,Female,Yes,One Year,Yes,34,64.4,4,382
+95830,51,Male,No,Month-to-Month,No,5,75.15,4,383
+96016,61,Male,No,Two Year,Yes,64,104.05,8,384
+93256,68,Female,No,Two Year,Yes,26,85.7,4,385
+95310,34,Female,Yes,Month-to-Month,No,5,53.85,22,386
+95665,62,Female,Yes,Month-to-Month,Yes,5,85.4,17,387
+94550,32,Male,No,Month-to-Month,Yes,56,86.4,13,388
+95612,23,Female,Yes,Month-to-Month,No,2,19.5,21,389
+95545,55,Male,No,Two Year,No,62,69.4,12,390
+92104,72,Female,Yes,Month-to-Month,Yes,27,101.25,13,391
+93210,57,Male,Yes,Month-to-Month,Yes,1,45.7,13,392
+96013,47,Male,Yes,Month-to-Month,Yes,54,104.3,23,393
+91932,34,Male,No,One Year,Yes,23,64.9,23,394
+91732,53,Male,No,One Year,No,6,19.45,21,395
+95675,46,Male,No,Two Year,Yes,8,44.55,4,396
+90048,43,Female,Yes,Month-to-Month,Yes,11,99.5,26,397
+90039,46,Male,No,One Year,Yes,61,96.5,2,398
+90292,31,Male,No,Month-to-Month,Yes,56,105.35,24,399
+95650,38,Male,No,One Year,No,38,20.1,21,400
+96001,29,Male,No,Two Year,No,69,20.2,21,401
+94565,74,Female,No,Two Year,Yes,70,113,14,402
+95423,53,Male,No,Two Year,Yes,61,80.8,20,403
+95133,37,Male,No,Two Year,Yes,61,69.9,4,404
+90713,66,Male,Yes,Two Year,Yes,72,104.15,2,405
+95969,35,Male,No,Month-to-Month,No,22,83.05,16,406
+95701,42,Male,No,Month-to-Month,No,1,19.55,21,407
+96055,78,Male,No,Two Year,Yes,4,29.9,5,408
+96124,33,Female,No,One Year,Yes,36,76.35,8,409
+96010,36,Female,No,One Year,Yes,54,100.05,20,410
+93620,50,Female,No,Two Year,No,47,20.25,21,411
+95245,40,Female,No,Two Year,No,41,20.65,21,412
+95973,40,Female,No,Month-to-Month,No,13,53.45,27,413
+92701,44,Female,Yes,Month-to-Month,Yes,35,100.25,17,414
+95694,54,Male,Yes,Month-to-Month,Yes,10,80.7,3,415
+95688,46,Male,No,Month-to-Month,Yes,44,92.95,25,416
+93551,67,Male,Yes,Month-to-Month,Yes,58,98.7,5,417
+93928,71,Male,Yes,Month-to-Month,Yes,20,73.65,24,418
+94043,46,Male,Yes,Month-to-Month,No,13,98.15,15,419
+91301,61,Female,No,One Year,No,13,19.65,21,420
+91711,45,Male,Yes,Month-to-Month,Yes,32,96.2,26,421
+92276,23,Female,Yes,Month-to-Month,Yes,1,70.8,27,422
+91367,31,Male,No,One Year,No,37,19.8,21,423
+93205,38,Male,Yes,Month-to-Month,Yes,1,89.55,27,424
+91016,28,Female,No,Month-to-Month,No,1,19.65,21,425
+91384,59,Female,No,Two Year,Yes,72,70.65,22,426
+95629,32,Male,No,One Year,No,26,50.35,19,427
+93460,42,Female,No,One Year,Yes,33,51.45,9,428
+95941,40,Female,No,Two Year,No,72,80.85,15,429
+95257,50,Female,No,Month-to-Month,Yes,3,54.2,5,430
+92883,31,Male,Yes,Month-to-Month,No,18,49.4,3,431
+96048,78,Female,No,One Year,Yes,68,60.65,20,432
+92029,59,Female,No,Month-to-Month,No,19,48.8,26,433
+90029,72,Male,No,Two Year,Yes,7,45.75,17,434
+92121,25,Male,Yes,Month-to-Month,Yes,1,20.1,21,435
+93041,27,Female,Yes,Month-to-Month,No,7,20,21,436
+92841,73,Female,No,Two Year,Yes,66,100.8,20,437
+95227,47,Male,No,One Year,No,7,19.45,21,438
+90260,46,Male,No,Month-to-Month,No,1,19.05,21,439
+92071,66,Male,No,Two Year,Yes,8,69.7,5,440
+95220,47,Female,No,One Year,Yes,62,106.05,23,441
+91733,38,Female,No,One Year,Yes,41,24.85,21,442
+92101,63,Female,No,One Year,Yes,38,89.1,18,443
+91504,79,Male,No,Month-to-Month,Yes,30,101.5,24,444
+96125,51,Female,Yes,Month-to-Month,Yes,1,70.85,23,445
+92267,77,Female,No,Month-to-Month,Yes,63,103.5,2,446
+95595,43,Male,No,Month-to-Month,No,19,20.6,21,447
+93711,59,Female,Yes,One Year,No,12,19.8,21,448
+95426,37,Female,No,One Year,Yes,25,54.75,27,449
+94544,19,Male,Yes,Two Year,Yes,56,25.15,21,450
+95118,54,Female,No,Month-to-Month,No,8,21.05,21,451
+95123,56,Male,No,Month-to-Month,No,20,70.55,26,452
+91208,57,Male,No,Two Year,No,43,19.55,21,453
+94305,21,Female,No,Month-to-Month,No,44,19.6,21,454
+94074,19,Female,No,Month-to-Month,No,2,19.5,21,455
+95713,28,Female,No,Two Year,No,71,19.9,21,456
+90028,70,Female,No,One Year,Yes,67,105.4,25,457
+92024,36,Female,No,Month-to-Month,Yes,56,109.6,11,458
+95831,55,Male,No,One Year,No,1,19.85,21,459
+90024,29,Male,Yes,Month-to-Month,No,1,20.15,21,460
+94541,47,Male,No,One Year,No,25,19.9,21,461
+95460,68,Female,Yes,Month-to-Month,Yes,1,85.05,7,462
+93308,54,Male,No,Two Year,No,55,25.7,21,463
+90021,29,Female,No,One Year,No,59,20.35,21,464
+91770,69,Male,Yes,Month-to-Month,Yes,16,98.75,7,465
+91730,48,Female,No,Month-to-Month,Yes,7,71.05,13,466
+95623,63,Female,No,Two Year,No,51,85.5,13,467
+96122,24,Female,No,One Year,Yes,69,20.35,21,468
+96137,46,Female,Yes,Month-to-Month,Yes,1,69.1,19,469
+92116,62,Male,No,Two Year,No,38,20.4,21,470
+94520,38,Female,Yes,Month-to-Month,Yes,3,19.6,21,471
+93664,33,Male,No,Two Year,Yes,56,75.85,26,472
+93517,72,Male,No,Two Year,Yes,11,54.55,23,473
+93541,43,Female,No,Two Year,Yes,24,19.7,21,474
+92333,47,Male,No,Two Year,No,72,105.5,19,475
+95954,62,Male,Yes,Month-to-Month,Yes,17,76.65,7,476
+96033,33,Female,No,Two Year,No,18,25.1,21,477
+92881,45,Male,No,Two Year,No,11,19.55,21,478
+96107,52,Female,No,One Year,No,45,51,19,479
+95258,78,Female,Yes,Month-to-Month,Yes,47,95.05,11,480
+90732,35,Female,No,Two Year,Yes,61,101.05,21,481
+92268,42,Female,No,Month-to-Month,No,42,54.55,8,482
+91977,34,Female,No,Month-to-Month,Yes,1,19.25,21,483
+92692,58,Female,No,One Year,Yes,68,54.4,11,484
+94709,62,Female,No,Two Year,No,1,20.35,21,485
+94702,60,Female,No,Month-to-Month,Yes,15,51.1,5,486
+93261,52,Male,No,Month-to-Month,No,28,64.4,19,487
+96050,67,Male,No,Month-to-Month,Yes,28,105.8,15,488
+94561,21,Male,No,Two Year,No,40,19.6,21,489
+95950,67,Female,Yes,Month-to-Month,No,15,89.85,6,490
+91306,59,Female,Yes,One Year,No,14,105.95,23,491
+92582,43,Male,Yes,Month-to-Month,Yes,54,55,16,492
+91326,38,Male,No,Two Year,Yes,39,100.45,19,493
+90056,36,Female,Yes,Month-to-Month,Yes,16,53.9,8,494
+93309,39,Female,No,One Year,Yes,44,77.55,26,495
+92259,64,Male,Yes,Month-to-Month,Yes,1,70.65,26,496
+90032,36,Male,No,One Year,Yes,69,53.65,16,497
+90040,78,Female,No,Two Year,No,49,43.8,3,498
+94580,58,Female,No,One Year,No,24,24.6,21,499
+90742,66,Male,No,Two Year,No,71,23.95,21,500
+95639,41,Male,No,One Year,Yes,61,98.45,21,501
+92551,47,Female,No,Month-to-Month,No,1,19.85,21,502
+92236,53,Female,No,One Year,No,30,70.25,13,503
+93223,64,Female,No,Month-to-Month,No,17,24.8,21,504
+92107,36,Female,No,One Year,No,51,87.55,7,505
+95926,64,Male,Yes,Month-to-Month,No,2,29.85,11,506
+95006,39,Female,Yes,Month-to-Month,Yes,2,85.7,6,507
+91201,57,Female,No,Month-to-Month,No,1,19.75,21,508
+96028,59,Male,Yes,Month-to-Month,Yes,1,74.95,26,509
+91030,59,Female,No,Month-to-Month,No,16,20.4,21,510
+93704,66,Male,No,Two Year,Yes,72,109.75,14,511
+92384,61,Male,No,Month-to-Month,Yes,41,74.55,20,512
+90402,65,Female,No,Two Year,Yes,67,20.05,21,513
+95007,45,Male,No,One Year,Yes,49,106.65,25,514
+90010,20,Male,No,Month-to-Month,No,47,25.4,21,515
+93675,44,Female,No,One Year,Yes,28,90.45,19,516
+95968,35,Male,No,One Year,No,53,64.15,15,517
+92585,45,Female,No,One Year,No,19,20.25,21,518
+95050,33,Male,No,One Year,Yes,3,19.45,21,519
+95601,38,Male,Yes,Month-to-Month,Yes,10,79.95,4,520
+92624,21,Female,No,Month-to-Month,No,27,95,26,521
+93626,65,Female,No,Two Year,Yes,4,74.45,7,522
+96051,54,Female,Yes,Month-to-Month,Yes,7,59.5,22,523
+94572,56,Female,No,Two Year,No,56,80.3,15,524
+94061,42,Female,No,Two Year,No,52,23.05,21,525
+95636,60,Male,Yes,One Year,Yes,23,48.35,12,526
+92570,63,Male,No,Month-to-Month,Yes,20,49.6,10,527
+94005,47,Male,No,Two Year,Yes,68,56.4,19,528
+92111,49,Female,Yes,Month-to-Month,Yes,6,49.65,22,529
+93424,77,Male,No,One Year,Yes,43,100.55,8,530
+92544,45,Female,No,Two Year,Yes,62,65.1,18,531
+90274,61,Male,No,Month-to-Month,Yes,40,20.4,21,532
+93260,21,Male,No,Month-to-Month,No,6,26.35,21,533
+96136,55,Male,No,Two Year,No,20,20.05,21,534
+94549,26,Female,Yes,Month-to-Month,Yes,2,49.6,26,535
+94536,53,Female,No,Two Year,Yes,72,91.15,26,536
+90007,37,Male,Yes,Month-to-Month,No,50,105.95,13,537
+95568,32,Male,No,Month-to-Month,Yes,3,65.25,27,538
+96002,49,Male,No,Two Year,Yes,58,19.15,21,539
+94904,74,Male,Yes,Month-to-Month,No,14,90.45,24,540
+90017,49,Female,No,Month-to-Month,Yes,18,19.55,21,541
+95492,45,Female,No,Two Year,Yes,67,26.1,21,542
+92127,63,Male,Yes,Month-to-Month,Yes,1,20.1,21,543
+91761,48,Male,No,Two Year,No,61,25.45,21,544
+90740,31,Male,No,Two Year,No,52,19.65,21,545
+96114,46,Female,No,Two Year,No,14,20.4,21,546
+91945,42,Male,No,Two Year,No,52,24.8,21,547
+95450,20,Male,No,Month-to-Month,No,5,19.45,21,548
+94037,70,Female,No,One Year,Yes,27,110.5,4,549
+90067,78,Male,No,Month-to-Month,Yes,23,34.65,2,550
+92130,46,Female,Yes,Month-to-Month,Yes,9,75.75,25,551
+92106,51,Female,No,One Year,Yes,49,56.3,21,552
+94507,30,Female,No,Two Year,Yes,71,80.45,27,553
+93638,68,Female,Yes,One Year,Yes,68,96.55,19,554
+95979,33,Female,No,Two Year,Yes,64,81.3,4,555
+95559,23,Male,No,One Year,No,44,20,21,556
+94933,77,Male,Yes,Month-to-Month,Yes,12,43.65,10,557
+90631,48,Male,No,One Year,No,15,19.65,21,558
+91737,69,Female,Yes,Month-to-Month,Yes,4,88.85,4,559
+95250,68,Male,No,One Year,Yes,70,44.05,13,560
+95494,55,Male,No,Two Year,Yes,72,110.6,18,561
+95689,64,Female,No,Two Year,Yes,72,20.7,21,562
+91020,61,Female,No,One Year,No,35,21.1,21,563
+95383,43,Female,No,Two Year,No,70,24.7,21,564
+95691,58,Male,No,Two Year,No,66,19.35,21,565
+92694,70,Male,No,Two Year,No,20,89.95,23,566
+95562,52,Female,No,Two Year,Yes,55,69.05,17,567
+93066,69,Female,Yes,Month-to-Month,Yes,2,78.55,14,568
+91950,57,Female,No,Two Year,Yes,72,97.85,24,569
+93250,60,Female,No,Two Year,No,49,20.45,21,570
+92372,72,Male,No,One Year,Yes,52,80.85,22,571
+92347,40,Female,No,Month-to-Month,Yes,18,50.3,20,572
+95714,62,Male,No,Month-to-Month,Yes,12,84.6,7,573
+93651,45,Female,Yes,Month-to-Month,Yes,53,98.4,24,574
+94608,73,Female,Yes,Month-to-Month,No,15,55,19,575
+93553,58,Male,No,Two Year,Yes,70,99.35,13,576
+90746,59,Female,No,Two Year,No,18,20.1,21,577
+93433,42,Female,No,Month-to-Month,No,7,25.05,4,578
+92703,40,Female,No,One Year,Yes,54,24.75,21,579
+93262,64,Male,Yes,Month-to-Month,Yes,1,24.25,7,580
+90044,49,Female,No,One Year,Yes,72,101.35,23,581
+91331,61,Male,No,Month-to-Month,Yes,9,24.95,7,582
+96143,33,Female,No,Month-to-Month,No,4,20.05,21,583
+92630,33,Male,Yes,Month-to-Month,Yes,10,86.05,11,584
+92507,20,Male,No,Month-to-Month,No,6,19.55,21,585
+92880,63,Male,No,Month-to-Month,No,61,94.15,2,586
+95552,53,Male,No,Two Year,No,4,19.55,21,587
+94546,44,Male,No,Month-to-Month,No,6,78.65,7,588
+90280,68,Female,No,One Year,Yes,54,99.1,17,589
+95986,50,Female,No,One Year,Yes,67,109.7,23,590
+90211,55,Female,No,One Year,Yes,46,94.15,3,591
+95569,64,Female,No,Two Year,No,10,56.05,8,592
+96128,25,Female,No,One Year,No,48,24.35,21,593
+95351,62,Female,Yes,Month-to-Month,Yes,11,66.35,12,594
+94583,65,Female,Yes,Month-to-Month,Yes,4,94.3,23,595
+90401,37,Female,No,Month-to-Month,Yes,30,48.8,13,596
+92401,31,Male,No,Month-to-Month,Yes,15,91,12,597
+90810,62,Female,Yes,Month-to-Month,No,7,20.05,21,598
+90242,65,Male,Yes,Month-to-Month,No,3,91.05,8,599
+92831,50,Female,No,Month-to-Month,Yes,1,95.85,14,600
+96067,70,Female,No,Two Year,Yes,44,85.15,6,601
+93283,40,Male,No,Two Year,No,24,20.75,21,602
+92688,32,Female,Yes,Month-to-Month,Yes,21,74.05,26,603
+91801,71,Male,Yes,Month-to-Month,Yes,3,105.9,2,604
+90232,64,Male,No,One Year,Yes,23,20,21,605
+92604,47,Male,No,Two Year,No,70,20.05,21,606
+96146,23,Female,No,One Year,No,33,20.1,21,607
+93523,47,Male,No,Month-to-Month,Yes,7,71.35,25,608
+94576,45,Male,No,Two Year,No,70,84.6,21,609
+93634,75,Male,No,Month-to-Month,Yes,30,105.7,22,610
+95832,64,Male,No,One Year,Yes,32,79.25,18,611
+92808,62,Female,No,Month-to-Month,Yes,1,19,21,612
+96087,62,Female,No,Month-to-Month,Yes,56,98.7,18,613
+95119,57,Female,No,One Year,No,12,19.7,21,614
+95212,46,Male,No,One Year,No,29,35.6,8,615
+93623,35,Female,No,Month-to-Month,No,22,19.05,21,616
+96035,62,Female,No,Month-to-Month,Yes,10,67.8,7,617
+96130,33,Male,Yes,Month-to-Month,Yes,3,19.8,21,618
+94612,59,Female,No,Month-to-Month,No,39,51.05,11,619
+94511,61,Male,No,Two Year,Yes,52,91.6,3,620
+92249,39,Male,No,Two Year,No,60,19.95,21,621
+93603,44,Female,No,Month-to-Month,No,3,19.65,21,622
+95130,69,Male,No,Two Year,Yes,64,24.4,21,623
+92257,37,Female,No,Month-to-Month,No,1,49.95,27,624
+94803,55,Male,No,Month-to-Month,Yes,36,94.7,18,625
+92359,75,Male,No,Two Year,Yes,72,116.05,13,626
+95019,45,Male,No,Month-to-Month,Yes,30,100.4,19,627
+93450,49,Male,No,Month-to-Month,Yes,52,93.25,10,628
+92124,63,Female,No,Two Year,Yes,72,116.85,14,629
+91007,31,Male,No,Month-to-Month,Yes,31,20.65,21,630
+93235,28,Male,Yes,Month-to-Month,Yes,1,20.2,21,631
+95464,51,Female,No,Two Year,No,10,20.15,21,632
+91931,34,Male,Yes,Month-to-Month,No,2,45.85,16,633
+90038,57,Female,Yes,One Year,Yes,58,106.45,12,634
+92501,32,Male,No,Month-to-Month,Yes,12,81.45,16,635
+90037,36,Female,Yes,Month-to-Month,Yes,12,89.4,9,636
+93305,34,Male,No,Two Year,Yes,66,63.3,19,637
+91604,57,Female,No,Month-to-Month,No,49,40.65,11,638
+93270,33,Female,No,Month-to-Month,Yes,1,49.9,4,639
+93646,53,Female,No,Month-to-Month,No,12,20.4,21,640
+95692,58,Male,Yes,Month-to-Month,No,1,62.05,12,641
+95386,77,Male,No,One Year,Yes,61,98.3,8,642
+95662,53,Female,Yes,Month-to-Month,No,32,84.15,13,643
+91916,31,Female,No,Month-to-Month,No,55,20,21,644
+93705,37,Female,No,Month-to-Month,No,42,20.35,21,645
+93727,25,Female,No,Two Year,No,71,23.9,21,646
+91980,25,Female,No,Two Year,No,43,115.05,26,647
+93111,37,Male,No,Month-to-Month,Yes,19,25.15,6,648
+91913,43,Female,No,Month-to-Month,No,12,19.7,21,649
+95354,53,Male,No,Month-to-Month,Yes,4,63.75,11,650
+94401,59,Male,Yes,Month-to-Month,Yes,8,94,14,651
+91706,65,Male,No,Two Year,No,70,90.05,17,652
+90710,39,Male,No,Two Year,Yes,68,92.2,20,653
+94805,55,Male,Yes,Month-to-Month,Yes,5,78.75,7,654
+93301,70,Male,No,Two Year,No,70,105.35,7,655
+95624,42,Female,Yes,Month-to-Month,No,30,19.65,21,656
+95323,31,Male,Yes,Month-to-Month,Yes,7,90.45,27,657
+93561,66,Male,No,Month-to-Month,Yes,19,87.3,16,658
+93101,79,Male,Yes,Month-to-Month,Yes,66,99.5,25,659
+90804,76,Male,No,One Year,Yes,51,93.65,10,660
+91104,64,Female,No,Month-to-Month,No,11,51.1,21,661
+95602,74,Female,Yes,Month-to-Month,Yes,26,95,26,662
+95974,47,Female,No,Month-to-Month,Yes,12,45,13,663
+95215,76,Male,No,Two Year,Yes,45,93.9,18,664
+95634,59,Female,No,Month-to-Month,Yes,8,20.7,21,665
+95224,38,Female,No,Two Year,Yes,68,24.95,21,666
+95823,54,Female,No,Two Year,Yes,36,106.05,18,667
+95917,44,Female,No,Month-to-Month,Yes,1,19.55,21,668
+91605,75,Male,Yes,Month-to-Month,Yes,5,89.8,12,669
+94946,40,Female,Yes,Month-to-Month,Yes,10,84.7,18,670
+90505,42,Female,Yes,One Year,Yes,68,83,5,671
+93208,75,Male,Yes,Month-to-Month,Yes,20,94.55,10,672
+96148,30,Female,No,Two Year,No,29,19.4,21,673
+94513,60,Male,No,Month-to-Month,Yes,1,85,2,674
+96059,29,Female,No,Two Year,No,19,20.5,21,675
+91607,72,Male,No,Two Year,Yes,4,50.95,10,676
+95205,38,Male,No,Month-to-Month,Yes,6,20.2,21,677
+95254,77,Female,No,One Year,Yes,32,100.4,19,678
+90623,48,Female,Yes,One Year,Yes,33,93.8,27,679
+92591,35,Male,No,Two Year,No,53,19.9,21,680
+95421,65,Female,No,Two Year,Yes,6,74.1,20,681
+95357,75,Female,No,Month-to-Month,Yes,59,88.75,26,682
+95528,50,Male,No,One Year,Yes,48,70.95,18,683
+95735,61,Male,No,Month-to-Month,No,27,49,15,684
+91752,57,Female,Yes,Month-to-Month,Yes,14,89.65,3,685
+90023,45,Male,No,One Year,No,12,19.8,21,686
+95816,56,Male,No,One Year,No,23,20.45,21,687
+92139,60,Female,No,Month-to-Month,Yes,23,69.5,21,688
+92253,54,Female,No,Month-to-Month,Yes,40,93.4,22,689
+93907,44,Male,No,Month-to-Month,No,11,45.2,22,690
+93432,55,Male,No,One Year,No,42,19.8,21,691
+95382,36,Male,Yes,Month-to-Month,No,34,78.3,12,692
+95030,43,Female,No,Month-to-Month,Yes,12,76.6,23,693
+92506,53,Female,No,One Year,No,71,95.65,10,694
+94931,21,Female,No,One Year,No,61,19.1,21,695
+93728,71,Male,No,Month-to-Month,No,19,66.4,26,696
+90046,44,Female,No,Two Year,No,16,19.7,21,697
+90077,39,Male,No,Month-to-Month,No,52,61.35,3,698
+93103,65,Female,No,One Year,Yes,46,91.3,26,699
+92220,51,Female,No,One Year,Yes,42,54.75,13,700
+93657,38,Male,No,One Year,No,53,20.2,21,701
+95032,67,Male,Yes,Month-to-Month,Yes,5,89.5,6,702
+94952,33,Female,No,Month-to-Month,No,34,50.2,7,703
+91762,74,Female,No,Two Year,Yes,32,79.5,12,704
+95501,50,Female,No,Two Year,No,11,25,21,705
+95818,51,Male,No,Month-to-Month,Yes,8,19.35,21,706
+93644,53,Male,Yes,Month-to-Month,Yes,1,35.25,9,707
+95488,42,Male,No,Two Year,No,56,115.85,27,708
+91105,49,Female,No,Month-to-Month,No,34,24.7,21,709
+90604,32,Male,No,Month-to-Month,No,1,75.35,9,710
+95012,74,Male,No,One Year,Yes,46,98.85,22,711
+93932,39,Male,No,One Year,Yes,60,59.8,16,712
+93001,26,Male,No,One Year,No,39,19.9,21,713
+91202,55,Male,No,Month-to-Month,No,25,20.8,21,714
+92503,45,Male,No,Month-to-Month,Yes,3,50.5,25,715
+93307,56,Male,No,Month-to-Month,Yes,29,84.9,21,716
+94804,39,Male,No,Two Year,No,66,25.1,21,717
+95948,19,Female,No,Month-to-Month,Yes,18,71.1,26,718
+95139,73,Female,No,Two Year,Yes,72,114.65,27,719
+95687,63,Male,No,One Year,Yes,51,96.4,8,720
+95113,31,Male,No,Month-to-Month,No,30,67.6,19,721
+92868,47,Female,No,One Year,No,64,19.8,21,722
+93461,59,Female,No,Two Year,No,72,80.45,27,723
+92354,63,Female,No,Month-to-Month,No,5,25.45,21,724
+93660,31,Female,No,Month-to-Month,Yes,27,89.2,2,725
+95684,35,Male,No,Two Year,No,65,94.55,19,726
+92408,50,Male,No,Month-to-Month,Yes,45,107.75,27,727
+91106,20,Male,No,One Year,No,42,25.05,21,728
+91766,71,Female,No,Two Year,No,22,85.35,27,729
+93426,80,Female,Yes,Month-to-Month,Yes,1,70.15,8,730
+94087,43,Female,No,Month-to-Month,Yes,8,60,24,731
+95064,61,Male,No,Month-to-Month,No,8,20.35,21,732
+93430,47,Female,No,Month-to-Month,Yes,26,50.35,7,733
+95564,38,Male,Yes,Month-to-Month,Yes,1,70,4,734
+90272,24,Female,No,Two Year,No,48,20.65,21,735
+92373,77,Male,Yes,Month-to-Month,Yes,41,98.4,21,736
+94972,31,Male,No,Month-to-Month,No,21,20.5,21,737
+95817,47,Female,No,Month-to-Month,Yes,58,79.8,14,738
+94973,57,Male,Yes,Month-to-Month,No,12,80.85,18,739
+95587,65,Male,Yes,Month-to-Month,Yes,69,89.95,4,740
+90241,71,Male,No,Two Year,Yes,64,111.6,10,741
+93528,79,Female,Yes,Month-to-Month,No,20,90.8,17,742
+93535,38,Female,Yes,Month-to-Month,No,22,89.25,2,743
+92583,38,Female,No,Month-to-Month,No,1,43.95,5,744
+95330,44,Female,No,Two Year,Yes,64,90.6,19,745
+95468,31,Female,No,One Year,Yes,39,24.2,21,746
+93953,42,Female,No,Month-to-Month,No,1,19.5,21,747
+95543,47,Male,No,Month-to-Month,Yes,8,66.7,27,748
+93531,53,Female,Yes,Month-to-Month,No,1,70.5,3,749
+94920,56,Female,No,One Year,Yes,16,19.3,21,750
+95965,49,Female,No,Month-to-Month,No,5,20.55,21,751
+91963,71,Male,No,One Year,Yes,55,50.05,23,752
+90049,62,Female,Yes,Month-to-Month,Yes,7,86.5,11,753
+93923,45,Female,No,Two Year,Yes,72,25.25,21,754
+95667,47,Male,No,Month-to-Month,No,1,61.15,3,755
+91724,38,Male,No,Month-to-Month,Yes,58,92.85,24,756
+95459,79,Male,No,Month-to-Month,Yes,33,100.6,22,757
+95659,21,Male,No,One Year,No,33,20.1,21,758
+95567,35,Male,Yes,Month-to-Month,No,1,20.15,21,759
+95444,22,Male,No,Two Year,No,49,49.65,27,760
+95666,43,Female,No,Two Year,No,68,110.25,17,761
+93955,32,Female,No,Two Year,Yes,72,98.2,3,762
+91754,57,Female,No,One Year,No,45,113.3,4,763
+90245,62,Male,No,Month-to-Month,No,30,49.9,8,764
+90712,61,Male,No,Two Year,No,52,79.2,12,765
+95720,31,Female,Yes,Month-to-Month,No,1,20.4,21,766
+94514,65,Female,Yes,Month-to-Month,Yes,14,78.95,6,767
+95672,38,Female,No,Two Year,No,35,23.3,21,768
+93641,46,Female,No,Two Year,Yes,65,59.8,14,769
+92629,69,Female,Yes,Month-to-Month,No,1,46,19,770
+95497,72,Female,Yes,Month-to-Month,Yes,1,73,5,771
+91506,47,Female,No,Month-to-Month,No,29,25.15,21,772
+95223,44,Female,No,Two Year,Yes,43,19.65,21,773
+95635,73,Male,No,Two Year,Yes,18,58.4,7,774
+90018,46,Female,No,Two Year,No,71,25.05,21,775
+92069,45,Female,No,Month-to-Month,No,9,19.05,21,776
+94025,67,Female,No,Two Year,Yes,70,92.2,21,777
+92879,51,Male,No,Two Year,No,46,108.65,22,778
+95315,24,Female,Yes,Month-to-Month,No,1,20.5,21,779
+96047,62,Male,Yes,Month-to-Month,No,66,99.5,26,780
+95355,78,Female,Yes,Month-to-Month,Yes,11,99.55,14,781
+95571,55,Female,No,Two Year,No,8,20,21,782
+91501,31,Male,Yes,Month-to-Month,Yes,13,99,21,783
+95425,54,Female,Yes,Month-to-Month,Yes,7,79.3,16,784
+95003,64,Female,Yes,Month-to-Month,Yes,43,49.05,12,785
+91325,54,Male,No,Two Year,Yes,6,20.4,21,786
+92584,63,Male,No,Month-to-Month,No,4,86.05,20,787
+95374,56,Female,No,Month-to-Month,Yes,49,100.85,10,788
+90263,51,Male,No,Two Year,No,72,114.45,13,789
+92683,61,Male,No,Month-to-Month,No,1,55.7,9,790
+94592,60,Female,No,Month-to-Month,No,1,35.9,7,791
+96011,71,Female,Yes,Month-to-Month,Yes,3,70.4,3,792
+91790,56,Male,No,One Year,No,68,105.75,17,793
+90012,32,Male,Yes,Month-to-Month,Yes,5,69.75,5,794
+90606,57,Female,No,Month-to-Month,No,37,19.5,21,795
+95619,47,Female,No,One Year,Yes,29,71,4,796
+90057,41,Female,No,Month-to-Month,Yes,64,111.15,21,797
+91107,77,Female,Yes,Month-to-Month,No,7,76.45,18,798
+90815,66,Female,No,Two Year,Yes,23,79.35,18,799
+94947,49,Male,Yes,Month-to-Month,Yes,2,89.55,23,800
+95410,37,Female,No,Month-to-Month,Yes,17,92.7,19,801
+92657,46,Male,No,Two Year,No,55,19.35,21,802
+93117,48,Female,No,Two Year,No,68,70.9,9,803
+91502,78,Female,No,Month-to-Month,Yes,41,104.4,15,804
+94806,54,Male,No,Month-to-Month,No,2,74.95,16,805
+91789,21,Female,No,Month-to-Month,No,1,25.4,21,806
+95641,25,Male,No,Month-to-Month,Yes,1,20.25,21,807
+95991,56,Female,No,Two Year,Yes,72,78.95,6,808
+94569,70,Female,Yes,Month-to-Month,Yes,31,73.9,2,809
+95901,40,Female,No,Month-to-Month,No,16,19.35,21,810
+95448,56,Male,No,Two Year,No,65,25.75,21,811
+95981,39,Female,Yes,Month-to-Month,No,5,67.95,4,812
+95463,41,Female,No,Month-to-Month,Yes,33,95,22,813
+92065,80,Female,No,Two Year,Yes,30,104.1,21,814
+90025,49,Male,No,Month-to-Month,No,25,55.55,10,815
+95403,43,Male,No,Month-to-Month,Yes,25,20.15,21,816
+95834,60,Male,No,One Year,No,44,19.5,21,817
+94116,44,Female,No,Month-to-Month,Yes,18,75.4,22,818
+94030,66,Female,No,One Year,Yes,7,84.35,20,819
+91767,39,Female,No,Two Year,Yes,59,72.1,24,820
+92363,49,Female,No,Month-to-Month,Yes,40,26.2,21,821
+90745,63,Male,Yes,Month-to-Month,Yes,1,45.65,24,822
+95709,51,Female,Yes,Month-to-Month,Yes,4,68.65,23,823
+93650,55,Female,No,Two Year,Yes,67,25.25,21,824
+91311,33,Male,No,Two Year,No,59,19.3,21,825
+90650,37,Female,No,Month-to-Month,Yes,28,54.9,11,826
+96093,26,Male,No,Month-to-Month,No,5,20.05,21,827
+90043,31,Female,No,Month-to-Month,No,20,20.05,21,828
+94579,68,Female,No,Two Year,Yes,29,58.55,22,829
+94596,36,Female,Yes,Month-to-Month,Yes,7,40.1,19,830
+96105,31,Female,No,One Year,No,34,55,8,831
+94577,60,Female,No,Two Year,No,45,73.55,15,832
+94903,47,Male,No,Two Year,No,72,111.95,19,833
+90014,65,Female,No,Two Year,Yes,68,53,23,834
+93609,59,Female,No,Month-to-Month,Yes,34,60.85,26,835
+93612,75,Male,Yes,Month-to-Month,Yes,7,84.8,13,836
+95945,34,Male,No,Two Year,No,52,24.55,21,837
+92626,60,Male,No,Two Year,No,43,24.25,21,838
+95138,23,Female,No,Month-to-Month,No,26,81.95,27,839
+95573,40,Female,No,Month-to-Month,No,1,25.25,15,840
+95471,36,Female,No,Two Year,No,68,85.3,26,841
+92823,25,Male,No,One Year,Yes,27,45.85,27,842
+95356,49,Female,No,Month-to-Month,No,1,19.4,21,843
+92708,41,Male,No,Two Year,Yes,71,116.05,18,844
+95409,47,Female,Yes,Month-to-Month,No,15,19.4,21,845
+93040,38,Female,Yes,Two Year,No,70,93.9,14,846
+95428,39,Female,No,Two Year,Yes,72,85.9,24,847
+94566,45,Female,No,Two Year,No,54,20.1,21,848
+96103,19,Female,No,Two Year,No,8,19.5,21,849
+96141,34,Female,No,Month-to-Month,Yes,24,49.3,16,850
+92275,41,Female,No,Month-to-Month,Yes,5,24.3,21,851
+91791,56,Female,No,One Year,Yes,51,60.5,12,852
+90501,20,Male,No,Month-to-Month,No,20,19.4,21,853
+96017,58,Female,No,Two Year,No,31,80.55,2,854
+96145,48,Male,No,Month-to-Month,Yes,14,66.6,11,855
+94512,53,Female,No,Month-to-Month,No,1,70.1,23,856
+94115,19,Male,No,Two Year,No,15,19.35,21,857
+93004,46,Female,No,Month-to-Month,Yes,44,95.1,6,858
+90304,75,Female,Yes,Month-to-Month,Yes,14,74.3,10,859
+92242,78,Male,No,Two Year,Yes,72,63.1,26,860
+92587,38,Female,No,Month-to-Month,Yes,1,45.4,21,861
+92243,46,Female,No,One Year,No,32,19.75,21,862
+95922,70,Female,No,Two Year,Yes,71,99.2,27,863
+95329,69,Male,No,Two Year,Yes,60,99,5,864
+95930,23,Male,No,One Year,Yes,49,99.25,27,865
+91780,19,Male,No,One Year,No,40,60.3,26,866
+91910,51,Male,No,One Year,No,23,86.8,22,867
+96040,76,Female,Yes,Month-to-Month,No,48,117.45,5,868
+93202,58,Female,No,Month-to-Month,No,2,19.4,21,869
+93726,54,Female,No,One Year,No,12,33.15,27,870
+93271,38,Female,No,One Year,No,20,19.5,21,871
+93257,63,Female,No,One Year,No,48,24.55,21,872
+94609,37,Male,No,Two Year,Yes,64,104.4,14,873
+92602,46,Female,Yes,One Year,Yes,57,70.1,7,874
+91403,35,Male,Yes,Month-to-Month,Yes,16,19.7,21,875
+92845,44,Female,No,One Year,No,48,25.05,21,876
+93721,64,Male,No,Two Year,No,18,20.05,21,877
+94070,38,Female,No,Month-to-Month,Yes,55,50.55,17,878
+96110,39,Female,No,Month-to-Month,No,2,20.3,21,879
+93206,54,Male,Yes,Month-to-Month,Yes,9,94.85,6,880
+95912,52,Female,No,Two Year,No,58,20.5,21,881
+95663,52,Male,No,Month-to-Month,Yes,42,94.4,11,882
+90720,60,Female,No,One Year,Yes,44,61.5,20,883
+92382,52,Male,Yes,Month-to-Month,Yes,24,80.25,20,884
+95982,48,Male,No,Month-to-Month,Yes,65,104.25,10,885
+91902,49,Male,No,Month-to-Month,Yes,62,80.4,2,886
+90806,36,Male,No,Month-to-Month,Yes,1,19.9,21,887
+95722,43,Male,Yes,Month-to-Month,No,5,104.1,8,888
+95014,46,Male,No,Month-to-Month,No,11,20.25,21,889
+95695,76,Male,No,Month-to-Month,Yes,65,104.35,7,890
+96094,61,Female,No,Two Year,Yes,68,85,16,891
+92056,31,Male,No,One Year,Yes,46,94.9,22,892
+92314,40,Male,Yes,Month-to-Month,No,4,49.35,27,893
+92821,40,Female,No,Month-to-Month,Yes,3,20,21,894
+94901,67,Male,Yes,Month-to-Month,Yes,8,80.45,2,895
+93618,77,Female,Yes,Month-to-Month,Yes,13,70.15,19,896
+95445,43,Male,Yes,One Year,Yes,59,110.15,26,897
+95110,67,Female,Yes,Month-to-Month,Yes,10,34.7,4,898
+90278,79,Male,No,One Year,No,1,74.7,2,899
+94109,74,Male,No,Two Year,Yes,44,19.35,21,900
+95472,43,Male,No,One Year,Yes,18,89.6,2,901
+94568,62,Male,Yes,Month-to-Month,Yes,22,54.45,7,902
+93505,45,Female,No,Two Year,Yes,64,94.6,13,903
+91350,32,Male,Yes,Month-to-Month,Yes,1,70.3,7,904
+93546,33,Female,No,One Year,No,11,53.8,17,905
+90303,70,Female,No,Two Year,Yes,72,25.7,21,906
+96116,68,Female,No,One Year,No,54,72.1,2,907
+95306,67,Female,Yes,Month-to-Month,Yes,12,98.1,27,908
+93221,72,Female,Yes,Month-to-Month,Yes,40,55.8,6,909
+95206,65,Male,No,One Year,Yes,11,75.2,22,910
+95553,33,Male,Yes,Month-to-Month,Yes,5,92.5,25,911
+93906,31,Male,No,Month-to-Month,Yes,1,19.75,21,912
+93287,64,Female,No,Month-to-Month,Yes,1,20.65,21,913
+91364,40,Male,No,Month-to-Month,No,4,44.8,19,914
+92405,62,Female,No,Two Year,Yes,61,25,21,915
+92804,41,Male,Yes,Month-to-Month,Yes,10,70,27,916
+95045,44,Male,Yes,Month-to-Month,Yes,4,44.55,20,917
+93512,69,Female,No,Two Year,Yes,72,110.8,2,918
+91360,66,Male,No,One Year,No,23,86.8,2,919
+93003,20,Female,Yes,Month-to-Month,Yes,6,98.15,26,920
+92509,76,Female,Yes,Month-to-Month,Yes,1,69.55,22,921
+90502,46,Male,No,One Year,No,50,54.9,6,922
+90230,77,Female,Yes,Month-to-Month,Yes,2,75.45,25,923
+90701,80,Male,No,One Year,Yes,60,104.35,15,924
+95514,34,Male,No,One Year,Yes,25,55.1,25,925
+95005,23,Female,No,Two Year,No,10,20,21,926
+92706,66,Male,Yes,Month-to-Month,Yes,17,76.45,8,927
+92518,46,Male,Yes,Two Year,Yes,61,94.1,11,928
+94303,58,Female,No,Month-to-Month,No,1,19.95,21,929
+94585,19,Male,No,Two Year,No,72,20.7,21,930
+91204,51,Male,No,One Year,No,47,94.8,20,931
+93306,21,Male,Yes,Month-to-Month,Yes,1,24.05,21,932
+92285,30,Female,No,Two Year,Yes,72,21.15,21,933
+93451,65,Male,No,Two Year,Yes,48,91.05,22,934
+95519,30,Female,No,Month-to-Month,No,1,19.55,21,935
+93241,61,Male,No,One Year,Yes,35,73.45,20,936
+92173,23,Female,No,Two Year,No,37,45.4,27,937
+90716,45,Male,No,Month-to-Month,No,54,30.4,9,938
+92321,63,Female,No,One Year,No,50,19.75,21,939
+95957,57,Male,No,One Year,No,14,44.6,19,940
+94567,54,Female,No,Month-to-Month,No,12,43.8,17,941
+94703,46,Female,Yes,Month-to-Month,Yes,4,70.05,19,942
+93643,32,Female,Yes,Month-to-Month,Yes,1,77.15,19,943
+91915,68,Male,No,Month-to-Month,Yes,71,107.5,19,944
+93313,54,Male,No,Month-to-Month,Yes,33,72.75,21,945
+94107,35,Female,No,Month-to-Month,No,3,20.85,21,946
+94801,49,Female,No,Two Year,No,62,23.65,21,947
+94533,71,Male,Yes,Month-to-Month,Yes,66,100.05,14,948
+93925,68,Male,Yes,Month-to-Month,Yes,9,85.05,6,949
+93630,25,Male,No,One Year,Yes,33,19.45,21,950
+92663,22,Female,No,Month-to-Month,No,1,19.9,21,951
+93065,65,Female,Yes,Month-to-Month,No,26,84.95,3,952
+95937,44,Female,Yes,One Year,Yes,8,19.75,21,953
+93673,33,Female,No,Month-to-Month,Yes,37,88.8,16,954
+96056,29,Female,No,One Year,No,7,19.9,21,955
+93513,80,Male,No,Two Year,Yes,58,98.9,4,956
+94621,62,Male,No,Two Year,No,53,19.65,21,957
+94945,76,Male,No,Two Year,No,31,89.45,18,958
+93549,73,Male,No,Two Year,Yes,9,79.55,15,959
+94403,32,Female,No,One Year,Yes,65,108.05,15,960
+95640,34,Female,No,One Year,No,55,100.9,18,961
+96054,40,Male,No,One Year,No,36,53.65,19,962
+90005,35,Female,No,Two Year,No,15,25.2,21,963
+93653,48,Male,No,Month-to-Month,Yes,43,86.1,20,964
+94971,64,Male,No,Two Year,Yes,71,19.6,21,965
+94086,36,Male,Yes,Month-to-Month,No,17,93.85,13,966
+95683,65,Male,Yes,Month-to-Month,Yes,2,94,22,967
+92020,52,Male,No,One Year,No,46,56.9,15,968
+94590,35,Female,No,Two Year,No,33,19.8,21,969
+93950,44,Female,No,Month-to-Month,Yes,5,20.5,21,970
+92037,79,Female,No,One Year,Yes,17,82.65,25,971
+95910,39,Male,No,Month-to-Month,No,5,20.35,21,972
+95337,42,Male,No,Month-to-Month,Yes,1,50.15,2,973
+90813,37,Male,No,One Year,No,22,20.15,21,974
+92067,32,Female,No,One Year,Yes,47,103.7,13,975
+93446,41,Male,No,Two Year,Yes,65,74.2,18,976
+96037,54,Male,Yes,Month-to-Month,No,10,95.2,18,977
+92054,60,Male,No,One Year,Yes,35,89.2,26,978
+96073,74,Male,Yes,Month-to-Month,Yes,2,74.7,11,979
+90744,56,Male,No,Two Year,Yes,10,61.9,19,980
+95728,75,Male,Yes,Month-to-Month,No,24,39.1,5,981
+92627,52,Female,No,Month-to-Month,Yes,11,58.95,10,982
+95388,39,Male,No,One Year,No,13,19.45,21,983
+90013,63,Female,No,Month-to-Month,No,9,20.15,21,984
+94555,49,Female,No,Month-to-Month,Yes,1,83.4,9,985
+91776,28,Male,No,Month-to-Month,Yes,3,20.5,21,986
+92003,67,Female,No,One Year,Yes,5,69.35,13,987
+92505,48,Male,No,Month-to-Month,Yes,42,100.3,13,988
+93243,48,Female,No,Month-to-Month,Yes,3,74.75,4,989
+92282,79,Male,No,One Year,Yes,52,105.1,9,990
+95822,36,Female,No,Two Year,No,50,19.4,21,991
+92646,52,Male,Yes,Month-to-Month,Yes,13,45.55,17,992
+94542,64,Female,No,One Year,No,28,19.9,21,993
+92270,51,Female,No,Month-to-Month,Yes,18,95.05,12,994
+94530,80,Male,No,One Year,No,7,29.8,13,995
+91108,53,Male,No,Month-to-Month,Yes,19,45,5,996
+95646,52,Female,No,Month-to-Month,No,2,19.9,21,997
+90503,38,Male,No,Two Year,No,72,19.4,21,998
+95407,74,Male,Yes,Month-to-Month,Yes,43,89.55,6,999
+95674,50,Female,Yes,One Year,Yes,17,55.85,21,1000
+93251,67,Female,Yes,Month-to-Month,Yes,20,85.8,15,1001
+94021,33,Male,No,One Year,No,6,19.15,21,1002
+94578,47,Male,No,Month-to-Month,Yes,1,24.7,21,1003
+92807,74,Female,Yes,Month-to-Month,Yes,4,89.2,24,1004
+95685,41,Female,Yes,Month-to-Month,Yes,45,89.3,24,1005
+90703,49,Female,No,Month-to-Month,Yes,13,85.95,22,1006
+95833,63,Male,No,One Year,No,35,19.9,21,1007
+91405,69,Male,No,Two Year,Yes,2,74.2,14,1008
+90222,68,Male,No,Two Year,Yes,57,104.9,15,1009
+93442,61,Female,Yes,Month-to-Month,Yes,35,70.3,4,1010
+93434,46,Male,No,One Year,No,40,80.8,24,1011
+92283,31,Male,No,Month-to-Month,Yes,2,69.8,14,1012
+92083,73,Female,No,Two Year,Yes,70,19.55,21,1013
+92545,48,Male,No,Month-to-Month,No,1,44.55,18,1014
+94038,61,Female,No,Month-to-Month,Yes,2,70.4,14,1015
+92835,40,Female,No,Two Year,Yes,56,24.95,21,1016
+95978,42,Male,No,One Year,Yes,37,90.6,6,1017
+90405,50,Female,Yes,Month-to-Month,No,39,55.9,13,1018
+95936,36,Female,Yes,Month-to-Month,Yes,4,76.65,17,1019
+91750,38,Male,No,One Year,Yes,10,19.7,21,1020
+91911,37,Female,No,One Year,Yes,30,68.95,18,1021
+92305,26,Female,No,One Year,Yes,8,20.2,21,1022
+96085,44,Male,No,One Year,Yes,46,94.65,3,1023
+94589,59,Male,No,Month-to-Month,Yes,40,110.1,22,1024
+92562,71,Female,No,One Year,Yes,59,94.05,13,1025
+95303,56,Female,No,Two Year,No,46,79.2,2,1026
+95828,30,Male,Yes,Month-to-Month,Yes,5,85.3,27,1027
+92308,41,Male,Yes,Month-to-Month,No,17,80.85,3,1028
+94591,69,Female,No,One Year,No,62,84.45,3,1029
+94041,42,Female,No,Two Year,Yes,71,25.95,21,1030
+94117,41,Female,Yes,Month-to-Month,Yes,10,100.6,3,1031
+94022,53,Female,No,Month-to-Month,No,2,51.4,21,1032
+95746,74,Female,No,Month-to-Month,Yes,36,91.95,16,1033
+96109,33,Female,No,Month-to-Month,Yes,22,59.05,24,1034
+92311,38,Male,No,Two Year,Yes,72,104.9,25,1035
+95554,46,Female,No,Month-to-Month,Yes,23,93.5,23,1036
+95645,68,Female,No,Two Year,Yes,70,90.85,25,1037
+96126,58,Female,No,One Year,Yes,3,69.95,17,1038
+91764,58,Female,Yes,Month-to-Month,Yes,6,89.5,25,1039
+94110,55,Male,No,Two Year,No,72,92,20,1040
+95918,20,Female,No,Two Year,Yes,19,24.9,21,1041
+95222,76,Male,Yes,Month-to-Month,Yes,32,104.9,22,1042
+91354,73,Male,Yes,Month-to-Month,Yes,55,98.8,21,1043
+93667,54,Female,No,Month-to-Month,Yes,55,103.65,25,1044
+95633,34,Female,Yes,Month-to-Month,Yes,2,94.2,13,1045
+93624,58,Male,Yes,One Year,Yes,62,96.75,9,1046
+95631,41,Male,No,Month-to-Month,Yes,19,20,21,1047
+90275,47,Male,No,Month-to-Month,No,29,33.75,22,1048
+95233,44,Male,Yes,Month-to-Month,No,12,81.7,3,1049
+93240,23,Male,No,Month-to-Month,No,1,20.05,21,1050
+91917,39,Female,No,Month-to-Month,Yes,38,66.15,13,1051
+95312,36,Male,No,Month-to-Month,No,3,20.2,21,1052
+95605,35,Female,No,Month-to-Month,No,32,19.9,21,1053
+95549,43,Male,No,Month-to-Month,No,3,60.65,11,1054
+93532,34,Female,Yes,Month-to-Month,Yes,10,94.85,21,1055
+90605,35,Female,No,One Year,No,63,58.55,9,1056
+92886,64,Male,No,Two Year,No,35,55.25,21,1057
+95135,37,Female,Yes,Month-to-Month,Yes,1,55.4,4,1058
+92251,49,Female,No,One Year,No,68,55.9,14,1059
+95827,38,Female,No,Two Year,Yes,60,99.65,21,1060
+95987,78,Male,Yes,Month-to-Month,No,7,73.75,7,1061
+96039,48,Female,No,Two Year,No,23,20.4,21,1062
+93669,26,Male,No,One Year,No,47,19.9,21,1063
+92284,62,Female,No,Two Year,Yes,23,77.15,12,1064
+95621,47,Female,No,Two Year,No,72,92,16,1065
+91901,55,Female,Yes,Month-to-Month,No,1,43.95,9,1066
+95043,33,Female,No,Month-to-Month,Yes,66,103.1,20,1067
+93654,48,Female,No,Month-to-Month,No,1,20.3,21,1068
+95955,63,Male,No,Month-to-Month,No,18,74.15,20,1069
+90291,60,Female,No,One Year,Yes,61,100.7,19,1070
+93254,30,Female,No,Month-to-Month,Yes,4,19.95,21,1071
+94525,34,Male,No,Month-to-Month,No,25,54.3,22,1072
+92337,32,Female,Yes,Month-to-Month,Yes,8,85.2,16,1073
+95470,75,Male,No,Two Year,No,72,84.45,9,1074
+93526,24,Male,No,Two Year,No,10,20.25,21,1075
+95765,24,Male,No,One Year,No,22,20.3,21,1076
+92679,50,Female,No,Two Year,No,19,25.6,21,1077
+94547,56,Female,No,Month-to-Month,No,2,80.55,11,1078
+93550,32,Male,No,One Year,No,17,64.8,11,1079
+94066,23,Male,No,One Year,No,10,19.6,21,1080
+90723,71,Female,No,Two Year,Yes,72,88.05,6,1081
+95837,23,Female,No,Two Year,Yes,69,24.95,21,1082
+95136,58,Male,No,Month-to-Month,No,2,19.25,21,1083
+91962,71,Male,No,One Year,No,38,101.15,27,1084
+91304,22,Female,No,Two Year,No,71,19.7,21,1085
+93628,61,Female,No,Two Year,Yes,46,64.2,6,1086
+92281,43,Female,Yes,Month-to-Month,No,1,71.35,13,1087
+92040,49,Male,No,Month-to-Month,No,14,19.95,21,1088
+91784,57,Female,No,Month-to-Month,Yes,3,80.7,17,1089
+95939,19,Male,No,Month-to-Month,Yes,3,20.25,21,1090
+91344,51,Female,No,Month-to-Month,Yes,8,75.25,3,1091
+93652,38,Male,No,Two Year,No,67,70.9,15,1092
+92661,74,Male,Yes,Month-to-Month,Yes,57,95.25,21,1093
+92004,28,Male,No,Month-to-Month,No,47,54.25,26,1094
+93268,35,Male,Yes,Month-to-Month,Yes,17,70.4,11,1095
+90302,62,Male,No,Two Year,No,52,21,21,1096
+91755,70,Female,No,Two Year,No,72,89.1,13,1097
+96031,77,Male,No,Two Year,No,4,69.35,25,1098
+95558,36,Male,Yes,Month-to-Month,Yes,26,83.95,20,1099
+94129,40,Female,No,One Year,Yes,34,79.95,23,1100
+95526,43,Female,Yes,Month-to-Month,Yes,3,31,19,1101
+94710,77,Female,No,Two Year,Yes,72,110.1,23,1102
+95249,34,Male,No,One Year,No,53,24.05,21,1103
+95758,31,Female,No,One Year,No,52,100.3,19,1104
+95935,74,Male,Yes,Month-to-Month,Yes,19,88.2,9,1105
+95226,38,Male,No,Two Year,Yes,58,86.1,2,1106
+94521,33,Female,No,Two Year,No,71,25.45,21,1107
+94123,79,Male,Yes,Month-to-Month,Yes,39,95.65,23,1108
+95525,34,Female,No,Month-to-Month,Yes,2,45.25,26,1109
+94571,53,Male,No,One Year,No,34,19.6,21,1110
+90027,58,Male,No,Two Year,No,6,25.4,21,1111
+94586,35,Female,No,Two Year,No,45,25.5,21,1112
+95453,76,Female,Yes,Month-to-Month,Yes,1,76.4,6,1113
+95236,54,Male,No,Two Year,Yes,69,19.3,21,1114
+95565,37,Male,No,Month-to-Month,Yes,1,19.2,21,1115
+93510,69,Male,No,Month-to-Month,Yes,29,79.3,2,1116
+90035,42,Male,No,One Year,No,28,50.8,19,1117
+94560,23,Female,No,Month-to-Month,Yes,20,19.5,21,1118
+91731,58,Male,No,Month-to-Month,Yes,3,92,9,1119
+92131,31,Female,No,One Year,Yes,64,96.9,21,1120
+95642,51,Female,Yes,Month-to-Month,Yes,1,49.95,4,1121
+93402,60,Male,No,Month-to-Month,No,29,80.1,27,1122
+93616,70,Female,No,One Year,Yes,59,99.5,9,1123
+94535,41,Female,Yes,One Year,Yes,67,94.35,11,1124
+95616,45,Female,No,Two Year,No,9,19.75,21,1125
+94924,37,Female,No,One Year,No,8,54.25,27,1126
+92201,63,Male,No,Month-to-Month,No,30,85.45,19,1127
+94964,31,Male,No,One Year,No,13,24.5,21,1128
+95524,76,Male,Yes,Month-to-Month,Yes,16,86.6,22,1129
+95648,61,Male,No,Month-to-Month,Yes,47,104.1,21,1130
+96123,61,Female,No,Two Year,No,23,23.85,21,1131
+95970,79,Female,Yes,Month-to-Month,Yes,8,105.5,15,1132
+95140,64,Male,No,Two Year,Yes,43,60,13,1133
+94063,76,Male,Yes,Month-to-Month,Yes,21,69.1,18,1134
+96096,40,Male,No,Two Year,No,51,60.5,10,1135
+95715,59,Male,No,One Year,No,51,59.9,3,1136
+95482,40,Female,No,Month-to-Month,Yes,51,80.75,27,1137
+95661,23,Male,No,Month-to-Month,Yes,3,20.05,21,1138
+94111,40,Female,No,One Year,No,44,94.4,27,1139
+90221,61,Female,No,Two Year,No,31,79.2,27,1140
+96101,45,Female,No,Month-to-Month,No,2,79.55,6,1141
+93921,57,Male,Yes,Month-to-Month,Yes,1,71,19,1142
+93543,58,Female,No,One Year,Yes,14,19.5,21,1143
+94965,47,Male,Yes,Month-to-Month,No,15,51.55,26,1144
+93249,46,Female,No,One Year,Yes,43,60.4,10,1145
+91024,66,Male,Yes,Month-to-Month,Yes,58,45.3,24,1146
+95132,70,Male,No,One Year,Yes,47,86.05,20,1147
+95458,47,Male,No,One Year,Yes,25,20.95,21,1148
+92407,59,Male,No,Month-to-Month,Yes,6,69.1,18,1149
+92549,29,Male,No,Two Year,Yes,25,20.75,21,1150
+94940,58,Male,No,Two Year,No,24,24.2,21,1151
+91701,46,Male,No,Month-to-Month,Yes,16,69.1,18,1152
+90031,42,Female,No,One Year,No,10,70.3,26,1153
+95826,43,Male,No,Two Year,No,40,25.25,21,1154
+95824,61,Female,Yes,Month-to-Month,Yes,16,100,26,1155
+95128,44,Female,No,Two Year,No,70,79.7,19,1156
+92301,53,Male,No,Month-to-Month,No,21,24.7,21,1157
+94941,47,Female,No,One Year,No,36,19.55,21,1158
+92304,40,Female,No,Month-to-Month,Yes,2,84.05,13,1159
+95490,32,Female,No,One Year,Yes,56,60.25,22,1160
+91411,38,Male,Yes,Month-to-Month,Yes,1,70.05,20,1161
+92801,40,Male,No,Month-to-Month,No,4,70.5,5,1162
+95690,59,Male,No,Two Year,Yes,63,19.15,21,1163
+90008,35,Male,No,Two Year,No,68,70.8,10,1164
+93702,76,Female,Yes,Month-to-Month,Yes,15,96.3,8,1165
+91602,49,Male,No,Two Year,No,60,19.95,21,1166
+90715,43,Female,No,Two Year,Yes,71,90.55,20,1167
+93218,74,Male,No,One Year,No,24,70,13,1168
+92345,54,Male,No,Two Year,No,34,26.1,21,1169
+96120,56,Male,No,Two Year,No,68,70.95,3,1170
+91324,78,Female,No,Two Year,Yes,47,67.45,24,1171
+94127,46,Male,Yes,Month-to-Month,Yes,3,29.6,3,1172
+91214,51,Female,No,Month-to-Month,Yes,55,85.1,19,1173
+95466,36,Female,No,Two Year,Yes,72,83.6,22,1174
+92225,29,Male,No,Two Year,No,7,19.45,21,1175
+94402,56,Male,No,Two Year,Yes,12,24,21,1176
+95919,68,Male,Yes,Month-to-Month,Yes,1,74.4,12,1177
+92364,38,Male,No,Two Year,No,68,62.65,24,1178
+93060,60,Male,Yes,Month-to-Month,Yes,65,109.15,4,1179
+94707,25,Female,No,One Year,No,57,74.6,27,1180
+95493,33,Male,No,Month-to-Month,No,3,35.1,25,1181
+92782,73,Female,No,Two Year,Yes,70,104.45,13,1182
+92278,67,Male,No,One Year,No,55,60,23,1183
+91748,68,Male,Yes,Month-to-Month,Yes,13,106.9,11,1184
+94020,59,Female,No,Two Year,Yes,71,24.45,21,1185
+92548,32,Male,No,Month-to-Month,Yes,2,54.45,19,1186
+96091,71,Female,Yes,Month-to-Month,Yes,14,100.2,19,1187
+95326,49,Female,Yes,Month-to-Month,No,9,71,9,1188
+96086,77,Male,No,Two Year,Yes,17,101.8,25,1189
+94587,54,Female,Yes,Month-to-Month,Yes,31,89.9,11,1190
+92057,58,Female,No,One Year,Yes,61,115.1,7,1191
+93662,74,Male,Yes,Month-to-Month,Yes,7,95.6,11,1192
+95821,39,Male,No,One Year,Yes,43,19.2,21,1193
+90064,60,Female,No,Two Year,No,61,88.65,22,1194
+93405,76,Female,No,Two Year,No,52,108.1,18,1195
+93933,43,Female,Yes,Month-to-Month,Yes,15,101.25,26,1196
+95658,73,Female,Yes,Month-to-Month,Yes,2,30.4,13,1197
+96134,27,Male,No,Month-to-Month,Yes,10,24.4,21,1198
+96021,62,Female,No,Month-to-Month,Yes,5,19.65,21,1199
+95124,59,Female,No,One Year,Yes,50,82.5,2,1200
+94611,44,Female,Yes,One Year,No,32,84.05,14,1201
+95943,36,Male,No,Month-to-Month,No,38,91.7,9,1202
+95366,68,Female,No,Two Year,Yes,54,18.95,21,1203
+96024,45,Female,Yes,Month-to-Month,Yes,2,70.95,26,1204
+94704,49,Male,No,One Year,No,15,19.8,21,1205
+93312,29,Female,No,Month-to-Month,No,1,20.4,21,1206
+91302,32,Male,No,One Year,Yes,66,25.7,21,1207
+92342,78,Male,No,One Year,Yes,61,85.55,23,1208
+95630,50,Male,No,One Year,Yes,28,91.25,12,1209
+91948,57,Male,No,Month-to-Month,Yes,24,84.85,14,1210
+94574,79,Male,No,One Year,Yes,67,60.95,12,1211
+92346,64,Female,No,Month-to-Month,No,3,20.2,21,1212
+94610,33,Male,No,Month-to-Month,Yes,4,40.05,13,1213
+91741,64,Male,No,One Year,No,7,20.65,21,1214
+92648,78,Male,Yes,Month-to-Month,Yes,16,71.8,5,1215
+93444,77,Male,Yes,Month-to-Month,No,32,106.35,3,1216
+90011,69,Female,No,Two Year,Yes,65,108.8,9,1217
+91905,49,Male,No,Two Year,No,46,19.2,21,1218
+95563,61,Female,No,Two Year,No,33,20.1,21,1219
+95721,52,Female,No,Two Year,No,58,19.55,21,1220
+94929,38,Female,No,Two Year,No,71,93.2,23,1221
+90803,33,Female,No,Month-to-Month,Yes,8,68.55,17,1222
+95618,73,Female,Yes,Month-to-Month,Yes,13,95.05,24,1223
+96008,53,Male,No,Month-to-Month,Yes,30,50,6,1224
+91303,31,Male,No,Month-to-Month,No,11,86.2,10,1225
+95121,55,Male,Yes,Month-to-Month,Yes,1,23.45,21,1226
+93207,49,Male,Yes,Month-to-Month,Yes,7,69.95,3,1227
+95606,44,Male,Yes,Month-to-Month,No,1,89.15,18,1228
+92309,47,Female,Yes,Month-to-Month,Yes,4,33.65,4,1229
+94938,44,Female,No,Month-to-Month,No,3,18.8,21,1230
+92358,61,Male,Yes,Month-to-Month,Yes,7,99.8,2,1231
+92240,51,Female,No,Two Year,No,27,24.5,21,1232
+94545,58,Female,Yes,Month-to-Month,Yes,31,79.85,12,1233
+95232,38,Female,No,Two Year,Yes,72,109.5,19,1234
+90814,23,Male,Yes,Month-to-Month,Yes,7,85.2,26,1235
+93720,69,Male,No,Two Year,No,71,24.85,21,1236
+95335,55,Male,No,Month-to-Month,Yes,2,19.65,21,1237
+93604,27,Female,No,Month-to-Month,Yes,10,20.9,21,1238
+93247,47,Female,Yes,Month-to-Month,No,4,45.65,27,1239
+94607,27,Male,Yes,One Year,No,12,53.65,26,1240
+95615,76,Male,No,Two Year,Yes,38,80.45,27,1241
+93703,54,Male,No,Month-to-Month,Yes,14,55.5,21,1242
+90254,48,Female,No,One Year,Yes,45,25.9,21,1243
+90063,40,Female,Yes,Month-to-Month,No,1,59.2,24,1244
+95301,61,Female,No,Month-to-Month,Yes,67,53.4,11,1245
+90601,35,Male,No,Two Year,No,63,75.7,21,1246
+94024,40,Female,Yes,Month-to-Month,No,6,83.9,24,1247
+93230,52,Female,No,Two Year,Yes,72,70.45,19,1248
+90019,40,Female,No,Two Year,No,64,25.55,21,1249
+95841,62,Female,No,One Year,No,41,50.05,12,1250
+93455,43,Male,No,Month-to-Month,No,9,54.8,24,1251
+92234,76,Female,No,One Year,Yes,42,95.05,10,1252
+95350,62,Female,No,Month-to-Month,Yes,28,80.6,5,1253
+91362,49,Male,No,Month-to-Month,Yes,1,44.05,10,1254
+90061,42,Male,No,Two Year,No,72,92.3,5,1255
+94708,46,Female,No,Month-to-Month,No,11,76.4,20,1256
+91307,45,Female,No,Two Year,Yes,62,19.2,21,1257
+92008,49,Male,No,Two Year,Yes,71,19.9,21,1258
+92086,30,Female,No,Month-to-Month,No,5,20.15,21,1259
+91040,78,Male,No,Two Year,Yes,65,85.75,23,1260
+95476,58,Male,No,Month-to-Month,No,9,75.6,6,1261
+91011,74,Male,Yes,Month-to-Month,Yes,37,92.5,4,1262
+95060,62,Male,No,Month-to-Month,Yes,19,61.55,8,1263
+95376,55,Female,No,One Year,Yes,31,64,15,1264
+95673,69,Female,No,Two Year,Yes,56,96.85,18,1265
+94118,35,Male,No,Month-to-Month,Yes,3,70.3,27,1266
+92102,74,Male,No,Two Year,No,49,49.8,15,1267
+92339,35,Female,No,Two Year,Yes,64,99,11,1268
+91351,33,Male,No,Month-to-Month,No,11,20.95,21,1269
+94605,56,Female,No,Month-to-Month,No,1,49.5,8,1270
+94122,44,Female,Yes,Month-to-Month,Yes,1,54.75,12,1271
+90731,53,Female,Yes,Month-to-Month,No,8,71.15,18,1272
+92806,42,Female,No,Month-to-Month,Yes,3,74.95,8,1273
+90266,27,Male,No,One Year,No,20,20.65,21,1274
+95603,51,Female,No,Two Year,No,67,65.65,22,1275
+92376,56,Male,No,Month-to-Month,No,24,53.6,3,1276
+92327,54,Female,Yes,Month-to-Month,No,1,69.55,13,1277
+94062,74,Female,No,One Year,Yes,35,110.8,22,1278
+94563,49,Male,No,Month-to-Month,Yes,9,88.05,21,1279
+96108,31,Female,No,Month-to-Month,Yes,4,100.85,3,1280
+90404,66,Female,No,One Year,No,55,76.25,19,1281
+92252,54,Male,No,Month-to-Month,No,51,81,11,1282
+95441,31,Male,No,Month-to-Month,Yes,51,44.45,2,1283
+95054,41,Male,Yes,Month-to-Month,No,31,35.4,23,1284
+93022,73,Female,Yes,Month-to-Month,Yes,3,86.85,20,1285
+90006,21,Male,No,Month-to-Month,Yes,35,25.6,21,1286
+92260,55,Female,No,One Year,Yes,46,24.45,21,1287
+95625,73,Male,No,Two Year,No,67,25.1,21,1288
+95938,46,Female,No,Month-to-Month,Yes,10,19.8,21,1289
+92356,66,Female,Yes,Month-to-Month,Yes,1,55.8,22,1290
+92411,55,Female,No,One Year,No,21,64.85,15,1291
+95231,41,Male,No,Month-to-Month,Yes,8,66.65,27,1292
+93901,49,Male,Yes,Month-to-Month,Yes,6,74.9,11,1293
+94939,37,Female,No,Two Year,No,72,25.65,21,1294
+95002,34,Female,No,Month-to-Month,No,2,24.5,5,1295
+93429,47,Female,Yes,Month-to-Month,Yes,1,20.5,21,1296
+92567,51,Male,No,Month-to-Month,No,24,81,26,1297
+92662,63,Female,Yes,Month-to-Month,Yes,7,86.25,26,1298
+95537,33,Male,Yes,Month-to-Month,Yes,3,79.65,17,1299
+95632,63,Male,No,Month-to-Month,No,1,19.85,21,1300
+96117,42,Female,No,Two Year,Yes,65,79.4,13,1301
+96118,59,Male,No,Month-to-Month,Yes,15,103.45,13,1302
+93276,46,Female,No,Two Year,No,68,114.9,21,1303
+92557,74,Male,No,Two Year,Yes,50,75.15,18,1304
+93544,53,Male,No,Month-to-Month,No,10,35.75,22,1305
+95993,24,Female,No,Month-to-Month,Yes,26,29.8,27,1306
+91436,57,Female,No,One Year,Yes,10,19.8,21,1307
+91321,72,Female,No,One Year,Yes,70,105.55,24,1308
+93428,70,Male,No,Two Year,Yes,72,64.95,7,1309
+95338,48,Male,No,Month-to-Month,No,7,74.35,23,1310
+91401,36,Female,No,One Year,Yes,53,108.95,20,1311
+95971,47,Female,Yes,Month-to-Month,Yes,1,55,26,1312
+96025,63,Female,No,One Year,No,17,20.05,21,1313
+94131,41,Male,No,Two Year,No,48,20.15,21,1314
+94925,37,Female,No,Month-to-Month,Yes,1,24.9,13,1315
+94606,61,Male,No,One Year,Yes,56,75.75,13,1316
+93420,37,Male,No,Month-to-Month,Yes,1,44.75,26,1317
+92530,64,Male,No,One Year,No,34,116.25,13,1318
+93244,49,Male,Yes,Month-to-Month,Yes,23,104.05,2,1319
+93311,26,Male,No,Month-to-Month,Yes,4,19.85,21,1320
+95449,55,Male,No,Month-to-Month,No,54,89.8,24,1321
+90660,72,Female,Yes,Month-to-Month,Yes,27,78.05,18,1322
+92595,55,Male,No,Two Year,Yes,69,99.35,21,1323
+92325,70,Male,Yes,Month-to-Month,Yes,2,93.85,14,1324
+92019,32,Female,No,One Year,Yes,20,19.35,21,1325
+94523,44,Male,Yes,Month-to-Month,Yes,61,105.55,24,1326
+90704,53,Male,No,Month-to-Month,Yes,2,71.3,3,1327
+91740,41,Male,No,Month-to-Month,No,7,43.9,6,1328
+93234,40,Male,Yes,One Year,No,2,19.85,21,1329
+91006,54,Female,No,Month-to-Month,Yes,2,69.7,8,1330
+90002,56,Male,No,Month-to-Month,Yes,13,20.4,21,1331
+91763,64,Female,Yes,Month-to-Month,No,1,69.7,25,1332
+91342,67,Female,Yes,Month-to-Month,Yes,38,57.15,27,1333
+92532,73,Female,No,Two Year,Yes,71,80.7,17,1334
+95311,57,Male,No,One Year,No,42,20.25,21,1335
+95825,52,Male,No,Two Year,Yes,56,25.95,21,1336
+95385,58,Male,No,One Year,Yes,54,105.85,11,1337
+93203,59,Female,No,One Year,No,9,20.25,21,1338
+95960,48,Male,No,One Year,Yes,8,43.45,24,1339
+95431,60,Female,Yes,Month-to-Month,Yes,10,80.05,10,1340
+91601,35,Female,Yes,Month-to-Month,No,16,72.65,17,1341
+95372,69,Male,Yes,Month-to-Month,Yes,70,102.95,20,1342
+93067,75,Male,Yes,Month-to-Month,No,49,90.05,14,1343
+95963,45,Male,No,One Year,Yes,52,68.75,19,1344
+93204,57,Female,Yes,Month-to-Month,No,43,56.15,20,1345
+94539,24,Female,Yes,Month-to-Month,Yes,1,19.6,21,1346
+91206,57,Male,Yes,One Year,No,56,24.9,21,1347
+90042,23,Female,No,One Year,No,16,20.1,21,1348
+95412,37,Female,No,Two Year,Yes,72,26.25,21,1349
+95210,72,Female,No,Two Year,No,69,110.25,27,1350
+90603,37,Male,Yes,One Year,Yes,35,85.15,16,1351
+93015,34,Male,No,Two Year,Yes,70,74.8,5,1352
+94028,42,Male,No,Month-to-Month,Yes,1,20.05,21,1353
+96023,54,Male,No,Month-to-Month,Yes,12,67.25,4,1354
+92651,80,Male,No,One Year,Yes,50,101.9,17,1355
+95252,60,Female,No,Month-to-Month,No,3,19.55,21,1356
+94105,26,Female,No,Month-to-Month,No,8,19.95,21,1357
+92707,50,Male,Yes,One Year,No,56,100.3,7,1358
+92352,52,Male,No,Month-to-Month,No,6,19.65,21,1359
+95953,69,Male,No,Month-to-Month,Yes,50,70.35,23,1360
+95457,59,Male,No,One Year,No,36,60.7,24,1361
+96140,55,Male,Yes,Month-to-Month,Yes,26,98.35,27,1362
+90022,39,Male,No,Two Year,No,72,72.1,18,1363
+94951,51,Male,No,Two Year,No,63,79.8,20,1364
+95436,49,Female,No,Month-to-Month,Yes,2,80.15,23,1365
+94937,47,Female,Yes,Month-to-Month,Yes,1,50.1,14,1366
+95020,77,Female,No,One Year,No,37,19.6,21,1367
+94304,68,Female,Yes,Month-to-Month,Yes,4,84.6,17,1368
+96034,43,Male,No,Two Year,Yes,72,75.4,18,1369
+95469,34,Female,No,One Year,Yes,59,80.1,13,1370
+95134,33,Female,No,Month-to-Month,Yes,43,94.1,11,1371
+90277,32,Male,No,Month-to-Month,No,30,82.05,21,1372
+92653,48,Female,No,One Year,No,12,30.25,22,1373
+93645,65,Male,No,One Year,No,5,20.05,21,1374
+94132,80,Male,Yes,One Year,Yes,46,59.9,15,1375
+94517,45,Male,Yes,Month-to-Month,No,1,20.2,21,1376
+91768,32,Female,No,Month-to-Month,No,40,65.1,26,1377
+95422,32,Male,No,Two Year,No,19,20.2,21,1378
+91423,62,Male,No,Month-to-Month,Yes,30,89.9,2,1379
+90262,25,Female,No,One Year,Yes,10,19.3,21,1380
+95456,25,Female,No,Two Year,Yes,72,20.1,21,1381
+96057,59,Female,No,One Year,No,61,43.7,8,1382
+95039,66,Male,Yes,Month-to-Month,Yes,1,86.05,23,1383
+95246,43,Male,Yes,Month-to-Month,No,29,94.65,15,1384
+94121,65,Female,Yes,Month-to-Month,Yes,1,86,22,1385
+95465,80,Female,No,Two Year,No,57,101.3,17,1386
+96075,46,Female,No,Two Year,Yes,61,61.45,26,1387
+95962,29,Female,No,One Year,Yes,50,19.35,21,1388
+94306,39,Male,Yes,One Year,Yes,11,41.6,5,1389
+96142,76,Male,No,Two Year,No,72,109.7,3,1390
+93201,80,Male,Yes,One Year,Yes,56,104.55,12,1391
+91759,51,Female,No,Month-to-Month,Yes,31,49.2,15,1392
+93030,61,Female,Yes,Month-to-Month,Yes,1,53.55,14,1393
+96044,54,Female,No,Month-to-Month,Yes,13,71.95,5,1394
+93560,56,Female,No,Month-to-Month,Yes,10,19.9,21,1395
+93266,37,Male,No,Month-to-Month,Yes,3,64.4,7,1396
+96133,33,Female,No,Two Year,Yes,71,84.4,26,1397
+93265,35,Female,No,Month-to-Month,No,57,65.2,15,1398
+92647,48,Male,No,Month-to-Month,No,17,25.1,11,1399
+93608,40,Male,No,Two Year,No,72,55.3,27,1400
+95627,39,Female,No,Month-to-Month,Yes,9,75.85,20,1401
+94963,46,Female,No,Month-to-Month,Yes,20,18.9,21,1402
+92203,57,Female,No,One Year,No,38,84.1,13,1403
+92561,52,Female,No,One Year,No,13,20.2,21,1404
+91745,69,Female,No,One Year,Yes,29,45,23,1405
+95129,49,Female,No,Month-to-Month,No,32,61.4,17,1406
+94002,58,Female,Yes,Month-to-Month,Yes,60,50.8,5,1407
+95925,37,Female,Yes,Month-to-Month,Yes,1,45.3,26,1408
+95122,54,Female,No,One Year,No,10,64.9,5,1409
+90670,36,Female,No,Month-to-Month,Yes,2,91.15,12,1410
+96076,45,Female,No,Month-to-Month,No,24,56.35,4,1411
+92009,61,Female,No,Two Year,No,60,53.6,4,1412
+95485,62,Male,No,Month-to-Month,Yes,49,90.4,20,1413
+94950,47,Male,No,Month-to-Month,No,8,29.35,8,1414
+95984,34,Female,Yes,Month-to-Month,Yes,1,69.8,13,1415
+91978,44,Male,No,Month-to-Month,No,54,89.4,15,1416
+94602,52,Female,No,One Year,Yes,59,109.15,4,1417
+92399,50,Female,No,One Year,Yes,72,108.5,16,1418
+95951,48,Female,Yes,Month-to-Month,Yes,4,46,16,1419
+92114,34,Female,No,Two Year,Yes,47,20.55,21,1420
+94124,31,Female,No,Month-to-Month,No,35,19.25,21,1421
+96009,52,Male,No,Two Year,Yes,63,104.75,21,1422
+93518,39,Female,Yes,Month-to-Month,Yes,1,75.7,21,1423
+92677,39,Female,No,Two Year,No,12,25.25,21,1424
+93631,66,Male,No,One Year,Yes,57,90.65,4,1425
+95462,56,Female,No,Month-to-Month,No,26,85.9,2,1426
+96058,55,Female,No,One Year,No,34,64.35,7,1427
+91205,50,Male,Yes,Month-to-Month,Yes,19,39.65,21,1428
+95864,31,Male,No,Month-to-Month,No,4,19,21,1429
+92262,62,Female,No,Month-to-Month,Yes,29,74.95,17,1430
+96052,65,Male,Yes,Month-to-Month,Yes,8,29.4,4,1431
+92802,24,Male,No,Two Year,No,45,20.35,21,1432
+95703,78,Female,Yes,Month-to-Month,Yes,2,85.55,25,1433
+93242,58,Male,No,Two Year,Yes,72,104.8,15,1434
+90805,44,Male,Yes,Month-to-Month,Yes,4,49.4,16,1435
+91340,35,Male,No,Two Year,Yes,46,20.1,21,1436
+90220,40,Female,No,Month-to-Month,Yes,53,48.7,25,1437
+93458,79,Male,No,Two Year,Yes,72,73.45,3,1438
+92115,45,Male,No,Two Year,No,37,61.45,27,1439
+92614,60,Male,No,Month-to-Month,Yes,12,89.55,22,1440
+92233,24,Male,No,Two Year,Yes,69,114.35,27,1441
+94103,22,Female,No,One Year,No,38,20.05,21,1442
+94519,39,Male,No,Month-to-Month,Yes,22,95.1,17,1443
+93627,30,Female,No,Two Year,No,71,24.55,21,1444
+95668,65,Female,Yes,Month-to-Month,Yes,4,99.8,10,1445
+93110,69,Male,Yes,Two Year,Yes,69,108.4,4,1446
+91320,49,Female,No,One Year,Yes,58,94.3,26,1447
+95127,34,Male,Yes,Month-to-Month,No,19,103.3,22,1448
+95317,34,Female,No,Two Year,No,41,19.3,21,1449
+95628,38,Female,No,Month-to-Month,Yes,33,60.9,24,1450
+95041,60,Female,No,Two Year,No,31,21,21,1451
+96090,50,Male,No,Month-to-Month,Yes,22,93.2,17,1452
+91914,38,Female,No,One Year,Yes,70,90.25,3,1453
+95815,35,Female,No,One Year,No,17,20.15,21,1454
+92865,38,Female,No,Month-to-Month,No,11,70.5,12,1455
+95430,57,Female,No,Two Year,No,47,20.15,21,1456
+92316,61,Male,No,Month-to-Month,No,10,24.8,21,1457
+95120,54,Female,Yes,Month-to-Month,No,15,19.75,21,1458
+90249,62,Female,No,Month-to-Month,No,8,54.65,18,1459
+90640,77,Male,No,Two Year,Yes,72,25,21,1460
+93454,47,Male,No,One Year,No,4,19.95,21,1461
+95065,19,Female,Yes,Month-to-Month,No,1,20.95,21,1462
+95610,43,Female,No,Month-to-Month,Yes,9,19.5,21,1463
+93215,69,Female,Yes,Month-to-Month,No,2,89.5,19,1464
+92070,71,Female,No,Month-to-Month,Yes,60,105.9,25,1465
+95017,68,Male,Yes,Month-to-Month,No,27,36.5,25,1466
+93238,48,Female,Yes,Month-to-Month,Yes,4,24.25,16,1467
+92392,48,Male,No,Two Year,No,42,48.15,8,1468
+93625,72,Female,No,Two Year,Yes,70,75.65,3,1469
+92082,79,Male,No,Two Year,Yes,71,24.65,21,1470
+93108,53,Female,No,Month-to-Month,Yes,4,20.15,21,1471
+93529,50,Male,No,Two Year,No,66,19.7,21,1472
+93012,79,Male,No,One Year,Yes,52,104.45,11,1473
+92656,57,Female,No,One Year,Yes,28,59.9,11,1474
+92504,73,Male,No,One Year,No,61,64.05,20,1475
+95736,61,Female,No,One Year,Yes,40,50.25,6,1476
+93222,37,Male,No,Two Year,No,35,20.1,21,1477
+95336,44,Female,No,One Year,No,2,20.5,21,1478
+92377,45,Male,No,Month-to-Month,No,1,44.45,16,1479
+94556,34,Female,No,Month-to-Month,No,11,75.25,23,1480
+95551,54,Male,No,Month-to-Month,Yes,1,19.5,21,1481
+91786,71,Male,No,One Year,No,34,90.15,18,1482
+95420,58,Male,No,Two Year,Yes,72,115.8,6,1483
+93212,40,Male,No,Two Year,No,70,79.15,2,1484
+95934,33,Male,No,Month-to-Month,Yes,13,72.8,23,1485
+92075,39,Female,No,One Year,Yes,41,20.25,21,1486
+96062,59,Male,No,Two Year,No,48,26.3,21,1487
+94509,53,Male,No,One Year,Yes,71,109.6,9,1488
+92612,40,Male,No,Two Year,No,46,19.95,21,1489
+94599,36,Male,No,One Year,Yes,36,63.7,14,1490
+94526,36,Male,Yes,Month-to-Month,Yes,10,70.3,23,1491
+92705,78,Female,No,One Year,No,72,105,10,1492
+91355,39,Male,Yes,Month-to-Month,Yes,9,80.8,7,1493
+95842,46,Male,No,Two Year,No,41,20.15,21,1494
+92861,50,Male,No,One Year,No,22,20.25,21,1495
+95340,56,Female,No,Month-to-Month,Yes,3,70.15,15,1496
+92250,50,Male,No,Month-to-Month,No,18,19.25,21,1497
+92230,59,Female,No,Month-to-Month,Yes,32,98.85,22,1498
+93285,34,Female,No,Month-to-Month,No,33,20.05,21,1499
+95415,46,Male,No,Two Year,No,71,53.95,20,1500
+92563,44,Male,No,One Year,Yes,46,30.75,19,1501
+95914,32,Male,No,Month-to-Month,No,5,78.75,24,1502
+91710,28,Male,No,One Year,Yes,9,19.9,21,1503
+91203,37,Male,Yes,Month-to-Month,Yes,2,73.25,15,1504
+92332,50,Male,No,One Year,No,69,99.5,4,1505
+94510,39,Male,No,Month-to-Month,Yes,4,20.5,21,1506
+93960,42,Male,No,One Year,No,61,20.4,21,1507
+92110,58,Male,No,Month-to-Month,Yes,4,50.8,21,1508
+94044,77,Male,No,One Year,Yes,32,81.1,5,1509
+96088,35,Male,No,One Year,No,69,95.75,27,1510
+96119,68,Female,No,Two Year,Yes,30,90.05,27,1511
+92410,57,Female,No,Month-to-Month,No,9,20.25,21,1512
+93622,47,Female,No,Month-to-Month,Yes,20,25.55,21,1513
+95928,37,Male,Yes,One Year,Yes,31,79.45,3,1514
+95367,67,Female,Yes,Month-to-Month,Yes,11,95.15,22,1515
+93605,72,Female,No,Two Year,Yes,31,73.55,8,1516
+95322,77,Female,No,One Year,No,39,99.1,18,1517
+96006,70,Female,Yes,Month-to-Month,No,43,55.55,21,1518
+92108,38,Female,Yes,Month-to-Month,No,9,45.15,2,1519
+94564,68,Female,Yes,One Year,Yes,66,105.95,11,1520
+92007,46,Female,No,Two Year,No,72,85.3,21,1521
+96071,51,Female,No,Two Year,No,62,26,21,1522
+93267,33,Male,No,Month-to-Month,No,6,20.65,21,1523
+92704,40,Male,No,One Year,Yes,51,23.95,21,1524
+90808,33,Female,No,Month-to-Month,Yes,14,80.9,19,1525
+92543,44,Male,No,Two Year,No,34,20.05,21,1526
+92026,47,Female,No,One Year,Yes,33,79.15,18,1527
+92210,79,Female,Yes,Month-to-Month,Yes,50,88.05,4,1528
+93219,62,Male,No,One Year,No,15,55.2,11,1529
+95669,63,Female,Yes,Month-to-Month,Yes,1,44.45,22,1530
+93701,50,Male,No,Month-to-Month,No,24,60.45,4,1531
+92832,76,Female,No,Month-to-Month,No,14,78.85,2,1532
+92313,38,Female,No,Month-to-Month,Yes,48,29.5,16,1533
+96063,69,Female,Yes,Month-to-Month,Yes,42,104.75,12,1534
+95328,45,Male,No,Two Year,Yes,60,20.95,21,1535
+93401,36,Female,Yes,Month-to-Month,No,1,50.55,5,1536
+91335,75,Male,Yes,Month-to-Month,Yes,1,43.3,26,1537
+92154,38,Male,No,Month-to-Month,No,20,50,4,1538
+93668,42,Female,Yes,Month-to-Month,Yes,36,87.55,24,1539
+92014,73,Female,No,One Year,Yes,66,108.1,23,1540
+95334,29,Male,Yes,Month-to-Month,No,3,19.85,21,1541
+92676,53,Male,No,One Year,Yes,56,107.25,25,1542
+92586,47,Female,Yes,Month-to-Month,No,23,75.6,23,1543
+94559,71,Male,Yes,Month-to-Month,Yes,7,99.25,2,1544
+95819,56,Male,No,Month-to-Month,No,18,69.5,8,1545
+96092,39,Male,Yes,Month-to-Month,Yes,15,74.9,15,1546
+91505,62,Male,No,Month-to-Month,No,1,54.3,24,1547
+95051,38,Male,No,Month-to-Month,Yes,5,55.7,12,1548
+93465,35,Female,No,Month-to-Month,Yes,2,80.45,25,1549
+96112,50,Male,No,Two Year,No,70,72.95,25,1550
+95345,69,Male,No,Two Year,Yes,70,88.55,8,1551
+92374,50,Male,No,One Year,Yes,43,56.35,23,1552
+95726,48,Female,Yes,Month-to-Month,Yes,8,87.05,8,1553
+93440,80,Female,Yes,Month-to-Month,Yes,1,20.85,21,1554
+92397,67,Female,Yes,Month-to-Month,Yes,20,61.6,27,1555
+95944,64,Female,No,Month-to-Month,Yes,37,40.2,6,1556
+96132,46,Female,No,Month-to-Month,No,4,35,26,1557
+95677,37,Male,No,One Year,Yes,25,38.1,24,1558
+92335,30,Male,No,Month-to-Month,No,1,20.05,21,1559
+96074,75,Male,Yes,Month-to-Month,Yes,37,85.7,26,1560
+93635,23,Male,No,Month-to-Month,Yes,8,20.45,21,1561
+93224,53,Female,No,Month-to-Month,Yes,3,69.85,21,1562
+92118,35,Female,No,Month-to-Month,No,1,19.15,21,1563
+95361,45,Male,No,One Year,No,30,20.7,21,1564
+95651,57,Male,Yes,Two Year,Yes,71,108.6,11,1565
+93536,31,Male,Yes,Month-to-Month,Yes,3,70.3,11,1566
+92341,35,Male,No,Month-to-Month,Yes,33,93.35,7,1567
+94603,41,Male,No,Month-to-Month,Yes,9,95.9,3,1568
+91906,31,Male,No,Month-to-Month,Yes,1,49.8,11,1569
+93292,62,Male,No,Two Year,Yes,45,109.75,27,1570
+94595,38,Female,No,Two Year,No,14,18.8,21,1571
+95202,56,Male,No,Two Year,No,57,20.55,21,1572
+93602,45,Female,No,Month-to-Month,No,5,44.8,19,1573
+95678,33,Male,No,One Year,Yes,58,105.05,10,1574
+95076,34,Male,Yes,Month-to-Month,Yes,1,45.3,18,1575
+94538,61,Male,Yes,Month-to-Month,Yes,6,44.6,21,1576
+95237,32,Female,No,Two Year,No,62,48.7,26,1577
+95225,50,Male,No,Month-to-Month,No,22,75,19,1578
+94970,52,Female,No,One Year,No,25,20.05,21,1579
+92036,57,Male,Yes,Month-to-Month,Yes,5,80.15,19,1580
+93908,32,Female,No,Two Year,No,68,20.5,21,1581
+92539,54,Female,No,Month-to-Month,Yes,52,84.05,26,1582
+96061,40,Female,No,Two Year,No,26,19.65,21,1583
+92606,71,Male,No,One Year,Yes,45,98.7,20,1584
+95966,49,Female,Yes,Month-to-Month,Yes,2,42.6,21,1585
+93245,44,Male,No,Month-to-Month,No,11,90.6,19,1586
+95747,79,Male,No,One Year,No,54,65.25,6,1587
+94601,50,Male,Yes,Month-to-Month,Yes,42,99.45,9,1588
+93226,39,Male,No,Two Year,Yes,68,88.85,14,1589
+91934,34,Male,No,Month-to-Month,Yes,34,49.8,27,1590
+94010,78,Male,No,Two Year,Yes,12,73.3,24,1591
+94506,22,Female,No,One Year,No,33,24.15,21,1592
+92273,61,Male,No,One Year,No,23,40.65,19,1593
+96068,53,Female,Yes,Month-to-Month,Yes,42,77.95,18,1594
+90016,41,Female,No,Two Year,No,8,20.25,21,1595
+94706,62,Male,Yes,Month-to-Month,Yes,26,83.75,26,1596
+95608,56,Female,No,Month-to-Month,No,8,44.45,16,1597
+93905,45,Male,No,Two Year,No,57,18.8,21,1598
+95540,50,Male,No,Two Year,No,72,115.8,25,1599
+90293,58,Female,No,Two Year,No,54,20.05,21,1600
+96022,41,Male,No,One Year,Yes,48,70.55,8,1601
+90026,69,Female,No,One Year,No,22,25.6,21,1602
+95320,45,Female,No,Two Year,No,18,25.3,21,1603
+95838,38,Male,Yes,One Year,Yes,44,53.95,4,1604
+92887,38,Male,No,Two Year,No,72,24.8,21,1605
+92223,50,Male,No,Month-to-Month,Yes,44,90.4,16,1606
+93930,51,Female,No,Two Year,Yes,64,115.1,4,1607
+92386,40,Male,No,One Year,No,29,19.1,21,1608
+92882,42,Female,Yes,Month-to-Month,Yes,47,106.4,25,1609
+96080,32,Male,No,One Year,No,18,19.65,21,1610
+93013,42,Female,Yes,Month-to-Month,Yes,6,93.55,5,1611
+95251,65,Male,Yes,Month-to-Month,Yes,19,95.9,4,1612
+95956,76,Male,No,Two Year,No,39,90.7,3,1613
+92555,44,Female,Yes,Month-to-Month,Yes,3,74.25,27,1614
+95125,37,Male,No,Month-to-Month,No,6,50.05,13,1615
+92119,50,Female,Yes,One Year,Yes,54,70.15,12,1616
+93927,19,Male,No,Two Year,No,52,19.2,21,1617
+96150,47,Male,Yes,Month-to-Month,Yes,1,90.85,6,1618
+92336,62,Female,No,Two Year,No,63,63.55,27,1619
+91001,63,Male,No,Two Year,No,48,19.85,21,1620
+96015,75,Male,No,Two Year,Yes,6,80.8,17,1621

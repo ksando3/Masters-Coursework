@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/cfman/OneDrive/Desktop/WGUClasses/D602%20Deployment/Task%202/mlruns/608648207531864002/6b5371ad550f4860b6f0c9bb3674395e/artifacts
+end_time: 1737161786580
+entry_point_name: ''
+experiment_id: '608648207531864002'
+lifecycle_stage: active
+run_id: 6b5371ad550f4860b6f0c9bb3674395e
+run_name: calm-newt-589
+run_uuid: 6b5371ad550f4860b6f0c9bb3674395e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737161778376
+status: 4
+tags: []
+user_id: cfman

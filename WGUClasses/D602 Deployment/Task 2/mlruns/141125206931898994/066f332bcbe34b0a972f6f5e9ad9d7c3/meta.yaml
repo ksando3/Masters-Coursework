@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/cfman/OneDrive/Desktop/WGUClasses/D602%20Deployment/Task%202/mlruns/141125206931898994/066f332bcbe34b0a972f6f5e9ad9d7c3/artifacts
+end_time: 1737153096649
+entry_point_name: ''
+experiment_id: '141125206931898994'
+lifecycle_stage: active
+run_id: 066f332bcbe34b0a972f6f5e9ad9d7c3
+run_name: Final Model - Test Data
+run_uuid: 066f332bcbe34b0a972f6f5e9ad9d7c3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737153095614
+status: 3
+tags: []
+user_id: cfman

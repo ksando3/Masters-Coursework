@@ -1,0 +1,21 @@
+name: MLProject
+
+conda_env: pipeline_env.yaml
+
+channels:
+  - conda-forge
+
+dependencies:
+  - python=3.11.4
+  - pandas=1.5.3
+  - numpy=1.24.3
+  - seaborn=0.12.2
+  - matplotlib=3.7.1
+  - scikit-learn=1.3.0
+  - mlflow=2.19.0
+
+entry_points:
+  main:
+    parameters:
+      data_file: path
+    command: "python import_data.py && python export_data.py && python poly_regressor_Python_1.0.0.py"

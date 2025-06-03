@@ -1,0 +1,508 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+<title>D602 Deployment Task 3 activity</title>
+<link href="https://gitlab.com/wgu-gitlab-environment/student-repos/ksando10/d602-deployment-task-3.atom?feed_token=glft-6dfe29cb49512c2f02e1f3fae2ca4b315ae15a623b1ba70c49d295861c0687b0-25363606" rel="self" type="application/atom+xml"/>
+<link href="https://gitlab.com/wgu-gitlab-environment/student-repos/ksando10/d602-deployment-task-3" rel="alternate" type="text/html"/>
+<id>https://gitlab.com/wgu-gitlab-environment/student-repos/ksando10/d602-deployment-task-3</id>
+<updated>2025-01-31T22:15:24Z</updated>
+<entry>
+  <id>tag:gitlab.com,2025-01-31:3995619534</id>
+  <link href="https://gitlab.com/wgu-gitlab-environment/student-repos/ksando10/d602-deployment-task-3/-/commit/d1d1cc11ac3583aef6654a21a30f77c28e4fea0b"/>
+  <title>Kevin Sandoval pushed to project branch Task3_All_Files_Update1 at WGU GitLab Environment  / Student Repos / ksando10 / D602 Deployment Task 3</title>
+  <updated>2025-01-31T22:15:24Z</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/4e15695a69f2534a57960d26835d51df242684ea87fd59fbc999e10b97410aff?s=80&amp;d=identicon"/>
+  <author>
+    <username>ksando10</username>
+    <name>Kevin Sandoval</name>
+    <email/>
+  </author>
+  <summary type="xhtml">
+<div xmlns="http://www.w3.org/1999/xhtml">
+<p>
+<strong>Kevin Sandoval</strong>
+<a href="https://gitlab.com/wgu-gitlab-environment/student-repos/ksando10/d602-deployment-task-3/-/commit/d1d1cc11ac3583aef6654a21a30f77c28e4fea0b">(d1d1cc11)</a>
+<i>
+at
+31 Jan 22:15
+</i>
+</p>
+<div class="blockquote"><p dir="auto">Docker file used to create the image and container</p></div>
+</div>
+  </summary>
+</entry>
+<entry>
+  <id>tag:gitlab.com,2025-01-31:3995619181</id>
+  <link href="https://gitlab.com/wgu-gitlab-environment/student-repos/ksando10/d602-deployment-task-3/-/commit/26cd4686cc5463aa58a9ea3ebfe983bcdc18bced"/>
+  <title>Kevin Sandoval pushed to project branch Task3_All_Files_Update1 at WGU GitLab Environment  / Student Repos / ksando10 / D602 Deployment Task 3</title>
+  <updated>2025-01-31T22:15:05Z</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/4e15695a69f2534a57960d26835d51df242684ea87fd59fbc999e10b97410aff?s=80&amp;d=identicon"/>
+  <author>
+    <username>ksando10</username>
+    <name>Kevin Sandoval</name>
+    <email/>
+  </author>
+  <summary type="xhtml">
+<div xmlns="http://www.w3.org/1999/xhtml">
+<p>
+<strong>Kevin Sandoval</strong>
+<a href="https://gitlab.com/wgu-gitlab-environment/student-repos/ksando10/d602-deployment-task-3/-/commit/26cd4686cc5463aa58a9ea3ebfe983bcdc18bced">(26cd4686)</a>
+<i>
+at
+31 Jan 22:15
+</i>
+</p>
+<div class="blockquote"><p dir="auto">Main file</p></div>
+</div>
+  </summary>
+</entry>
+<entry>
+  <id>tag:gitlab.com,2025-01-31:3995618339</id>
+  <link href="https://gitlab.com/wgu-gitlab-environment/student-repos/ksando10/d602-deployment-task-3/-/commit/8a037e06bcbb58bac1d2448f99247eb192973172"/>
+  <title>Kevin Sandoval pushed to project branch Task3_All_Files_Update1 at WGU GitLab Environment  / Student Repos / ksando10 / D602 Deployment Task 3</title>
+  <updated>2025-01-31T22:14:15Z</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/4e15695a69f2534a57960d26835d51df242684ea87fd59fbc999e10b97410aff?s=80&amp;d=identicon"/>
+  <author>
+    <username>ksando10</username>
+    <name>Kevin Sandoval</name>
+    <email/>
+  </author>
+  <summary type="xhtml">
+<div xmlns="http://www.w3.org/1999/xhtml">
+<p>
+<strong>Kevin Sandoval</strong>
+<a href="https://gitlab.com/wgu-gitlab-environment/student-repos/ksando10/d602-deployment-task-3/-/commit/8a037e06bcbb58bac1d2448f99247eb192973172">(8a037e06)</a>
+<i>
+at
+31 Jan 22:14
+</i>
+</p>
+<div class="blockquote"><p dir="auto">docker ignore file</p></div>
+</div>
+  </summary>
+</entry>
+<entry>
+  <id>tag:gitlab.com,2025-01-31:3995618070</id>
+  <link href="https://gitlab.com/wgu-gitlab-environment/student-repos/ksando10/d602-deployment-task-3/-/commit/9aa4567c06a1d17eeb33db718fee9000b21b1345"/>
+  <title>Kevin Sandoval pushed to project branch Task3_All_Files_Update1 at WGU GitLab Environment  / Student Repos / ksando10 / D602 Deployment Task 3</title>
+  <updated>2025-01-31T22:13:58Z</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/4e15695a69f2534a57960d26835d51df242684ea87fd59fbc999e10b97410aff?s=80&amp;d=identicon"/>
+  <author>
+    <username>ksando10</username>
+    <name>Kevin Sandoval</name>
+    <email/>
+  </author>
+  <summary type="xhtml">
+<div xmlns="http://www.w3.org/1999/xhtml">
+<p>
+<strong>Kevin Sandoval</strong>
+<a href="https://gitlab.com/wgu-gitlab-environment/student-repos/ksando10/d602-deployment-task-3/-/commit/9aa4567c06a1d17eeb33db718fee9000b21b1345">(9aa4567c)</a>
+<i>
+at
+31 Jan 22:13
+</i>
+</p>
+<div class="blockquote"><p dir="auto">.gitignore file</p></div>
+</div>
+  </summary>
+</entry>
+<entry>
+  <id>tag:gitlab.com,2025-01-31:3995617777</id>
+  <link href="https://gitlab.com/wgu-gitlab-environment/student-repos/ksando10/d602-deployment-task-3/-/commit/baaa1100a091ba0ac66b4a2f87ddf48b8d3330d9"/>
+  <title>Kevin Sandoval pushed to project branch Task3_All_Files_Update1 at WGU GitLab Environment  / Student Repos / ksando10 / D602 Deployment Task 3</title>
+  <updated>2025-01-31T22:13:43Z</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/4e15695a69f2534a57960d26835d51df242684ea87fd59fbc999e10b97410aff?s=80&amp;d=identicon"/>
+  <author>
+    <username>ksando10</username>
+    <name>Kevin Sandoval</name>
+    <email/>
+  </author>
+  <summary type="xhtml">
+<div xmlns="http://www.w3.org/1999/xhtml">
+<p>
+<strong>Kevin Sandoval</strong>
+<a href="https://gitlab.com/wgu-gitlab-environment/student-repos/ksando10/d602-deployment-task-3/-/commit/baaa1100a091ba0ac66b4a2f87ddf48b8d3330d9">(baaa1100)</a>
+<i>
+at
+31 Jan 22:13
+</i>
+</p>
+<div class="blockquote"><p dir="auto">Airport Encodings file from Task 2</p></div>
+</div>
+  </summary>
+</entry>
+<entry>
+  <id>tag:gitlab.com,2025-01-31:3995617436</id>
+  <link href="https://gitlab.com/wgu-gitlab-environment/student-repos/ksando10/d602-deployment-task-3/-/commit/16c0656b699e94f96ebee2615976e75148d3d85f"/>
+  <title>Kevin Sandoval pushed to project branch Task3_All_Files_Update1 at WGU GitLab Environment  / Student Repos / ksando10 / D602 Deployment Task 3</title>
+  <updated>2025-01-31T22:13:24Z</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/4e15695a69f2534a57960d26835d51df242684ea87fd59fbc999e10b97410aff?s=80&amp;d=identicon"/>
+  <author>
+    <username>ksando10</username>
+    <name>Kevin Sandoval</name>
+    <email/>
+  </author>
+  <summary type="xhtml">
+<div xmlns="http://www.w3.org/1999/xhtml">
+<p>
+<strong>Kevin Sandoval</strong>
+<a href="https://gitlab.com/wgu-gitlab-environment/student-repos/ksando10/d602-deployment-task-3/-/commit/16c0656b699e94f96ebee2615976e75148d3d85f">(16c0656b)</a>
+<i>
+at
+31 Jan 22:13
+</i>
+</p>
+<div class="blockquote"><p dir="auto">Pickle file of the finalized model from Task 2</p></div>
+</div>
+  </summary>
+</entry>
+<entry>
+  <id>tag:gitlab.com,2025-01-31:3995616954</id>
+  <link href="https://gitlab.com/wgu-gitlab-environment/student-repos/ksando10/d602-deployment-task-3/-/commit/216f72971b0f846c195e29820308e71483b5f5c8"/>
+  <title>Kevin Sandoval pushed to project branch Task3_All_Files_Update1 at WGU GitLab Environment  / Student Repos / ksando10 / D602 Deployment Task 3</title>
+  <updated>2025-01-31T22:12:57Z</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/4e15695a69f2534a57960d26835d51df242684ea87fd59fbc999e10b97410aff?s=80&amp;d=identicon"/>
+  <author>
+    <username>ksando10</username>
+    <name>Kevin Sandoval</name>
+    <email/>
+  </author>
+  <summary type="xhtml">
+<div xmlns="http://www.w3.org/1999/xhtml">
+<p>
+<strong>Kevin Sandoval</strong>
+<a href="https://gitlab.com/wgu-gitlab-environment/student-repos/ksando10/d602-deployment-task-3/-/commit/216f72971b0f846c195e29820308e71483b5f5c8">(216f7297)</a>
+<i>
+at
+31 Jan 22:12
+</i>
+</p>
+<div class="blockquote"><p dir="auto">Python file of manual unit tests</p></div>
+</div>
+  </summary>
+</entry>
+<entry>
+  <id>tag:gitlab.com,2025-01-31:3995616285</id>
+  <link href="https://gitlab.com/wgu-gitlab-environment/student-repos/ksando10/d602-deployment-task-3/-/commit/4640de2dea91e57c1babdd967b4d3bc5e8ddde4e"/>
+  <title>Kevin Sandoval pushed to project branch Task3_All_Files_Update1 at WGU GitLab Environment  / Student Repos / ksando10 / D602 Deployment Task 3</title>
+  <updated>2025-01-31T22:12:22Z</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/4e15695a69f2534a57960d26835d51df242684ea87fd59fbc999e10b97410aff?s=80&amp;d=identicon"/>
+  <author>
+    <username>ksando10</username>
+    <name>Kevin Sandoval</name>
+    <email/>
+  </author>
+  <summary type="xhtml">
+<div xmlns="http://www.w3.org/1999/xhtml">
+<p>
+<strong>Kevin Sandoval</strong>
+<a href="https://gitlab.com/wgu-gitlab-environment/student-repos/ksando10/d602-deployment-task-3/-/commit/4640de2dea91e57c1babdd967b4d3bc5e8ddde4e">(4640de2d)</a>
+<i>
+at
+31 Jan 22:12
+</i>
+</p>
+<div class="blockquote"><p dir="auto">Replace requirements.txt</p></div>
+</div>
+  </summary>
+</entry>
+<entry>
+  <id>tag:gitlab.com,2025-01-31:3995615618</id>
+  <link href="https://gitlab.com/wgu-gitlab-environment/student-repos/ksando10/d602-deployment-task-3/-/commits/Task3_All_Files_Update1"/>
+  <title>Kevin Sandoval pushed new project branch Task3_All_Files_Update1 at WGU GitLab Environment  / Student Repos / ksando10 / D602 Deployment Task 3</title>
+  <updated>2025-01-31T22:11:47Z</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/4e15695a69f2534a57960d26835d51df242684ea87fd59fbc999e10b97410aff?s=80&amp;d=identicon"/>
+  <author>
+    <username>ksando10</username>
+    <name>Kevin Sandoval</name>
+    <email/>
+  </author>
+  <summary type="xhtml">
+<div xmlns="http://www.w3.org/1999/xhtml">
+<p>
+<strong>Kevin Sandoval</strong>
+<a href="https://gitlab.com/wgu-gitlab-environment/student-repos/ksando10/d602-deployment-task-3/-/commits/Task3_All_Files_Update1">(678e62f8)</a>
+<i>
+at
+31 Jan 22:11
+</i>
+</p>
+<div class="blockquote"></div>
+</div>
+  </summary>
+</entry>
+<entry>
+  <id>tag:gitlab.com,2025-01-31:3993030430</id>
+  <link href="https://gitlab.com/wgu-gitlab-environment/student-repos/ksando10/d602-deployment-task-3/-/commit/d928b81b83785d7253f7079d5afeeb35fba5a37b"/>
+  <title>Kevin Sandoval pushed to project branch Task3_PartC_Update2 at WGU GitLab Environment  / Student Repos / ksando10 / D602 Deployment Task 3</title>
+  <updated>2025-01-31T01:12:40Z</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/4e15695a69f2534a57960d26835d51df242684ea87fd59fbc999e10b97410aff?s=80&amp;d=identicon"/>
+  <author>
+    <username>ksando10</username>
+    <name>Kevin Sandoval</name>
+    <email/>
+  </author>
+  <summary type="xhtml">
+<div xmlns="http://www.w3.org/1999/xhtml">
+<p>
+<strong>Kevin Sandoval</strong>
+<a href="https://gitlab.com/wgu-gitlab-environment/student-repos/ksando10/d602-deployment-task-3/-/commit/d928b81b83785d7253f7079d5afeeb35fba5a37b">(d928b81b)</a>
+<i>
+at
+31 Jan 01:12
+</i>
+</p>
+<div class="blockquote"><p dir="auto">updated test_predictions file</p></div>
+</div>
+  </summary>
+</entry>
+<entry>
+  <id>tag:gitlab.com,2025-01-31:3993029978</id>
+  <link href="https://gitlab.com/wgu-gitlab-environment/student-repos/ksando10/d602-deployment-task-3/-/commits/Task3_PartC_Update2"/>
+  <title>Kevin Sandoval pushed new project branch Task3_PartC_Update2 at WGU GitLab Environment  / Student Repos / ksando10 / D602 Deployment Task 3</title>
+  <updated>2025-01-31T01:12:19Z</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/4e15695a69f2534a57960d26835d51df242684ea87fd59fbc999e10b97410aff?s=80&amp;d=identicon"/>
+  <author>
+    <username>ksando10</username>
+    <name>Kevin Sandoval</name>
+    <email/>
+  </author>
+  <summary type="xhtml">
+<div xmlns="http://www.w3.org/1999/xhtml">
+<p>
+<strong>Kevin Sandoval</strong>
+<a href="https://gitlab.com/wgu-gitlab-environment/student-repos/ksando10/d602-deployment-task-3/-/commits/Task3_PartC_Update2">(678e62f8)</a>
+<i>
+at
+31 Jan 01:12
+</i>
+</p>
+<div class="blockquote"></div>
+</div>
+  </summary>
+</entry>
+<entry>
+  <id>tag:gitlab.com,2025-01-31:3993029220</id>
+  <link href="https://gitlab.com/wgu-gitlab-environment/student-repos/ksando10/d602-deployment-task-3/-/commit/d81ee4b78511d2a4d5e98dbb80d086e311789a78"/>
+  <title>Kevin Sandoval pushed to project branch Task3_PartC_Update1 at WGU GitLab Environment  / Student Repos / ksando10 / D602 Deployment Task 3</title>
+  <updated>2025-01-31T01:11:43Z</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/4e15695a69f2534a57960d26835d51df242684ea87fd59fbc999e10b97410aff?s=80&amp;d=identicon"/>
+  <author>
+    <username>ksando10</username>
+    <name>Kevin Sandoval</name>
+    <email/>
+  </author>
+  <summary type="xhtml">
+<div xmlns="http://www.w3.org/1999/xhtml">
+<p>
+<strong>Kevin Sandoval</strong>
+<a href="https://gitlab.com/wgu-gitlab-environment/student-repos/ksando10/d602-deployment-task-3/-/commit/d81ee4b78511d2a4d5e98dbb80d086e311789a78">(d81ee4b7)</a>
+<i>
+at
+31 Jan 01:11
+</i>
+</p>
+<div class="blockquote"><p dir="auto">initial test file</p></div>
+</div>
+  </summary>
+</entry>
+<entry>
+  <id>tag:gitlab.com,2025-01-31:3993028837</id>
+  <link href="https://gitlab.com/wgu-gitlab-environment/student-repos/ksando10/d602-deployment-task-3/-/commits/Task3_PartC_Update1"/>
+  <title>Kevin Sandoval pushed new project branch Task3_PartC_Update1 at WGU GitLab Environment  / Student Repos / ksando10 / D602 Deployment Task 3</title>
+  <updated>2025-01-31T01:11:24Z</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/4e15695a69f2534a57960d26835d51df242684ea87fd59fbc999e10b97410aff?s=80&amp;d=identicon"/>
+  <author>
+    <username>ksando10</username>
+    <name>Kevin Sandoval</name>
+    <email/>
+  </author>
+  <summary type="xhtml">
+<div xmlns="http://www.w3.org/1999/xhtml">
+<p>
+<strong>Kevin Sandoval</strong>
+<a href="https://gitlab.com/wgu-gitlab-environment/student-repos/ksando10/d602-deployment-task-3/-/commits/Task3_PartC_Update1">(678e62f8)</a>
+<i>
+at
+31 Jan 01:11
+</i>
+</p>
+<div class="blockquote"></div>
+</div>
+  </summary>
+</entry>
+<entry>
+  <id>tag:gitlab.com,2025-01-30:3992870101</id>
+  <link href="https://gitlab.com/wgu-gitlab-environment/student-repos/ksando10/d602-deployment-task-3/-/commit/69a429c50acbec0c85e32a6f678f5c610b9f0e37"/>
+  <title>Kevin Sandoval pushed to project branch Task3_PartD_Update2 at WGU GitLab Environment  / Student Repos / ksando10 / D602 Deployment Task 3</title>
+  <updated>2025-01-30T22:52:38Z</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/4e15695a69f2534a57960d26835d51df242684ea87fd59fbc999e10b97410aff?s=80&amp;d=identicon"/>
+  <author>
+    <username>ksando10</username>
+    <name>Kevin Sandoval</name>
+    <email/>
+  </author>
+  <summary type="xhtml">
+<div xmlns="http://www.w3.org/1999/xhtml">
+<p>
+<strong>Kevin Sandoval</strong>
+<a href="https://gitlab.com/wgu-gitlab-environment/student-repos/ksando10/d602-deployment-task-3/-/commit/69a429c50acbec0c85e32a6f678f5c610b9f0e37">(69a429c5)</a>
+<i>
+at
+30 Jan 22:52
+</i>
+</p>
+<div class="blockquote"><p dir="auto">Upload New File</p></div>
+</div>
+  </summary>
+</entry>
+<entry>
+  <id>tag:gitlab.com,2025-01-30:3992869896</id>
+  <link href="https://gitlab.com/wgu-gitlab-environment/student-repos/ksando10/d602-deployment-task-3/-/commit/b2243f3cdbd50787ba7e500dfc5d5e8742cdac94"/>
+  <title>Kevin Sandoval pushed to project branch Task3_PartD_Update2 at WGU GitLab Environment  / Student Repos / ksando10 / D602 Deployment Task 3</title>
+  <updated>2025-01-30T22:52:28Z</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/4e15695a69f2534a57960d26835d51df242684ea87fd59fbc999e10b97410aff?s=80&amp;d=identicon"/>
+  <author>
+    <username>ksando10</username>
+    <name>Kevin Sandoval</name>
+    <email/>
+  </author>
+  <summary type="xhtml">
+<div xmlns="http://www.w3.org/1999/xhtml">
+<p>
+<strong>Kevin Sandoval</strong>
+<a href="https://gitlab.com/wgu-gitlab-environment/student-repos/ksando10/d602-deployment-task-3/-/commit/b2243f3cdbd50787ba7e500dfc5d5e8742cdac94">(b2243f3c)</a>
+<i>
+at
+30 Jan 22:52
+</i>
+</p>
+<div class="blockquote"><p dir="auto">Upload New File</p></div>
+</div>
+  </summary>
+</entry>
+<entry>
+  <id>tag:gitlab.com,2025-01-30:3992869585</id>
+  <link href="https://gitlab.com/wgu-gitlab-environment/student-repos/ksando10/d602-deployment-task-3/-/commit/f8a13ff2693769c8e4fb35f8fc380228e0f71500"/>
+  <title>Kevin Sandoval pushed to project branch Task3_PartD_Update2 at WGU GitLab Environment  / Student Repos / ksando10 / D602 Deployment Task 3</title>
+  <updated>2025-01-30T22:52:10Z</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/4e15695a69f2534a57960d26835d51df242684ea87fd59fbc999e10b97410aff?s=80&amp;d=identicon"/>
+  <author>
+    <username>ksando10</username>
+    <name>Kevin Sandoval</name>
+    <email/>
+  </author>
+  <summary type="xhtml">
+<div xmlns="http://www.w3.org/1999/xhtml">
+<p>
+<strong>Kevin Sandoval</strong>
+<a href="https://gitlab.com/wgu-gitlab-environment/student-repos/ksando10/d602-deployment-task-3/-/commit/f8a13ff2693769c8e4fb35f8fc380228e0f71500">(f8a13ff2)</a>
+<i>
+at
+30 Jan 22:52
+</i>
+</p>
+<div class="blockquote"><p dir="auto">finished docker file</p></div>
+</div>
+  </summary>
+</entry>
+<entry>
+  <id>tag:gitlab.com,2025-01-30:3992868860</id>
+  <link href="https://gitlab.com/wgu-gitlab-environment/student-repos/ksando10/d602-deployment-task-3/-/commit/9e9803814c748e8d370925677d3bf938b732bc01"/>
+  <title>Kevin Sandoval pushed to project branch Task3_PartD_Update2 at WGU GitLab Environment  / Student Repos / ksando10 / D602 Deployment Task 3</title>
+  <updated>2025-01-30T22:51:33Z</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/4e15695a69f2534a57960d26835d51df242684ea87fd59fbc999e10b97410aff?s=80&amp;d=identicon"/>
+  <author>
+    <username>ksando10</username>
+    <name>Kevin Sandoval</name>
+    <email/>
+  </author>
+  <summary type="xhtml">
+<div xmlns="http://www.w3.org/1999/xhtml">
+<p>
+<strong>Kevin Sandoval</strong>
+<a href="https://gitlab.com/wgu-gitlab-environment/student-repos/ksando10/d602-deployment-task-3/-/commit/9e9803814c748e8d370925677d3bf938b732bc01">(9e980381)</a>
+<i>
+at
+30 Jan 22:51
+</i>
+</p>
+<div class="blockquote"><p dir="auto">Replace requirements.txt</p></div>
+</div>
+  </summary>
+</entry>
+<entry>
+  <id>tag:gitlab.com,2025-01-30:3992868357</id>
+  <link href="https://gitlab.com/wgu-gitlab-environment/student-repos/ksando10/d602-deployment-task-3/-/commits/Task3_PartD_Update2"/>
+  <title>Kevin Sandoval pushed new project branch Task3_PartD_Update2 at WGU GitLab Environment  / Student Repos / ksando10 / D602 Deployment Task 3</title>
+  <updated>2025-01-30T22:51:08Z</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/4e15695a69f2534a57960d26835d51df242684ea87fd59fbc999e10b97410aff?s=80&amp;d=identicon"/>
+  <author>
+    <username>ksando10</username>
+    <name>Kevin Sandoval</name>
+    <email/>
+  </author>
+  <summary type="xhtml">
+<div xmlns="http://www.w3.org/1999/xhtml">
+<p>
+<strong>Kevin Sandoval</strong>
+<a href="https://gitlab.com/wgu-gitlab-environment/student-repos/ksando10/d602-deployment-task-3/-/commits/Task3_PartD_Update2">(678e62f8)</a>
+<i>
+at
+30 Jan 22:51
+</i>
+</p>
+<div class="blockquote"></div>
+</div>
+  </summary>
+</entry>
+<entry>
+  <id>tag:gitlab.com,2025-01-30:3992867964</id>
+  <link href="https://gitlab.com/wgu-gitlab-environment/student-repos/ksando10/d602-deployment-task-3/-/commit/9061d622b7cd3ea57e200a094b9964265c6f3acb"/>
+  <title>Kevin Sandoval pushed to project branch Task3_PartB_Update2 at WGU GitLab Environment  / Student Repos / ksando10 / D602 Deployment Task 3</title>
+  <updated>2025-01-30T22:50:50Z</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/4e15695a69f2534a57960d26835d51df242684ea87fd59fbc999e10b97410aff?s=80&amp;d=identicon"/>
+  <author>
+    <username>ksando10</username>
+    <name>Kevin Sandoval</name>
+    <email/>
+  </author>
+  <summary type="xhtml">
+<div xmlns="http://www.w3.org/1999/xhtml">
+<p>
+<strong>Kevin Sandoval</strong>
+<a href="https://gitlab.com/wgu-gitlab-environment/student-repos/ksando10/d602-deployment-task-3/-/commit/9061d622b7cd3ea57e200a094b9964265c6f3acb">(9061d622)</a>
+<i>
+at
+30 Jan 22:50
+</i>
+</p>
+<div class="blockquote"><p dir="auto">pickle file needed</p></div>
+</div>
+  </summary>
+</entry>
+<entry>
+  <id>tag:gitlab.com,2025-01-30:3992867603</id>
+  <link href="https://gitlab.com/wgu-gitlab-environment/student-repos/ksando10/d602-deployment-task-3/-/commit/101e920496d05e173a4fd096e2d5130743267ec8"/>
+  <title>Kevin Sandoval pushed to project branch Task3_PartB_Update2 at WGU GitLab Environment  / Student Repos / ksando10 / D602 Deployment Task 3</title>
+  <updated>2025-01-30T22:50:32Z</updated>
+  <media:thumbnail width="40" height="40" url="https://secure.gravatar.com/avatar/4e15695a69f2534a57960d26835d51df242684ea87fd59fbc999e10b97410aff?s=80&amp;d=identicon"/>
+  <author>
+    <username>ksando10</username>
+    <name>Kevin Sandoval</name>
+    <email/>
+  </author>
+  <summary type="xhtml">
+<div xmlns="http://www.w3.org/1999/xhtml">
+<p>
+<strong>Kevin Sandoval</strong>
+<a href="https://gitlab.com/wgu-gitlab-environment/student-repos/ksando10/d602-deployment-task-3/-/commit/101e920496d05e173a4fd096e2d5130743267ec8">(101e9204)</a>
+<i>
+at
+30 Jan 22:50
+</i>
+</p>
+<div class="blockquote"><p dir="auto">other separated file</p></div>
+</div>
+  </summary>
+</entry>
+</feed>

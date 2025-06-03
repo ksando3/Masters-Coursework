@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/cfman/OneDrive/Desktop/WGUClasses/D602%20Deployment/Task%202/mlruns/141125206931898994/38a472f70a514502b304398dfaca7414/artifacts
+end_time: 1737163490557
+entry_point_name: ''
+experiment_id: '141125206931898994'
+lifecycle_stage: active
+run_id: 38a472f70a514502b304398dfaca7414
+run_name: Run started at 17:24
+run_uuid: 38a472f70a514502b304398dfaca7414
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737163489432
+status: 3
+tags: []
+user_id: cfman
